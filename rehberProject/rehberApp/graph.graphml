@@ -1,0 +1,5596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="kategori" attr.type="string"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="sehir" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Halfeti Saklı Cennet">
+  <data key="d0">Şanlıurfa</data>
+  <data key="d1">37.24666667</data>
+  <data key="d2">37.87111111</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Yılankale">
+  <data key="d0">Adana</data>
+  <data key="d1">37.01416667</data>
+  <data key="d2">35.74722222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Anavarza ÖrenYeri">
+  <data key="d0">Adana</data>
+  <data key="d1">37.25138889</data>
+  <data key="d2">35.90333333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Taşköprü">
+  <data key="d0">Adana</data>
+  <data key="d1">36.98611111</data>
+  <data key="d2">35.33472222</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Kozan Kalesi">
+  <data key="d0">Adana</data>
+  <data key="d1">37.44194444</data>
+  <data key="d2">35.80833333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Simit Şelalesi">
+  <data key="d0">Adana</data>
+  <data key="d1">37.39666667</data>
+  <data key="d2">35.44222222</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kleopatra Şelalesi">
+  <data key="d0">Mersin</data>
+  <data key="d1">36.91305556</data>
+  <data key="d2">34.89166667</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Tarsus Şelalesi">
+  <data key="d0">Mersin</data>
+  <data key="d1">36.93</data>
+  <data key="d2">34.9</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Silifke Kalesi">
+  <data key="d0">Mersin</data>
+  <data key="d1">36.37666667</data>
+  <data key="d2">33.91555556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Kızkalesi Plajı">
+  <data key="d0">Mersin</data>
+  <data key="d1">36.46027778</data>
+  <data key="d2">34.14333333</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Cennet-Cehennem Mağaraları">
+  <data key="d0">Mersin</data>
+  <data key="d1">36.45222222</data>
+  <data key="d2">34.105</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Azize Thecla Antik Kenti">
+  <data key="d0">Mersin</data>
+  <data key="d1">36.36305556</data>
+  <data key="d2">33.93083333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Soloi-Pompeipolis Antik Kenti">
+  <data key="d0">Mersin</data>
+  <data key="d1">36.74305556</data>
+  <data key="d2">34.53916667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Kaleiçi">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.88638889</data>
+  <data key="d2">30.70527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Düden Şelalesi">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.96472222</data>
+  <data key="d2">30.72666667</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Manavgat Şelalesi">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.81361111</data>
+  <data key="d2">31.45444444</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Alanya Kalesi">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.53361111</data>
+  <data key="d2">31.99</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Side Antik Kenti">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.76833333</data>
+  <data key="d2">31.39305556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Perge Antik Kenti">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.95833333</data>
+  <data key="d2">30.85111111</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Aspendos Antik Tiyatrosu">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.93916667</data>
+  <data key="d2">31.17166667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Termossos Antik Kenti">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.98277778</data>
+  <data key="d2">30.46416667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Olympos">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.39611111</data>
+  <data key="d2">30.47138889</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Phaselis Antik Kenti">
+  <data key="d0">Antalya</data>
+  <data key="d1">36.53027778</data>
+  <data key="d2">30.54194444</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Eğridir Gölü">
+  <data key="d0">Isparta</data>
+  <data key="d1">38.02888889</data>
+  <data key="d2">30.9025</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Sagalassos Antik Kenti">
+  <data key="d0">Isparta</data>
+  <data key="d1">37.67666667</data>
+  <data key="d2">30.51944444</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Barla Dağı">
+  <data key="d0">Isparta</data>
+  <data key="d1">38.0625</data>
+  <data key="d2">30.62472222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Burdur Gölü">
+  <data key="d0">Burdur</data>
+  <data key="d1">37.73305556</data>
+  <data key="d2">30.17111111</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Burdur Şehitler Abidesi">
+  <data key="d0">Burdur</data>
+  <data key="d1">37.71194444</data>
+  <data key="d2">30.28277778</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Salda Gölü">
+  <data key="d0">Burdur</data>
+  <data key="d1">37.55222222</data>
+  <data key="d2">29.67638889</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kahramanmaraş Kalesi">
+  <data key="d0">Kahramanmaraş</data>
+  <data key="d1">37.58611111</data>
+  <data key="d2">36.92555556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Elbistan Kalesi">
+  <data key="d0">Kahramanmaraş</data>
+  <data key="d1">38.18027778</data>
+  <data key="d2">37.07888889</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Göksun Göleti">
+  <data key="d0">Kahramanmaraş</data>
+  <data key="d1">38.01916667</data>
+  <data key="d2">36.48472222</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kastabala Antik Kenti">
+  <data key="d0">Osmaniye</data>
+  <data key="d1">37.17638889</data>
+  <data key="d2">36.18666667</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Osmaniye Kalesi">
+  <data key="d0">Osmaniye</data>
+  <data key="d1">37.46333333</data>
+  <data key="d2">36.04972222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Düziçi Yaylası">
+  <data key="d0">Osmaniye</data>
+  <data key="d1">37.24083333</data>
+  <data key="d2">36.45305556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Kadirli Sağlık Kaplıcaları">
+  <data key="d0">Osmaniye</data>
+  <data key="d1">37.3725</data>
+  <data key="d2">36.09055556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Asar Kalesi">
+  <data key="d0">Osmaniye</data>
+  <data key="d1">37.17722222</data>
+  <data key="d2">36.18694444</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Efes Antik Kenti">
+  <data key="d0">İzmir</data>
+  <data key="d1">37.94083333</data>
+  <data key="d2">27.3425</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Pergamon Antik Kenti">
+  <data key="d0">İzmir</data>
+  <data key="d1">39.13277778</data>
+  <data key="d2">27.18388889</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Agora Antik Kenti">
+  <data key="d0">İzmir</data>
+  <data key="d1">38.41916667</data>
+  <data key="d2">27.13805556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="St.Jean Kilisesi">
+  <data key="d0">İzmir</data>
+  <data key="d1">38.43666667</data>
+  <data key="d2">27.14694444</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Kadifekale">
+  <data key="d0">İzmir</data>
+  <data key="d1">38.41416667</data>
+  <data key="d2">27.14583333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Ağlayan Kaya">
+  <data key="d0">Manisa</data>
+  <data key="d1">38.60472222</data>
+  <data key="d2">27.42388889</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Aigai Antik Kenti">
+  <data key="d0">Manisa</data>
+  <data key="d1">38.83361111</data>
+  <data key="d2">27.19333333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Manisa Kalesi">
+  <data key="d0">Manisa</data>
+  <data key="d1">38.60694444</data>
+  <data key="d2">27.43055556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Spil Dağı Milli Parkı">
+  <data key="d0">Manisa</data>
+  <data key="d1">38.55388889</data>
+  <data key="d2">27.44611111</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Thyateira Tepe Mezarları">
+  <data key="d0">Manisa</data>
+  <data key="d1">38.92</data>
+  <data key="d2">27.83611111</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Afrodisias Antik Kenti">
+  <data key="d0">Aydın</data>
+  <data key="d1">37.70833333</data>
+  <data key="d2">28.72527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Zeus Mağarası">
+  <data key="d0">Aydın</data>
+  <data key="d1">37.71111111</data>
+  <data key="d2">27.21555556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Bafa Gölü">
+  <data key="d0">Aydın</data>
+  <data key="d1">37.50527778</data>
+  <data key="d2">27.43472222</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kuşadası">
+  <data key="d0">Aydın</data>
+  <data key="d1">37.85583333</data>
+  <data key="d2">27.25861111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Pamukkale Travertenleri">
+  <data key="d0">Denizli</data>
+  <data key="d1">37.9225</data>
+  <data key="d2">29.12361111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Acıgöl">
+  <data key="d0">Denizli</data>
+  <data key="d1">37.82388889</data>
+  <data key="d2">29.87555556</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Işıklı Gölü">
+  <data key="d0">Denizli</data>
+  <data key="d1">38.23</data>
+  <data key="d2">29.89222222</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kaklık Mağarası">
+  <data key="d0">Denizli</data>
+  <data key="d1">37.85555556</data>
+  <data key="d2">29.38527778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Güney Şelalesi">
+  <data key="d0">Denizli</data>
+  <data key="d1">38.11944444</data>
+  <data key="d2">29.06055556</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kral Mezarları">
+  <data key="d0">Muğla</data>
+  <data key="d1">36.83305556</data>
+  <data key="d2">28.63527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Likya Yolu">
+  <data key="d0">Muğla</data>
+  <data key="d1">36.57472222</data>
+  <data key="d2">29.13416667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Kayaköy">
+  <data key="d0">Muğla</data>
+  <data key="d1">36.57805556</data>
+  <data key="d2">29.08722222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Halikarnas Mozolesi">
+  <data key="d0">Muğla</data>
+  <data key="d1">37.03777778</data>
+  <data key="d2">27.42388889</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Gümüşkesen Anıtı">
+  <data key="d0">Muğla</data>
+  <data key="d1">37.31777778</data>
+  <data key="d2">27.77194444</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Büyük Taaruz Şehitliği">
+  <data key="d0">Afyonkarahisar</data>
+  <data key="d1">38.79444444</data>
+  <data key="d2">30.38166667</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Yedikapılar Kaya Yerleşimi">
+  <data key="d0">Afyonkarahisar</data>
+  <data key="d1">38.88416667</data>
+  <data key="d2">31.09083333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Seydiler Peribacaları">
+  <data key="d0">Afyonkarahisar</data>
+  <data key="d1">38.88</data>
+  <data key="d2">30.84194444</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Göynüş Vadisi">
+  <data key="d0">Afyonkarahisar</data>
+  <data key="d1">39.04888889</data>
+  <data key="d2">30.5225</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Frig Vadisi">
+  <data key="d0">Afyonkarahisar</data>
+  <data key="d1">39.08888889</data>
+  <data key="d2">30.41972222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Clandras Köprüsü">
+  <data key="d0">Uşak</data>
+  <data key="d1">38.40777778</data>
+  <data key="d2">29.48472222</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Ulubey Kanyonu">
+  <data key="d0">Uşak</data>
+  <data key="d1">38.41555556</data>
+  <data key="d2">29.31027778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Porsuk Çayı">
+  <data key="d0">Eskişehir</data>
+  <data key="d1">39.77666667</data>
+  <data key="d2">30.51777778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Yazılıkaya Kaya Mezarları">
+  <data key="d0">Eskişehir</data>
+  <data key="d1">39.19694444</data>
+  <data key="d2">30.71222222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Anıtkabir">
+  <data key="d0">Ankara</data>
+  <data key="d1">39.925</data>
+  <data key="d2">32.83666667</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Atatürk Orman Çiftliği">
+  <data key="d0">Ankara</data>
+  <data key="d1">39.94666667</data>
+  <data key="d2">32.80444444</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Atakule">
+  <data key="d0">Ankara</data>
+  <data key="d1">39.88555556</data>
+  <data key="d2">32.85555556</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Mogan ve Eymir Gölü">
+  <data key="d0">Ankara</data>
+  <data key="d1">39.825</data>
+  <data key="d2">32.83194444</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Ağzıkarahan Kervansarayı">
+  <data key="d0">Çankırı</data>
+  <data key="d1">38.445</data>
+  <data key="d2">34.14027778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Aleaddin Tepesi">
+  <data key="d0">Konya</data>
+  <data key="d1">37.8725</data>
+  <data key="d2">32.49222222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Beyşehir Gölü">
+  <data key="d0">Konya</data>
+  <data key="d1">37.66722222</data>
+  <data key="d2">31.55666667</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kubadabad Sarayı Kalıntıları">
+  <data key="d0">Konya</data>
+  <data key="d1">37.74361111</data>
+  <data key="d2">31.43944444</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Çeşnigir Köprüsü">
+  <data key="d0">Kırıkkale</data>
+  <data key="d1">39.58083333</data>
+  <data key="d2">33.42916667</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Hasandede Peribacaları">
+  <data key="d0">Kırıkkale</data>
+  <data key="d1">39.76111111</data>
+  <data key="d2">33.54166667</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Dinek Dağı">
+  <data key="d0">Kırıkkale</data>
+  <data key="d1">39.76333333</data>
+  <data key="d2">33.65805556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Obaköy">
+  <data key="d0">Kırıkkale</data>
+  <data key="d1">39.89777778</data>
+  <data key="d2">33.42055556</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Sulu Mağara">
+  <data key="d0">Kırıkkale</data>
+  <data key="d1">39.67694444</data>
+  <data key="d2">33.60472222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Taş Mektep">
+  <data key="d0">Kırıkkale</data>
+  <data key="d1">39.67166667</data>
+  <data key="d2">33.61305556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Seyfe Gölü-Kuş Cenneti">
+  <data key="d0">Kırşehir</data>
+  <data key="d1">39.21555556</data>
+  <data key="d2">34.38527778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Mucur Yeraltı Şehri">
+  <data key="d0">Kırşehir</data>
+  <data key="d1">39.06194444</data>
+  <data key="d2">34.37583333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Kesikköprü">
+  <data key="d0">Kırşehir</data>
+  <data key="d1">38.96138889</data>
+  <data key="d2">34.19805556</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Dulkadirli Yeraltı Şehri">
+  <data key="d0">Kırşehir</data>
+  <data key="d1">39.50833333</data>
+  <data key="d2">34.15833333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Ihlara Vadisi">
+  <data key="d0">Aksaray</data>
+  <data key="d1">38.24638889</data>
+  <data key="d2">34.29416667</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Tuz Gölü">
+  <data key="d0">Aksaray</data>
+  <data key="d1">38.77</data>
+  <data key="d2">33.39</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Selime Peribacaları">
+  <data key="d0">Aksaray</data>
+  <data key="d1">38.30166667</data>
+  <data key="d2">34.26666667</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Eğri Minare">
+  <data key="d0">Aksaray</data>
+  <data key="d1">38.37638889</data>
+  <data key="d2">34.02888889</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Güvercin Kayası">
+  <data key="d0">Aksaray</data>
+  <data key="d1">38.40138889</data>
+  <data key="d2">34.19611111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Kaynaklı Yeraltı Şehri">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.45944444</data>
+  <data key="d2">34.75222222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Kayaşehir">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.61944444</data>
+  <data key="d2">34.7125</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Uçhisar Kalesi">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.63</data>
+  <data key="d2">34.80527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Güvercinlik Vadisi">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.62027778</data>
+  <data key="d2">34.80472222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Derinkuyu Yeraltı Şehri">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.37333333</data>
+  <data key="d2">34.73472222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Aşıklar Vadisi">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.66055556</data>
+  <data key="d2">34.81972222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Üç Güzeller">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.63527778</data>
+  <data key="d2">34.89055556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Kızılçukur Vadisi">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.65305556</data>
+  <data key="d2">34.86194444</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Devrent Vadisi">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.67277778</data>
+  <data key="d2">34.88583333</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Mazı Yeraltı Şehri">
+  <data key="d0">Nevşehir</data>
+  <data key="d1">38.46972222</data>
+  <data key="d2">34.83861111</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Manazan Mağaraları">
+  <data key="d0">Karaman</data>
+  <data key="d1">37.14388889</data>
+  <data key="d2">33.56805556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="İncesu Mağarası">
+  <data key="d0">Karaman</data>
+  <data key="d1">37.08583333</data>
+  <data key="d2">33.66361111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Roma Havuzu">
+  <data key="d0">Niğde</data>
+  <data key="d1">37.84694444</data>
+  <data key="d2">34.61055556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Tyana Su Kemerleri">
+  <data key="d0">Niğde</data>
+  <data key="d1">37.82583333</data>
+  <data key="d2">34.57472222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Göllüdağ">
+  <data key="d0">Niğde</data>
+  <data key="d1">38.25</data>
+  <data key="d2">34.56611111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Köşk Höyük">
+  <data key="d0">Niğde</data>
+  <data key="d1">37.84777778</data>
+  <data key="d2">34.61166667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Erciyes Kayak Merkezi">
+  <data key="d0">Kayseri</data>
+  <data key="d1">38.53888889</data>
+  <data key="d2">35.52666667</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Tekir Yaylası">
+  <data key="d0">Kayseri</data>
+  <data key="d1">38.54138889</data>
+  <data key="d2">35.52972222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Derebağ Şelalesi">
+  <data key="d0">Kayseri</data>
+  <data key="d1">38.05166667</data>
+  <data key="d2">35.29305556</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kazankaya Kanyonu">
+  <data key="d0">Yozgat</data>
+  <data key="d1">40.22305556</data>
+  <data key="d2">35.32555556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Gökpınar Gölü">
+  <data key="d0">Sivas</data>
+  <data key="d1">38.65583333</data>
+  <data key="d2">37.30444444</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Sarissa Antik Kenti">
+  <data key="d0">Sivas</data>
+  <data key="d1">39.30777778</data>
+  <data key="d2">36.90972222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Tödürge Gölü">
+  <data key="d0">Sivas</data>
+  <data key="d1">39.88055556</data>
+  <data key="d2">37.60055556</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Şehitler Anıtı">
+  <data key="d0">Sivas</data>
+  <data key="d1">39.8925</data>
+  <data key="d2">37.74472222</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Levent Vadisi">
+  <data key="d0">Malatya</data>
+  <data key="d1">38.40805556</data>
+  <data key="d2">37.92388889</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Tohma Kanyonu">
+  <data key="d0">Malatya</data>
+  <data key="d1">38.57361111</data>
+  <data key="d2">37.49277778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Arapgir Kozluk Çayı Kanyonu">
+  <data key="d0">Malatya</data>
+  <data key="d1">39.06861111</data>
+  <data key="d2">38.48388889</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Harput Kalesi">
+  <data key="d0">Elazığ</data>
+  <data key="d1">38.70388889</data>
+  <data key="d2">39.25722222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Hazar Gölü">
+  <data key="d0">Elazığ</data>
+  <data key="d1">38.46833333</data>
+  <data key="d2">39.35</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Çırçır Şelalesi">
+  <data key="d0">Elazığ</data>
+  <data key="d1">38.78555556</data>
+  <data key="d2">38.7525</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Saklıkapı Kanyonu">
+  <data key="d0">Elazığ</data>
+  <data key="d1">38.73833333</data>
+  <data key="d2">38.47277778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Girlevik Çağlayanı">
+  <data key="d0">Erzincan</data>
+  <data key="d1">39.58611111</data>
+  <data key="d2">39.73111111</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Karanlık Kanyon">
+  <data key="d0">Erzincan</data>
+  <data key="d1">39.26861111</data>
+  <data key="d2">38.4975</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Munzur Dağları">
+  <data key="d0">Erzincan</data>
+  <data key="d1">39.3525</data>
+  <data key="d2">38.73833333</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Keşiş Dağı">
+  <data key="d0">Erzincan</data>
+  <data key="d1">39.79222222</data>
+  <data key="d2">39.77027778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Munzur Vadisi Milli Parkı">
+  <data key="d0">Tunceli</data>
+  <data key="d1">39.13888889</data>
+  <data key="d2">39.49694444</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Çemişgezek Kalesi">
+  <data key="d0">Tunceli</data>
+  <data key="d1">39.0625</data>
+  <data key="d2">38.91222222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Dereova Şelalesi">
+  <data key="d0">Tunceli</data>
+  <data key="d1">39.26222222</data>
+  <data key="d2">39.87277778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Yüzen Ada">
+  <data key="d0">Bingöl</data>
+  <data key="d1">38.97194444</data>
+  <data key="d2">40.945</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Bingöl Şehitler Anıtı">
+  <data key="d0">Bingöl</data>
+  <data key="d1">38.92861111</data>
+  <data key="d2">40.36083333</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Buban Bacaları">
+  <data key="d0">Bingöl</data>
+  <data key="d1">39.03694444</data>
+  <data key="d2">40.47777778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Murat Köprüsü">
+  <data key="d0">Muş</data>
+  <data key="d1">38.8625</data>
+  <data key="d2">41.5125</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Lale Vadisi Parkı">
+  <data key="d0">Muş</data>
+  <data key="d1">38.75138889</data>
+  <data key="d2">41.50027778</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Çifte Minareli Medrese">
+  <data key="d0">Erzurum</data>
+  <data key="d1">39.90555556</data>
+  <data key="d2">41.27805556</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Üç Kümbetler">
+  <data key="d0">Erzurum</data>
+  <data key="d1">39.90388889</data>
+  <data key="d2">41.27833333</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Narman Peri Bacaları">
+  <data key="d0">Erzurum</data>
+  <data key="d1">40.29861111</data>
+  <data key="d2">41.87472222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Nemrut Krater Gölü">
+  <data key="d0">Bitlis</data>
+  <data key="d1">38.64333333</data>
+  <data key="d2">42.23777778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Süphan Dağı">
+  <data key="d0">Bitlis</data>
+  <data key="d1">38.93138889</data>
+  <data key="d2">42.83388889</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Şeytan Kalesi">
+  <data key="d0">Ardahan</data>
+  <data key="d1">41.15333333</data>
+  <data key="d2">43.13</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Ani Harabeleri">
+  <data key="d0">Kars</data>
+  <data key="d1">40.51083333</data>
+  <data key="d2">43.5725</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Nuhun Gemisi">
+  <data key="d0">Ağrı</data>
+  <data key="d1">39.44055556</data>
+  <data key="d2">44.23444444</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Meteor Çukuru">
+  <data key="d0">Ağrı</data>
+  <data key="d1">39.42055556</data>
+  <data key="d2">44.40194444</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Diyadin Kanyonu">
+  <data key="d0">Ağrı</data>
+  <data key="d1">39.525</data>
+  <data key="d2">43.67111111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Karakale Harabesi">
+  <data key="d0">Iğdır</data>
+  <data key="d1">40.04416667</data>
+  <data key="d2">43.83194444</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Tuzluca Tuz Mağaraları">
+  <data key="d0">Iğdır</data>
+  <data key="d1">40.05111111</data>
+  <data key="d2">43.66611111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Muradiye Şelalesi">
+  <data key="d0">Van</data>
+  <data key="d1">39.05666667</data>
+  <data key="d2">43.75583333</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Şeytan Köprüsü">
+  <data key="d0">Van</data>
+  <data key="d1">39.0225</data>
+  <data key="d2">43.74722222</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Zincirli Bedesten">
+  <data key="d0">Gaziantep</data>
+  <data key="d1">37.06277778</data>
+  <data key="d2">37.38527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Gaziantep Kalesi">
+  <data key="d0">Gaziantep</data>
+  <data key="d1">37.06611111</data>
+  <data key="d2">37.38333333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Kaleoğlu Mağarası">
+  <data key="d0">Gaziantep</data>
+  <data key="d1">37.06388889</data>
+  <data key="d2">37.38472222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Botanik Bahçesi">
+  <data key="d0">Gaziantep</data>
+  <data key="d1">37.06305556</data>
+  <data key="d2">37.35055556</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Rumkale">
+  <data key="d0">Gaziantep</data>
+  <data key="d1">37.27222222</data>
+  <data key="d2">37.83861111</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Ravanda Kalesi">
+  <data key="d0">Kilis</data>
+  <data key="d1">36.79388889</data>
+  <data key="d2">36.94916667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Oylum Höyük">
+  <data key="d0">Kilis</data>
+  <data key="d1">36.69916667</data>
+  <data key="d2">37.1775</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Söğütlüdere">
+  <data key="d0">Kilis</data>
+  <data key="d1">36.70555556</data>
+  <data key="d2">37.17027778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Nemrut Dağı">
+  <data key="d0">Adıyaman</data>
+  <data key="d1">37.98055556</data>
+  <data key="d2">38.74083333</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Gümüşçay Kanyonu">
+  <data key="d0">Adıyaman</data>
+  <data key="d1">38.58027778</data>
+  <data key="d2">38.59888889</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Besni Sugözü">
+  <data key="d0">Adıyaman</data>
+  <data key="d1">37.65527778</data>
+  <data key="d2">37.80916667</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Balıklı Göl">
+  <data key="d0">Şanlıurfa</data>
+  <data key="d1">37.1475</data>
+  <data key="d2">38.78416667</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Harran Ovası">
+  <data key="d0">Şanlıurfa</data>
+  <data key="d1">36.85361111</data>
+  <data key="d2">39.21555556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Göbeklitepe">
+  <data key="d0">Şanlıurfa</data>
+  <data key="d1">37.2175</data>
+  <data key="d2">38.91305556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Takoran Vadisi">
+  <data key="d0">Şanlıurfa</data>
+  <data key="d1">37.91805556</data>
+  <data key="d2">39.055</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="On Gözlü Köprü">
+  <data key="d0">Diyarbakır</data>
+  <data key="d1">37.88722222</data>
+  <data key="d2">40.22861111</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Bırkleyn Mağaraları">
+  <data key="d0">Diyarbakır</data>
+  <data key="d1">38.52972222</data>
+  <data key="d2">40.55472222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Mardin Kalesi">
+  <data key="d0">Mardin</data>
+  <data key="d1">37.315</data>
+  <data key="d2">40.73972222</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Dara Antik Kenti">
+  <data key="d0">Mardin</data>
+  <data key="d1">37.17777778</data>
+  <data key="d2">40.94805556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Mardin Beyazsu">
+  <data key="d0">Mardin</data>
+  <data key="d1">37.195</data>
+  <data key="d2">41.30527778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Hasankeyf Kalesi">
+  <data key="d0">Batman</data>
+  <data key="d1">37.71111111</data>
+  <data key="d2">41.41083333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Mor Kiryakus Manastırı">
+  <data key="d0">Batman</data>
+  <data key="d1">37.88083333</data>
+  <data key="d2">41.28055556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Sason Yaylası">
+  <data key="d0">Batman</data>
+  <data key="d1">38.3275</data>
+  <data key="d2">41.41722222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Kırkat Göleti">
+  <data key="d0">Batman</data>
+  <data key="d1">37.57555556</data>
+  <data key="d2">41.34583333</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kasrik Boğazı">
+  <data key="d0">Şırnak</data>
+  <data key="d1">37.39472222</data>
+  <data key="d2">42.17666667</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Cudi Dağı">
+  <data key="d0">Şırnak</data>
+  <data key="d1">37.36944444</data>
+  <data key="d2">42.34472222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Cizre Kalesi">
+  <data key="d0">Şırnak</data>
+  <data key="d1">37.32888889</data>
+  <data key="d2">42.19277778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Finik Kalesi">
+  <data key="d0">Şırnak</data>
+  <data key="d1">37.40833333</data>
+  <data key="d2">42.07444444</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Tillo Kalesi">
+  <data key="d0">Siirt</data>
+  <data key="d1">37.95027778</data>
+  <data key="d2">42.05166667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Rasıl Hacar">
+  <data key="d0">Siirt</data>
+  <data key="d1">37.89888889</data>
+  <data key="d2">41.95027778</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Botan Kanyonu">
+  <data key="d0">Siirt</data>
+  <data key="d1">37.8975</data>
+  <data key="d2">41.9525</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Mençuna Şelalesi">
+  <data key="d0">Artvin</data>
+  <data key="d1">41.24861111</data>
+  <data key="d2">41.35555556</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Çifte Kemer Köprü">
+  <data key="d0">Artvin</data>
+  <data key="d1">41.27638889</data>
+  <data key="d2">41.37583333</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Fırtına Deresi">
+  <data key="d0">Rize</data>
+  <data key="d1">40.96611111</data>
+  <data key="d2">40.96555556</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Şenyuva Köprüsü">
+  <data key="d0">Rize</data>
+  <data key="d1">40.9975</data>
+  <data key="d2">40.975</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Ayder Yaylası">
+  <data key="d0">Rize</data>
+  <data key="d1">40.99861111</data>
+  <data key="d2">41.05361111</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Yeraltı Şehri">
+  <data key="d0">Bayburt</data>
+  <data key="d1">40.38833333</data>
+  <data key="d2">40.15083333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Sümela Manastırı">
+  <data key="d0">Trabzon</data>
+  <data key="d1">40.69</data>
+  <data key="d2">39.65833333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Çal Mağarası">
+  <data key="d0">Trabzon</data>
+  <data key="d1">40.865</data>
+  <data key="d2">39.37944444</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Santa Harabeleri">
+  <data key="d0">Gümüşhane</data>
+  <data key="d1">40.655</data>
+  <data key="d2">39.80055556</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Satala AntikKenti">
+  <data key="d0">Gümüşhane</data>
+  <data key="d1">40.02083333</data>
+  <data key="d2">39.6075</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Amasya AlçakKöprü">
+  <data key="d0">Amasya</data>
+  <data key="d1">40.65166667</data>
+  <data key="d2">35.83055556</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Batık Minare">
+  <data key="d0">Samsun</data>
+  <data key="d1">41.44972222</data>
+  <data key="d2">35.86777778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="İnceburun Feneri">
+  <data key="d0">Sinop</data>
+  <data key="d1">42.09805556</data>
+  <data key="d2">34.94527778</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Hamsilos Koyu">
+  <data key="d0">Sinop</data>
+  <data key="d1">42.06027778</data>
+  <data key="d2">35.04527778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Hattuşaş Antik Kenti">
+  <data key="d0">Çorum</data>
+  <data key="d1">40.01972222</data>
+  <data key="d2">34.61527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Horma Kanyonu">
+  <data key="d0">Kastamonu</data>
+  <data key="d1">41.63388889</data>
+  <data key="d2">33.14305556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Pompeipolis Antik Kenti">
+  <data key="d0">Kastamonu</data>
+  <data key="d1">41.52027778</data>
+  <data key="d2">34.21527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Amasra Kalesi">
+  <data key="d0">Bartın</data>
+  <data key="d1">41.74916667</data>
+  <data key="d2">32.38833333</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Ağlayan Ağaç">
+  <data key="d0">Bartın</data>
+  <data key="d1">41.75277778</data>
+  <data key="d2">32.38472222</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Hadrianapolis Antik Kenti">
+  <data key="d0">Karabük</data>
+  <data key="d1">40.92583333</data>
+  <data key="d2">32.49111111</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Gökgöl Mağarası">
+  <data key="d0">Zonguldak</data>
+  <data key="d1">41.44055556</data>
+  <data key="d2">31.83305556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Cehennemağzı Mağaraları">
+  <data key="d0">Zonguldak</data>
+  <data key="d1">41.29111111</data>
+  <data key="d2">31.41</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Akkaya Travertenleri">
+  <data key="d0">Bolu</data>
+  <data key="d1">40.67472222</data>
+  <data key="d2">31.51944444</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Selimiye Camii">
+  <data key="d0">Edirne</data>
+  <data key="d1">41.67805556</data>
+  <data key="d2">26.55916667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Edirne Sarayı">
+  <data key="d0">Edirne</data>
+  <data key="d1">41.69055556</data>
+  <data key="d2">26.555</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Dupnisa Mağarası">
+  <data key="d0">Kırklareli</data>
+  <data key="d1">41.84055556</data>
+  <data key="d2">27.55555556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Cehennem Şelaleleri">
+  <data key="d0">Kırklareli</data>
+  <data key="d1">41.71305556</data>
+  <data key="d2">27.82527778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Güngörmez Kanara Kanyonu">
+  <data key="d0">Tekirdağ</data>
+  <data key="d1">41.47555556</data>
+  <data key="d2">27.97027778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Galata Kulesi">
+  <data key="d0">İstanbul</data>
+  <data key="d1">41.02555556</data>
+  <data key="d2">28.97388889</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Ayasofya Camii">
+  <data key="d0">İstanbul</data>
+  <data key="d1">41.00833333</data>
+  <data key="d2">28.98</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Yerebatan Sarnıcı">
+  <data key="d0">İstanbul</data>
+  <data key="d1">41.00833333</data>
+  <data key="d2">28.97777778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Sultanahmet Camii">
+  <data key="d0">İstanbul</data>
+  <data key="d1">41.00527778</data>
+  <data key="d2">28.97666667</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Serindere Kanyonu">
+  <data key="d0">Kocaeli</data>
+  <data key="d1">40.63694444</data>
+  <data key="d2">30.02527778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Eskihisar Kalesi">
+  <data key="d0">Kocaeli</data>
+  <data key="d1">40.77111111</data>
+  <data key="d2">29.43194444</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Pembe Kayalar">
+  <data key="d0">Kocaeli</data>
+  <data key="d1">41.18583333</data>
+  <data key="d2">30.22472222</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Sapanca Gölü">
+  <data key="d0">Sakarya</data>
+  <data key="d1">40.7275</data>
+  <data key="d2">30.20777778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Karaca Arboretumu">
+  <data key="d0">Yalova</data>
+  <data key="d1">40.63388889</data>
+  <data key="d2">29.22472222</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Erikli Yaylası">
+  <data key="d0">Yalova</data>
+  <data key="d1">40.58805556</data>
+  <data key="d2">29.025</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Truva Atı">
+  <data key="d0">Çanakkale</data>
+  <data key="d1">40.15194444</data>
+  <data key="d2">26.40527778</data>
+  <data key="d3">Tarihi Yapı</data>
+</node>
+<node id="Şehitler Abidesi">
+  <data key="d0">Çanakkale</data>
+  <data key="d1">40.04944444</data>
+  <data key="d2">26.21888889</data>
+  <data key="d3">Beşeri Unsur</data>
+</node>
+<node id="Manyas Gölü Kuş Cenneti">
+  <data key="d0">Balıkesir</data>
+  <data key="d1">40.18222222</data>
+  <data key="d2">27.90083333</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Şeytan Sofrası">
+  <data key="d0">Balıkesir</data>
+  <data key="d1">39.28888889</data>
+  <data key="d2">26.64305556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Aşıklar Tepesi">
+  <data key="d0">Balıkesir</data>
+  <data key="d1">39.33611111</data>
+  <data key="d2">26.65916667</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Şahindere Kanyonu">
+  <data key="d0">Balıkesir</data>
+  <data key="d1">39.58611111</data>
+  <data key="d2">26.75527778</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Sadağı Kanyonu">
+  <data key="d0">Bursa</data>
+  <data key="d1">39.87111111</data>
+  <data key="d2">28.90888889</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<node id="Küreklidere Şelalesi">
+  <data key="d0">Bursa</data>
+  <data key="d1">40.15305556</data>
+  <data key="d2">29.20277778</data>
+  <data key="d3">Su Bölgesi</data>
+</node>
+<node id="Kömürsu Yaylası">
+  <data key="d0">Bilecik</data>
+  <data key="d1">39.85555556</data>
+  <data key="d2">29.77805556</data>
+  <data key="d3">Doğal Oluşum</data>
+</node>
+<edge source="Halfeti Saklı Cennet" target="Kahramanmaraş Kalesi">
+  <data key="d4">91.79096338199417</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Zincirli Bedesten">
+  <data key="d4">47.73901110962456</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Gaziantep Kalesi">
+  <data key="d4">47.737901318514346</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Kaleoğlu Mağarası">
+  <data key="d4">47.730809573517284</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Botanik Bahçesi">
+  <data key="d4">50.53204667588103</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Rumkale">
+  <data key="d4">4.044248634229922</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Ravanda Kalesi">
+  <data key="d4">96.20626426012255</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Oylum Höyük">
+  <data key="d4">86.63802636715488</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Söğütlüdere">
+  <data key="d4">86.60264320192222</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Nemrut Dağı">
+  <data key="d4">111.94185387808714</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Besni Sugözü">
+  <data key="d4">45.68017580041529</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Balıklı Göl">
+  <data key="d4">81.80571616374765</data>
+</edge>
+<edge source="Halfeti Saklı Cennet" target="Göbeklitepe">
+  <data key="d4">92.51874946016926</data>
+</edge>
+<edge source="Yılankale" target="Anavarza ÖrenYeri">
+  <data key="d4">29.757797557361616</data>
+</edge>
+<edge source="Yılankale" target="Taşköprü">
+  <data key="d4">36.84899232647525</data>
+</edge>
+<edge source="Yılankale" target="Kozan Kalesi">
+  <data key="d4">47.78435407659853</data>
+</edge>
+<edge source="Yılankale" target="Simit Şelalesi">
+  <data key="d4">50.34982695935252</data>
+</edge>
+<edge source="Yılankale" target="Kleopatra Şelalesi">
+  <data key="d4">77.0122805574642</data>
+</edge>
+<edge source="Yılankale" target="Tarsus Şelalesi">
+  <data key="d4">76.01601100581283</data>
+</edge>
+<edge source="Yılankale" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">111.82423196803019</data>
+</edge>
+<edge source="Yılankale" target="Kastabala Antik Kenti">
+  <data key="d4">43.0154762548912</data>
+</edge>
+<edge source="Yılankale" target="Osmaniye Kalesi">
+  <data key="d4">56.61652534090446</data>
+</edge>
+<edge source="Yılankale" target="Düziçi Yaylası">
+  <data key="d4">67.57853587886225</data>
+</edge>
+<edge source="Yılankale" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">50.107169128653865</data>
+</edge>
+<edge source="Yılankale" target="Asar Kalesi">
+  <data key="d4">43.07647898328951</data>
+</edge>
+<edge source="Yılankale" target="Ravanda Kalesi">
+  <data key="d4">109.8744156375919</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Taşköprü">
+  <data key="d4">58.48443148964311</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Kozan Kalesi">
+  <data key="d4">22.762258896004777</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Simit Şelalesi">
+  <data key="d4">43.93486316864607</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Kleopatra Şelalesi">
+  <data key="d4">97.47443952858062</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Tarsus Şelalesi">
+  <data key="d4">96.06806472027831</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Kahramanmaraş Kalesi">
+  <data key="d4">97.81646326281734</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Göksun Göleti">
+  <data key="d4">99.4733033387776</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Kastabala Antik Kenti">
+  <data key="d4">26.49079209349393</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Osmaniye Kalesi">
+  <data key="d4">26.860852439436577</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Düziçi Yaylası">
+  <data key="d4">48.78753361435286</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">21.35690725608354</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Asar Kalesi">
+  <data key="d4">26.485180426112613</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Derebağ Şelalesi">
+  <data key="d4">103.87340087279972</data>
+</edge>
+<edge source="Anavarza ÖrenYeri" target="Ravanda Kalesi">
+  <data key="d4">106.01177441469243</data>
+</edge>
+<edge source="Taşköprü" target="Kozan Kalesi">
+  <data key="d4">65.77586341387631</data>
+</edge>
+<edge source="Taşköprü" target="Simit Şelalesi">
+  <data key="d4">46.5529297662696</data>
+</edge>
+<edge source="Taşköprü" target="Kleopatra Şelalesi">
+  <data key="d4">40.28730377879152</data>
+</edge>
+<edge source="Taşköprü" target="Tarsus Şelalesi">
+  <data key="d4">39.21412828723369</data>
+</edge>
+<edge source="Taşköprü" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">75.8937214116092</data>
+</edge>
+<edge source="Taşköprü" target="Kastabala Antik Kenti">
+  <data key="d4">78.64013293718332</data>
+</edge>
+<edge source="Taşköprü" target="Osmaniye Kalesi">
+  <data key="d4">82.65352747014649</data>
+</edge>
+<edge source="Taşköprü" target="Düziçi Yaylası">
+  <data key="d4">103.33761640252732</data>
+</edge>
+<edge source="Taşköprü" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">79.64817856696023</data>
+</edge>
+<edge source="Taşköprü" target="Asar Kalesi">
+  <data key="d4">78.68840127232603</data>
+</edge>
+<edge source="Taşköprü" target="Roma Havuzu">
+  <data key="d4">115.05317167316474</data>
+</edge>
+<edge source="Taşköprü" target="Tyana Su Kemerleri">
+  <data key="d4">114.94783637621488</data>
+</edge>
+<edge source="Taşköprü" target="Köşk Höyük">
+  <data key="d4">115.07505658850643</data>
+</edge>
+<edge source="Taşköprü" target="Derebağ Şelalesi">
+  <data key="d4">118.32058705358428</data>
+</edge>
+<edge source="Kozan Kalesi" target="Simit Şelalesi">
+  <data key="d4">32.79560406333959</data>
+</edge>
+<edge source="Kozan Kalesi" target="Kleopatra Şelalesi">
+  <data key="d4">100.35795117346842</data>
+</edge>
+<edge source="Kozan Kalesi" target="Tarsus Şelalesi">
+  <data key="d4">98.65661438556576</data>
+</edge>
+<edge source="Kozan Kalesi" target="Kahramanmaraş Kalesi">
+  <data key="d4">100.05936813419828</data>
+</edge>
+<edge source="Kozan Kalesi" target="Göksun Göleti">
+  <data key="d4">87.51945503170545</data>
+</edge>
+<edge source="Kozan Kalesi" target="Kastabala Antik Kenti">
+  <data key="d4">44.648501431195534</data>
+</edge>
+<edge source="Kozan Kalesi" target="Osmaniye Kalesi">
+  <data key="d4">21.48990431944848</data>
+</edge>
+<edge source="Kozan Kalesi" target="Düziçi Yaylası">
+  <data key="d4">61.335372640097766</data>
+</edge>
+<edge source="Kozan Kalesi" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">26.14814817490931</data>
+</edge>
+<edge source="Kozan Kalesi" target="Asar Kalesi">
+  <data key="d4">44.60589397498528</data>
+</edge>
+<edge source="Kozan Kalesi" target="Roma Havuzu">
+  <data key="d4">114.86876288226007</data>
+</edge>
+<edge source="Kozan Kalesi" target="Tyana Su Kemerleri">
+  <data key="d4">116.92568256594748</data>
+</edge>
+<edge source="Kozan Kalesi" target="Köşk Höyük">
+  <data key="d4">114.81424152857417</data>
+</edge>
+<edge source="Kozan Kalesi" target="Derebağ Şelalesi">
+  <data key="d4">81.49901906461433</data>
+</edge>
+<edge source="Simit Şelalesi" target="Kleopatra Şelalesi">
+  <data key="d4">72.61131684599191</data>
+</edge>
+<edge source="Simit Şelalesi" target="Tarsus Şelalesi">
+  <data key="d4">70.72281583039737</data>
+</edge>
+<edge source="Simit Şelalesi" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">108.2169401188562</data>
+</edge>
+<edge source="Simit Şelalesi" target="Göksun Göleti">
+  <data key="d4">114.99564626987353</data>
+</edge>
+<edge source="Simit Şelalesi" target="Kastabala Antik Kenti">
+  <data key="d4">70.39583346500177</data>
+</edge>
+<edge source="Simit Şelalesi" target="Osmaniye Kalesi">
+  <data key="d4">54.27516401575906</data>
+</edge>
+<edge source="Simit Şelalesi" target="Düziçi Yaylası">
+  <data key="d4">91.25241805522936</data>
+</edge>
+<edge source="Simit Şelalesi" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">57.47978360146531</data>
+</edge>
+<edge source="Simit Şelalesi" target="Asar Kalesi">
+  <data key="d4">70.38653774010062</data>
+</edge>
+<edge source="Simit Şelalesi" target="Roma Havuzu">
+  <data key="d4">88.81506132012517</data>
+</edge>
+<edge source="Simit Şelalesi" target="Tyana Su Kemerleri">
+  <data key="d4">90.19745905100604</data>
+</edge>
+<edge source="Simit Şelalesi" target="Köşk Höyük">
+  <data key="d4">88.78577985939495</data>
+</edge>
+<edge source="Simit Şelalesi" target="Derebağ Şelalesi">
+  <data key="d4">73.87907774380278</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Tarsus Şelalesi">
+  <data key="d4">2.021721355038657</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Silifke Kalesi">
+  <data key="d4">105.65030774163114</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Kızkalesi Plajı">
+  <data key="d4">83.65303392209081</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Cennet-Cehennem Mağaraları">
+  <data key="d4">86.94243538110582</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Azize Thecla Antik Kenti">
+  <data key="d4">105.39798881373584</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">36.671942625099184</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Kastabala Antik Kenti">
+  <data key="d4">118.85043226426178</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Osmaniye Kalesi">
+  <data key="d4">119.59266825719313</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">118.08931975693322</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Asar Kalesi">
+  <data key="d4">118.89654159156281</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="İncesu Mağarası">
+  <data key="d4">110.98017603617421</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Roma Havuzu">
+  <data key="d4">106.59560240115034</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Tyana Su Kemerleri">
+  <data key="d4">105.12228310213187</data>
+</edge>
+<edge source="Kleopatra Şelalesi" target="Köşk Höyük">
+  <data key="d4">106.66258871587299</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Silifke Kalesi">
+  <data key="d4">107.32343645163135</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Kızkalesi Plajı">
+  <data key="d4">85.37859562322511</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Cennet-Cehennem Mağaraları">
+  <data key="d4">88.65118594103365</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Azize Thecla Antik Kenti">
+  <data key="d4">107.09242618942419</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">38.293595824898354</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Kastabala Antik Kenti">
+  <data key="d4">117.66859389377885</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Osmaniye Kalesi">
+  <data key="d4">117.9929482877226</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">116.6070679687014</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Asar Kalesi">
+  <data key="d4">117.71353582307644</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="İncesu Mağarası">
+  <data key="d4">111.39144458027441</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Roma Havuzu">
+  <data key="d4">104.94523314915959</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Tyana Su Kemerleri">
+  <data key="d4">103.51349687595898</data>
+</edge>
+<edge source="Tarsus Şelalesi" target="Köşk Höyük">
+  <data key="d4">105.01092769660069</data>
+</edge>
+<edge source="Silifke Kalesi" target="Kızkalesi Plajı">
+  <data key="d4">22.436458268002347</data>
+</edge>
+<edge source="Silifke Kalesi" target="Cennet-Cehennem Mağaraları">
+  <data key="d4">18.947144263717828</data>
+</edge>
+<edge source="Silifke Kalesi" target="Azize Thecla Antik Kenti">
+  <data key="d4">2.0398436195100875</data>
+</edge>
+<edge source="Silifke Kalesi" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">69.06287850525011</data>
+</edge>
+<edge source="Silifke Kalesi" target="Manazan Mağaraları">
+  <data key="d4">90.61856224077039</data>
+</edge>
+<edge source="Silifke Kalesi" target="İncesu Mağarası">
+  <data key="d4">81.8524933368445</data>
+</edge>
+<edge source="Kızkalesi Plajı" target="Cennet-Cehennem Mağaraları">
+  <data key="d4">3.550622964325185</data>
+</edge>
+<edge source="Kızkalesi Plajı" target="Azize Thecla Antik Kenti">
+  <data key="d4">21.901193818179944</data>
+</edge>
+<edge source="Kızkalesi Plajı" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">47.318436830725084</data>
+</edge>
+<edge source="Kızkalesi Plajı" target="Manazan Mağaraları">
+  <data key="d4">91.60121852596184</data>
+</edge>
+<edge source="Kızkalesi Plajı" target="İncesu Mağarası">
+  <data key="d4">81.56762474295421</data>
+</edge>
+<edge source="Cennet-Cehennem Mağaraları" target="Azize Thecla Antik Kenti">
+  <data key="d4">18.49209054117577</data>
+</edge>
+<edge source="Cennet-Cehennem Mağaraları" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">50.505440855959634</data>
+</edge>
+<edge source="Cennet-Cehennem Mağaraları" target="Manazan Mağaraları">
+  <data key="d4">90.48707827094601</data>
+</edge>
+<edge source="Cennet-Cehennem Mağaraları" target="İncesu Mağarası">
+  <data key="d4">80.6035815828502</data>
+</edge>
+<edge source="Azize Thecla Antik Kenti" target="Soloi-Pompeipolis Antik Kenti">
+  <data key="d4">68.88005322931829</data>
+</edge>
+<edge source="Azize Thecla Antik Kenti" target="Manazan Mağaraları">
+  <data key="d4">92.5088656103113</data>
+</edge>
+<edge source="Azize Thecla Antik Kenti" target="İncesu Mağarası">
+  <data key="d4">83.68524939592977</data>
+</edge>
+<edge source="Soloi-Pompeipolis Antik Kenti" target="Manazan Mağaraları">
+  <data key="d4">97.27061122342033</data>
+</edge>
+<edge source="Soloi-Pompeipolis Antik Kenti" target="İncesu Mağarası">
+  <data key="d4">86.80077898791605</data>
+</edge>
+<edge source="Kaleiçi" target="Düden Şelalesi">
+  <data key="d4">8.89957389206228</data>
+</edge>
+<edge source="Kaleiçi" target="Manavgat Şelalesi">
+  <data key="d4">67.30152312220076</data>
+</edge>
+<edge source="Kaleiçi" target="Side Antik Kenti">
+  <data key="d4">62.74130174711985</data>
+</edge>
+<edge source="Kaleiçi" target="Perge Antik Kenti">
+  <data key="d4">15.25095180053341</data>
+</edge>
+<edge source="Kaleiçi" target="Aspendos Antik Tiyatrosu">
+  <data key="d4">41.9720567518801</data>
+</edge>
+<edge source="Kaleiçi" target="Termossos Antik Kenti">
+  <data key="d4">23.996178916884766</data>
+</edge>
+<edge source="Kaleiçi" target="Olympos">
+  <data key="d4">58.28857534656675</data>
+</edge>
+<edge source="Kaleiçi" target="Phaselis Antik Kenti">
+  <data key="d4">42.12702992811515</data>
+</edge>
+<edge source="Kaleiçi" target="Sagalassos Antik Kenti">
+  <data key="d4">89.24215229745434</data>
+</edge>
+<edge source="Kaleiçi" target="Burdur Gölü">
+  <data key="d4">105.22284273826364</data>
+</edge>
+<edge source="Kaleiçi" target="Burdur Şehitler Abidesi">
+  <data key="d4">98.98432977992232</data>
+</edge>
+<edge source="Kaleiçi" target="Salda Gölü">
+  <data key="d4">117.4709422527133</data>
+</edge>
+<edge source="Kaleiçi" target="Beyşehir Gölü">
+  <data key="d4">114.93898420629714</data>
+</edge>
+<edge source="Kaleiçi" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">115.26567063429</data>
+</edge>
+<edge source="Düden Şelalesi" target="Manavgat Şelalesi">
+  <data key="d4">67.00679206697747</data>
+</edge>
+<edge source="Düden Şelalesi" target="Side Antik Kenti">
+  <data key="d4">63.29054151381492</data>
+</edge>
+<edge source="Düden Şelalesi" target="Perge Antik Kenti">
+  <data key="d4">11.105242109305985</data>
+</edge>
+<edge source="Düden Şelalesi" target="Aspendos Antik Tiyatrosu">
+  <data key="d4">39.736408040275656</data>
+</edge>
+<edge source="Düden Şelalesi" target="Termossos Antik Kenti">
+  <data key="d4">23.45931693126404</data>
+</edge>
+<edge source="Düden Şelalesi" target="Olympos">
+  <data key="d4">67.0984276924157</data>
+</edge>
+<edge source="Düden Şelalesi" target="Phaselis Antik Kenti">
+  <data key="d4">50.955773822768705</data>
+</edge>
+<edge source="Düden Şelalesi" target="Eğridir Gölü">
+  <data key="d4">119.12765944998185</data>
+</edge>
+<edge source="Düden Şelalesi" target="Sagalassos Antik Kenti">
+  <data key="d4">81.12086995365232</data>
+</edge>
+<edge source="Düden Şelalesi" target="Burdur Gölü">
+  <data key="d4">98.45995585133055</data>
+</edge>
+<edge source="Düden Şelalesi" target="Burdur Şehitler Abidesi">
+  <data key="d4">91.78539230569885</data>
+</edge>
+<edge source="Düden Şelalesi" target="Salda Gölü">
+  <data key="d4">113.7172078029283</data>
+</edge>
+<edge source="Düden Şelalesi" target="Beyşehir Gölü">
+  <data key="d4">107.19811422755613</data>
+</edge>
+<edge source="Düden Şelalesi" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">107.05317816702346</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Alanya Kalesi">
+  <data key="d4">57.07312789451987</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Side Antik Kenti">
+  <data key="d4">7.434326045090952</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Perge Antik Kenti">
+  <data key="d4">56.13044188202215</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Aspendos Antik Tiyatrosu">
+  <data key="d4">28.80535102514547</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Termossos Antik Kenti">
+  <data key="d4">90.23762286640424</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Olympos">
+  <data key="d4">99.40948620284968</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Phaselis Antik Kenti">
+  <data key="d4">87.4202316116467</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Beyşehir Gölü">
+  <data key="d4">95.16879661473632</data>
+</edge>
+<edge source="Manavgat Şelalesi" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">103.22264847929533</data>
+</edge>
+<edge source="Alanya Kalesi" target="Side Antik Kenti">
+  <data key="d4">59.39309702409233</data>
+</edge>
+<edge source="Alanya Kalesi" target="Perge Antik Kenti">
+  <data key="d4">112.09947879416842</data>
+</edge>
+<edge source="Alanya Kalesi" target="Aspendos Antik Tiyatrosu">
+  <data key="d4">85.8361130326603</data>
+</edge>
+<edge source="Side Antik Kenti" target="Perge Antik Kenti">
+  <data key="d4">52.72511825497226</data>
+</edge>
+<edge source="Side Antik Kenti" target="Aspendos Antik Tiyatrosu">
+  <data key="d4">27.37212865107956</data>
+</edge>
+<edge source="Side Antik Kenti" target="Termossos Antik Kenti">
+  <data key="d4">86.16753579618037</data>
+</edge>
+<edge source="Side Antik Kenti" target="Olympos">
+  <data key="d4">92.24923484583607</data>
+</edge>
+<edge source="Side Antik Kenti" target="Phaselis Antik Kenti">
+  <data key="d4">80.55950298164751</data>
+</edge>
+<edge source="Side Antik Kenti" target="Beyşehir Gölü">
+  <data key="d4">100.81157591943162</data>
+</edge>
+<edge source="Side Antik Kenti" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">108.31691911063736</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Aspendos Antik Tiyatrosu">
+  <data key="d4">28.631430745352965</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Termossos Antik Kenti">
+  <data key="d4">34.562449430915414</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Olympos">
+  <data key="d4">71.02559988892835</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Phaselis Antik Kenti">
+  <data key="d4">54.944214038050504</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Eğridir Gölü">
+  <data key="d4">118.90453822062433</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Sagalassos Antik Kenti">
+  <data key="d4">84.97094686409486</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Burdur Gölü">
+  <data key="d4">104.99103536300557</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Burdur Şehitler Abidesi">
+  <data key="d4">97.63197759559394</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Beyşehir Gölü">
+  <data key="d4">100.50578172573267</data>
+</edge>
+<edge source="Perge Antik Kenti" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">101.55199436564206</data>
+</edge>
+<edge source="Aspendos Antik Tiyatrosu" target="Termossos Antik Kenti">
+  <data key="d4">63.193388710750796</data>
+</edge>
+<edge source="Aspendos Antik Tiyatrosu" target="Olympos">
+  <data key="d4">86.89514311241251</data>
+</edge>
+<edge source="Aspendos Antik Tiyatrosu" target="Phaselis Antik Kenti">
+  <data key="d4">72.26745739879706</data>
+</edge>
+<edge source="Aspendos Antik Tiyatrosu" target="Sagalassos Antik Kenti">
+  <data key="d4">100.21243556704164</data>
+</edge>
+<edge source="Aspendos Antik Tiyatrosu" target="Burdur Şehitler Abidesi">
+  <data key="d4">116.45689095665581</data>
+</edge>
+<edge source="Aspendos Antik Tiyatrosu" target="Beyşehir Gölü">
+  <data key="d4">87.7153469506497</data>
+</edge>
+<edge source="Aspendos Antik Tiyatrosu" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">92.37975058213723</data>
+</edge>
+<edge source="Termossos Antik Kenti" target="Olympos">
+  <data key="d4">65.1066759875405</data>
+</edge>
+<edge source="Termossos Antik Kenti" target="Phaselis Antik Kenti">
+  <data key="d4">50.69332141162144</data>
+</edge>
+<edge source="Termossos Antik Kenti" target="Sagalassos Antik Kenti">
+  <data key="d4">77.16611492850085</data>
+</edge>
+<edge source="Termossos Antik Kenti" target="Burdur Gölü">
+  <data key="d4">87.22254705277824</data>
+</edge>
+<edge source="Termossos Antik Kenti" target="Burdur Şehitler Abidesi">
+  <data key="d4">82.50641942264438</data>
+</edge>
+<edge source="Termossos Antik Kenti" target="Salda Gölü">
+  <data key="d4">94.21477647709848</data>
+</edge>
+<edge source="Termossos Antik Kenti" target="Acıgöl">
+  <data key="d4">106.91232002498334</data>
+</edge>
+<edge source="Olympos" target="Phaselis Antik Kenti">
+  <data key="d4">16.17565590342135</data>
+</edge>
+<edge source="Eğridir Gölü" target="Sagalassos Antik Kenti">
+  <data key="d4">51.62222015871726</data>
+</edge>
+<edge source="Eğridir Gölü" target="Barla Dağı">
+  <data key="d4">24.66651416381676</data>
+</edge>
+<edge source="Eğridir Gölü" target="Burdur Gölü">
+  <data key="d4">72.23719484480127</data>
+</edge>
+<edge source="Eğridir Gölü" target="Burdur Şehitler Abidesi">
+  <data key="d4">64.89036478335935</data>
+</edge>
+<edge source="Eğridir Gölü" target="Acıgöl">
+  <data key="d4">93.11158165591658</data>
+</edge>
+<edge source="Eğridir Gölü" target="Işıklı Gölü">
+  <data key="d4">91.34800071068412</data>
+</edge>
+<edge source="Eğridir Gölü" target="Büyük Taaruz Şehitliği">
+  <data key="d4">96.38859367675157</data>
+</edge>
+<edge source="Eğridir Gölü" target="Yedikapılar Kaya Yerleşimi">
+  <data key="d4">96.35280655420023</data>
+</edge>
+<edge source="Eğridir Gölü" target="Seydiler Peribacaları">
+  <data key="d4">94.62541036535755</data>
+</edge>
+<edge source="Eğridir Gölü" target="Göynüş Vadisi">
+  <data key="d4">117.97401954426478</data>
+</edge>
+<edge source="Eğridir Gölü" target="Beyşehir Gölü">
+  <data key="d4">70.18774323714868</data>
+</edge>
+<edge source="Eğridir Gölü" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">56.865148561247786</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Barla Dağı">
+  <data key="d4">43.81554502670454</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Burdur Gölü">
+  <data key="d4">31.348281496053005</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Burdur Şehitler Abidesi">
+  <data key="d4">21.23707379728827</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Salda Gölü">
+  <data key="d4">75.70398983766486</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Acıgöl">
+  <data key="d4">59.05128158495055</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Işıklı Gölü">
+  <data key="d4">82.52784025508188</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Kaklık Mağarası">
+  <data key="d4">101.88488721176851</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Beyşehir Gölü">
+  <data key="d4">91.51165078880017</data>
+</edge>
+<edge source="Sagalassos Antik Kenti" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">81.46211087349644</data>
+</edge>
+<edge source="Barla Dağı" target="Burdur Gölü">
+  <data key="d4">54.11901933293651</data>
+</edge>
+<edge source="Barla Dağı" target="Burdur Şehitler Abidesi">
+  <data key="d4">49.18075256606428</data>
+</edge>
+<edge source="Barla Dağı" target="Salda Gölü">
+  <data key="d4">100.9049666718781</data>
+</edge>
+<edge source="Barla Dağı" target="Acıgöl">
+  <data key="d4">70.97795273825709</data>
+</edge>
+<edge source="Barla Dağı" target="Işıklı Gölü">
+  <data key="d4">66.84669271405863</data>
+</edge>
+<edge source="Barla Dağı" target="Kaklık Mağarası">
+  <data key="d4">111.31865797433905</data>
+</edge>
+<edge source="Barla Dağı" target="Büyük Taaruz Şehitliği">
+  <data key="d4">83.9752695387495</data>
+</edge>
+<edge source="Barla Dağı" target="Yedikapılar Kaya Yerleşimi">
+  <data key="d4">99.86767213029543</data>
+</edge>
+<edge source="Barla Dağı" target="Seydiler Peribacaları">
+  <data key="d4">92.70562681360036</data>
+</edge>
+<edge source="Barla Dağı" target="Göynüş Vadisi">
+  <data key="d4">109.8580076771782</data>
+</edge>
+<edge source="Barla Dağı" target="Frig Vadisi">
+  <data key="d4">115.32859116215027</data>
+</edge>
+<edge source="Barla Dağı" target="Clandras Köprüsü">
+  <data key="d4">106.913088161803</data>
+</edge>
+<edge source="Barla Dağı" target="Beyşehir Gölü">
+  <data key="d4">93.00300950706121</data>
+</edge>
+<edge source="Barla Dağı" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">79.91813288963262</data>
+</edge>
+<edge source="Burdur Gölü" target="Burdur Şehitler Abidesi">
+  <data key="d4">10.119804792182391</data>
+</edge>
+<edge source="Burdur Gölü" target="Salda Gölü">
+  <data key="d4">48.05467391880991</data>
+</edge>
+<edge source="Burdur Gölü" target="Pamukkale Travertenleri">
+  <data key="d4">94.58549608301777</data>
+</edge>
+<edge source="Burdur Gölü" target="Acıgöl">
+  <data key="d4">27.92097706664409</data>
+</edge>
+<edge source="Burdur Gölü" target="Işıklı Gölü">
+  <data key="d4">60.355816137212855</data>
+</edge>
+<edge source="Burdur Gölü" target="Kaklık Mağarası">
+  <data key="d4">70.5366158719388</data>
+</edge>
+<edge source="Burdur Gölü" target="Güney Şelalesi">
+  <data key="d4">106.64312735276248</data>
+</edge>
+<edge source="Burdur Gölü" target="Büyük Taaruz Şehitliği">
+  <data key="d4">119.2479814513122</data>
+</edge>
+<edge source="Burdur Gölü" target="Clandras Köprüsü">
+  <data key="d4">96.10606664588977</data>
+</edge>
+<edge source="Burdur Gölü" target="Ulubey Kanyonu">
+  <data key="d4">106.9763747749705</data>
+</edge>
+<edge source="Burdur Gölü" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">111.80078537733296</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Salda Gölü">
+  <data key="d4">56.38475314754552</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Pamukkale Travertenleri">
+  <data key="d4">104.70525152066085</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Acıgöl">
+  <data key="d4">37.97015985365785</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Işıklı Gölü">
+  <data key="d4">66.96354915629476</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Kaklık Mağarası">
+  <data key="d4">80.6510335200833</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Güney Şelalesi">
+  <data key="d4">116.60212059754475</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Clandras Köprüsü">
+  <data key="d4">104.26177802434769</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Ulubey Kanyonu">
+  <data key="d4">115.68318522784669</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Beyşehir Gölü">
+  <data key="d4">112.46749802088216</data>
+</edge>
+<edge source="Burdur Şehitler Abidesi" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">102.0271761997748</data>
+</edge>
+<edge source="Salda Gölü" target="Afrodisias Antik Kenti">
+  <data key="d4">85.72494697267192</data>
+</edge>
+<edge source="Salda Gölü" target="Pamukkale Travertenleri">
+  <data key="d4">63.74217453352564</data>
+</edge>
+<edge source="Salda Gölü" target="Acıgöl">
+  <data key="d4">34.89659578913583</data>
+</edge>
+<edge source="Salda Gölü" target="Işıklı Gölü">
+  <data key="d4">77.58807954947476</data>
+</edge>
+<edge source="Salda Gölü" target="Kaklık Mağarası">
+  <data key="d4">42.33795492998935</data>
+</edge>
+<edge source="Salda Gölü" target="Güney Şelalesi">
+  <data key="d4">83.08068331113643</data>
+</edge>
+<edge source="Salda Gölü" target="Likya Yolu">
+  <data key="d4">118.71686977686029</data>
+</edge>
+<edge source="Salda Gölü" target="Clandras Köprüsü">
+  <data key="d4">96.44467763757564</data>
+</edge>
+<edge source="Salda Gölü" target="Ulubey Kanyonu">
+  <data key="d4">101.08011053281523</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Elbistan Kalesi">
+  <data key="d4">67.3144196918568</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Göksun Göleti">
+  <data key="d4">61.78629609997202</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Kastabala Antik Kenti">
+  <data key="d4">79.68749861118414</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Osmaniye Kalesi">
+  <data key="d4">78.61017828485959</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Düziçi Yaylası">
+  <data key="d4">56.72870469936876</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">77.56718008430852</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Asar Kalesi">
+  <data key="d4">79.61424969434783</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Zincirli Bedesten">
+  <data key="d4">70.94836593829638</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Gaziantep Kalesi">
+  <data key="d4">70.54607497528345</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Kaleoğlu Mağarası">
+  <data key="d4">70.81897604007386</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Botanik Bahçesi">
+  <data key="d4">69.20093468554502</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Rumkale">
+  <data key="d4">88.00205826106999</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Ravanda Kalesi">
+  <data key="d4">87.94677091385287</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Oylum Höyük">
+  <data key="d4">100.94626289039836</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Söğütlüdere">
+  <data key="d4">100.11354794963562</data>
+</edge>
+<edge source="Kahramanmaraş Kalesi" target="Besni Sugözü">
+  <data key="d4">78.38429613873569</data>
+</edge>
+<edge source="Elbistan Kalesi" target="Göksun Göleti">
+  <data key="d4">55.099057308574444</data>
+</edge>
+<edge source="Elbistan Kalesi" target="Düziçi Yaylası">
+  <data key="d4">117.97144883593802</data>
+</edge>
+<edge source="Elbistan Kalesi" target="Gökpınar Gölü">
+  <data key="d4">56.34413869151179</data>
+</edge>
+<edge source="Elbistan Kalesi" target="Levent Vadisi">
+  <data key="d4">78.12504877563468</data>
+</edge>
+<edge source="Elbistan Kalesi" target="Tohma Kanyonu">
+  <data key="d4">56.69465310305946</data>
+</edge>
+<edge source="Elbistan Kalesi" target="Besni Sugözü">
+  <data key="d4">86.71190505471174</data>
+</edge>
+<edge source="Göksun Göleti" target="Kastabala Antik Kenti">
+  <data key="d4">97.17156509199681</data>
+</edge>
+<edge source="Göksun Göleti" target="Osmaniye Kalesi">
+  <data key="d4">72.63607952991332</data>
+</edge>
+<edge source="Göksun Göleti" target="Düziçi Yaylası">
+  <data key="d4">86.43203208888899</data>
+</edge>
+<edge source="Göksun Göleti" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">79.74926843137557</data>
+</edge>
+<edge source="Göksun Göleti" target="Asar Kalesi">
+  <data key="d4">97.07585515264518</data>
+</edge>
+<edge source="Göksun Göleti" target="Erciyes Kayak Merkezi">
+  <data key="d4">101.76035021728657</data>
+</edge>
+<edge source="Göksun Göleti" target="Tekir Yaylası">
+  <data key="d4">101.69697154020707</data>
+</edge>
+<edge source="Göksun Göleti" target="Derebağ Şelalesi">
+  <data key="d4">104.67811566248203</data>
+</edge>
+<edge source="Göksun Göleti" target="Gökpınar Gölü">
+  <data key="d4">100.65029016597951</data>
+</edge>
+<edge source="Göksun Göleti" target="Tohma Kanyonu">
+  <data key="d4">107.53427575687735</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Osmaniye Kalesi">
+  <data key="d4">34.08103063326342</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Düziçi Yaylası">
+  <data key="d4">24.70471740389425</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">23.374657686671803</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Asar Kalesi">
+  <data key="d4">0.0957169120973705</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Zincirli Bedesten">
+  <data key="d4">107.26592256521076</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Gaziantep Kalesi">
+  <data key="d4">107.04908261231549</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Kaleoğlu Mağarası">
+  <data key="d4">107.20168930363171</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Botanik Bahçesi">
+  <data key="d4">104.1982577788213</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Ravanda Kalesi">
+  <data key="d4">80.0634314850367</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Oylum Höyük">
+  <data key="d4">102.93578634827674</data>
+</edge>
+<edge source="Kastabala Antik Kenti" target="Söğütlüdere">
+  <data key="d4">102.01657694772936</data>
+</edge>
+<edge source="Osmaniye Kalesi" target="Düziçi Yaylası">
+  <data key="d4">43.437183947027606</data>
+</edge>
+<edge source="Osmaniye Kalesi" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">10.709619434416766</data>
+</edge>
+<edge source="Osmaniye Kalesi" target="Asar Kalesi">
+  <data key="d4">34.0034026160572</data>
+</edge>
+<edge source="Osmaniye Kalesi" target="Derebağ Şelalesi">
+  <data key="d4">93.3271762049413</data>
+</edge>
+<edge source="Osmaniye Kalesi" target="Ravanda Kalesi">
+  <data key="d4">109.12225105304907</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Kadirli Sağlık Kaplıcaları">
+  <data key="d4">35.30295050977761</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Asar Kalesi">
+  <data key="d4">24.654351712931597</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Zincirli Bedesten">
+  <data key="d4">85.13797459716402</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Gaziantep Kalesi">
+  <data key="d4">84.88293821101193</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Kaleoğlu Mağarası">
+  <data key="d4">85.06083086928795</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Botanik Bahçesi">
+  <data key="d4">82.13328686227494</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Ravanda Kalesi">
+  <data key="d4">66.40344213322581</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Oylum Höyük">
+  <data key="d4">88.1752432229594</data>
+</edge>
+<edge source="Düziçi Yaylası" target="Söğütlüdere">
+  <data key="d4">87.21950033505645</data>
+</edge>
+<edge source="Kadirli Sağlık Kaplıcaları" target="Asar Kalesi">
+  <data key="d4">23.29757847441004</data>
+</edge>
+<edge source="Kadirli Sağlık Kaplıcaları" target="Derebağ Şelalesi">
+  <data key="d4">103.0872341465538</data>
+</edge>
+<edge source="Kadirli Sağlık Kaplıcaları" target="Zincirli Bedesten">
+  <data key="d4">119.94562302136019</data>
+</edge>
+<edge source="Kadirli Sağlık Kaplıcaları" target="Gaziantep Kalesi">
+  <data key="d4">119.67224510598176</data>
+</edge>
+<edge source="Kadirli Sağlık Kaplıcaları" target="Kaleoğlu Mağarası">
+  <data key="d4">119.86228537047349</data>
+</edge>
+<edge source="Kadirli Sağlık Kaplıcaları" target="Botanik Bahçesi">
+  <data key="d4">116.98719316946227</data>
+</edge>
+<edge source="Kadirli Sağlık Kaplıcaları" target="Ravanda Kalesi">
+  <data key="d4">99.75721209418204</data>
+</edge>
+<edge source="Asar Kalesi" target="Zincirli Bedesten">
+  <data key="d4">107.25174078304256</data>
+</edge>
+<edge source="Asar Kalesi" target="Gaziantep Kalesi">
+  <data key="d4">107.03459528310208</data>
+</edge>
+<edge source="Asar Kalesi" target="Kaleoğlu Mağarası">
+  <data key="d4">107.18740489833202</data>
+</edge>
+<edge source="Asar Kalesi" target="Botanik Bahçesi">
+  <data key="d4">104.18439637705738</data>
+</edge>
+<edge source="Asar Kalesi" target="Ravanda Kalesi">
+  <data key="d4">80.09123552127436</data>
+</edge>
+<edge source="Asar Kalesi" target="Oylum Höyük">
+  <data key="d4">102.96177848940522</data>
+</edge>
+<edge source="Asar Kalesi" target="Söğütlüdere">
+  <data key="d4">102.04232450676636</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Agora Antik Kenti">
+  <data key="d4">56.035159721006885</data>
+</edge>
+<edge source="Efes Antik Kenti" target="St.Jean Kilisesi">
+  <data key="d4">57.64225683282308</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Kadifekale">
+  <data key="d4">55.29358532296511</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Ağlayan Kaya">
+  <data key="d4">74.03610339204863</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Aigai Antik Kenti">
+  <data key="d4">99.95494853400824</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Manisa Kalesi">
+  <data key="d4">74.3398343354</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Spil Dağı Milli Parkı">
+  <data key="d4">68.6516188215587</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Thyateira Tepe Mezarları">
+  <data key="d4">116.92508353366955</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Zeus Mağarası">
+  <data key="d4">27.839419467111966</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Bafa Gölü">
+  <data key="d4">49.02178125249434</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Kuşadası">
+  <data key="d4">11.977069088110829</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Halikarnas Mozolesi">
+  <data key="d4">100.4853956012855</data>
+</edge>
+<edge source="Efes Antik Kenti" target="Gümüşkesen Anıtı">
+  <data key="d4">78.86111731607109</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Agora Antik Kenti">
+  <data key="d4">79.31889088767761</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="St.Jean Kilisesi">
+  <data key="d4">77.34289581951916</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Kadifekale">
+  <data key="d4">79.84237443570795</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Ağlayan Kaya">
+  <data key="d4">62.211327046475816</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Aigai Antik Kenti">
+  <data key="d4">33.22211611278395</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Manisa Kalesi">
+  <data key="d4">62.175640408319566</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Spil Dağı Milli Parkı">
+  <data key="d4">68.17695991058251</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Thyateira Tepe Mezarları">
+  <data key="d4">61.21929630630889</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Şeytan Sofrası">
+  <data key="d4">49.82260594945549</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Aşıklar Tepesi">
+  <data key="d4">50.61685268045919</data>
+</edge>
+<edge source="Pergamon Antik Kenti" target="Şahindere Kanyonu">
+  <data key="d4">62.43152179870578</data>
+</edge>
+<edge source="Agora Antik Kenti" target="St.Jean Kilisesi">
+  <data key="d4">2.091904387207526</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Kadifekale">
+  <data key="d4">0.8771772219023369</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Ağlayan Kaya">
+  <data key="d4">32.33834358715941</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Aigai Antik Kenti">
+  <data key="d4">46.25792858856131</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Manisa Kalesi">
+  <data key="d4">32.943904551139575</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Spil Dağı Milli Parkı">
+  <data key="d4">30.757937554547592</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Thyateira Tepe Mezarları">
+  <data key="d4">82.35014892425018</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Zeus Mağarası">
+  <data key="d4">78.8862496612112</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Bafa Gölü">
+  <data key="d4">104.73417555864741</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Kuşadası">
+  <data key="d4">63.41636373834474</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Şeytan Sofrası">
+  <data key="d4">105.67916920611844</data>
+</edge>
+<edge source="Agora Antik Kenti" target="Aşıklar Tepesi">
+  <data key="d4">109.94800128596123</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Kadifekale">
+  <data key="d4">2.4994860646259287</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Ağlayan Kaya">
+  <data key="d4">30.5175605574279</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Aigai Antik Kenti">
+  <data key="d4">44.248945517832595</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Manisa Kalesi">
+  <data key="d4">31.128575958081882</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Spil Dağı Milli Parkı">
+  <data key="d4">29.16281065889318</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Thyateira Tepe Mezarları">
+  <data key="d4">80.46773581093834</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Zeus Mağarası">
+  <data key="d4">80.7598210677893</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Bafa Gölü">
+  <data key="d4">106.42769333037634</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Kuşadası">
+  <data key="d4">65.21087654108098</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Şeytan Sofrası">
+  <data key="d4">104.2265876101951</data>
+</edge>
+<edge source="St.Jean Kilisesi" target="Aşıklar Tepesi">
+  <data key="d4">108.44868480827675</data>
+</edge>
+<edge source="Kadifekale" target="Ağlayan Kaya">
+  <data key="d4">32.18103120989713</data>
+</edge>
+<edge source="Kadifekale" target="Aigai Antik Kenti">
+  <data key="d4">46.74519394147155</data>
+</edge>
+<edge source="Kadifekale" target="Manisa Kalesi">
+  <data key="d4">32.78168894165305</data>
+</edge>
+<edge source="Kadifekale" target="Spil Dağı Milli Parkı">
+  <data key="d4">30.44649450264308</data>
+</edge>
+<edge source="Kadifekale" target="Thyateira Tepe Mezarları">
+  <data key="d4">82.23161682259641</data>
+</edge>
+<edge source="Kadifekale" target="Zeus Mağarası">
+  <data key="d4">78.27702197109679</data>
+</edge>
+<edge source="Kadifekale" target="Bafa Gölü">
+  <data key="d4">104.02802973590778</data>
+</edge>
+<edge source="Kadifekale" target="Kuşadası">
+  <data key="d4">62.75820005245483</data>
+</edge>
+<edge source="Kadifekale" target="Şeytan Sofrası">
+  <data key="d4">106.46207416332106</data>
+</edge>
+<edge source="Kadifekale" target="Aşıklar Tepesi">
+  <data key="d4">110.71826685958332</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Aigai Antik Kenti">
+  <data key="d4">32.36747884834915</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Manisa Kalesi">
+  <data key="d4">0.6309244723535652</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Spil Dağı Milli Parkı">
+  <data key="d4">5.965873441956998</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Thyateira Tepe Mezarları">
+  <data key="d4">50.08610104735657</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Zeus Mağarası">
+  <data key="d4">100.85684875571592</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Kuşadası">
+  <data key="d4">84.37746091282077</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Şeytan Sofrası">
+  <data key="d4">101.73840712269315</data>
+</edge>
+<edge source="Ağlayan Kaya" target="Aşıklar Tepesi">
+  <data key="d4">104.80701586987263</data>
+</edge>
+<edge source="Aigai Antik Kenti" target="Manisa Kalesi">
+  <data key="d4">32.538467919857666</data>
+</edge>
+<edge source="Aigai Antik Kenti" target="Spil Dağı Milli Parkı">
+  <data key="d4">38.050399293694596</data>
+</edge>
+<edge source="Aigai Antik Kenti" target="Thyateira Tepe Mezarları">
+  <data key="d4">56.596286129365446</data>
+</edge>
+<edge source="Aigai Antik Kenti" target="Kuşadası">
+  <data key="d4">108.6861872844329</data>
+</edge>
+<edge source="Aigai Antik Kenti" target="Şeytan Sofrası">
+  <data key="d4">69.44759983103248</data>
+</edge>
+<edge source="Aigai Antik Kenti" target="Aşıklar Tepesi">
+  <data key="d4">72.44383321099151</data>
+</edge>
+<edge source="Aigai Antik Kenti" target="Şahindere Kanyonu">
+  <data key="d4">91.7098862786994</data>
+</edge>
+<edge source="Manisa Kalesi" target="Spil Dağı Milli Parkı">
+  <data key="d4">6.043524067950526</data>
+</edge>
+<edge source="Manisa Kalesi" target="Thyateira Tepe Mezarları">
+  <data key="d4">49.49937348189714</data>
+</edge>
+<edge source="Manisa Kalesi" target="Zeus Mağarası">
+  <data key="d4">101.20656469846845</data>
+</edge>
+<edge source="Manisa Kalesi" target="Kuşadası">
+  <data key="d4">84.72223046420777</data>
+</edge>
+<edge source="Manisa Kalesi" target="Şeytan Sofrası">
+  <data key="d4">101.93979128211534</data>
+</edge>
+<edge source="Manisa Kalesi" target="Aşıklar Tepesi">
+  <data key="d4">104.9822923651561</data>
+</edge>
+<edge source="Spil Dağı Milli Parkı" target="Thyateira Tepe Mezarları">
+  <data key="d4">52.93009656553735</data>
+</edge>
+<edge source="Spil Dağı Milli Parkı" target="Zeus Mağarası">
+  <data key="d4">95.7063575453235</data>
+</edge>
+<edge source="Spil Dağı Milli Parkı" target="Bafa Gölü">
+  <data key="d4">116.39702844177712</data>
+</edge>
+<edge source="Spil Dağı Milli Parkı" target="Kuşadası">
+  <data key="d4">79.20561534204076</data>
+</edge>
+<edge source="Spil Dağı Milli Parkı" target="Şeytan Sofrası">
+  <data key="d4">107.2738112697664</data>
+</edge>
+<edge source="Spil Dağı Milli Parkı" target="Aşıklar Tepesi">
+  <data key="d4">110.43076355834587</data>
+</edge>
+<edge source="Thyateira Tepe Mezarları" target="Şeytan Sofrası">
+  <data key="d4">111.02576827202986</data>
+</edge>
+<edge source="Thyateira Tepe Mezarları" target="Aşıklar Tepesi">
+  <data key="d4">111.76310359763026</data>
+</edge>
+<edge source="Thyateira Tepe Mezarları" target="Şahindere Kanyonu">
+  <data key="d4">119.04748273615591</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Bafa Gölü">
+  <data key="d4">116.16135641054848</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Pamukkale Travertenleri">
+  <data key="d4">42.370361380124</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Acıgöl">
+  <data key="d4">102.15938630621352</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Işıklı Gölü">
+  <data key="d4">117.75628280455982</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Kaklık Mağarası">
+  <data key="d4">60.39312343402198</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Güney Şelalesi">
+  <data key="d4">54.3270136239087</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Kral Mezarları">
+  <data key="d4">97.46813031328206</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Gümüşkesen Anıtı">
+  <data key="d4">94.77675505534336</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Clandras Köprüsü">
+  <data key="d4">102.32133745678969</data>
+</edge>
+<edge source="Afrodisias Antik Kenti" target="Ulubey Kanyonu">
+  <data key="d4">93.79666035782977</data>
+</edge>
+<edge source="Zeus Mağarası" target="Bafa Gölü">
+  <data key="d4">29.939951713198422</data>
+</edge>
+<edge source="Zeus Mağarası" target="Kuşadası">
+  <data key="d4">16.504759572927707</data>
+</edge>
+<edge source="Zeus Mağarası" target="Halikarnas Mozolesi">
+  <data key="d4">76.97414566667524</data>
+</edge>
+<edge source="Zeus Mağarası" target="Gümüşkesen Anıtı">
+  <data key="d4">65.76723238102002</data>
+</edge>
+<edge source="Bafa Gölü" target="Kuşadası">
+  <data key="d4">41.8950480090162</data>
+</edge>
+<edge source="Bafa Gölü" target="Halikarnas Mozolesi">
+  <data key="d4">51.89332706226514</data>
+</edge>
+<edge source="Bafa Gölü" target="Gümüşkesen Anıtı">
+  <data key="d4">36.39113030667793</data>
+</edge>
+<edge source="Kuşadası" target="Halikarnas Mozolesi">
+  <data key="d4">91.96307335090832</data>
+</edge>
+<edge source="Kuşadası" target="Gümüşkesen Anıtı">
+  <data key="d4">74.97891475490715</data>
+</edge>
+<edge source="Pamukkale Travertenleri" target="Acıgöl">
+  <data key="d4">67.0577695907738</data>
+</edge>
+<edge source="Pamukkale Travertenleri" target="Işıklı Gölü">
+  <data key="d4">75.5840711058714</data>
+</edge>
+<edge source="Pamukkale Travertenleri" target="Kaklık Mağarası">
+  <data key="d4">24.187035166062287</data>
+</edge>
+<edge source="Pamukkale Travertenleri" target="Güney Şelalesi">
+  <data key="d4">22.550489337920364</data>
+</edge>
+<edge source="Pamukkale Travertenleri" target="Clandras Köprüsü">
+  <data key="d4">62.473671902853866</data>
+</edge>
+<edge source="Pamukkale Travertenleri" target="Ulubey Kanyonu">
+  <data key="d4">57.12121880300313</data>
+</edge>
+<edge source="Acıgöl" target="Işıklı Gölü">
+  <data key="d4">45.100855528011024</data>
+</edge>
+<edge source="Acıgöl" target="Kaklık Mağarası">
+  <data key="d4">43.29869955795505</data>
+</edge>
+<edge source="Acıgöl" target="Güney Şelalesi">
+  <data key="d4">78.76717170552067</data>
+</edge>
+<edge source="Acıgöl" target="Büyük Taaruz Şehitliği">
+  <data key="d4">116.47280858410963</data>
+</edge>
+<edge source="Acıgöl" target="Clandras Köprüsü">
+  <data key="d4">73.31516578422243</data>
+</edge>
+<edge source="Acıgöl" target="Ulubey Kanyonu">
+  <data key="d4">82.28071153122333</data>
+</edge>
+<edge source="Işıklı Gölü" target="Kaklık Mağarası">
+  <data key="d4">60.89070563625186</data>
+</edge>
+<edge source="Işıklı Gölü" target="Güney Şelalesi">
+  <data key="d4">73.89943067190842</data>
+</edge>
+<edge source="Işıklı Gölü" target="Büyük Taaruz Şehitliği">
+  <data key="d4">75.81641421199537</data>
+</edge>
+<edge source="Işıklı Gölü" target="Seydiler Peribacaları">
+  <data key="d4">109.81426287272579</data>
+</edge>
+<edge source="Işıklı Gölü" target="Göynüş Vadisi">
+  <data key="d4">106.18172592115747</data>
+</edge>
+<edge source="Işıklı Gölü" target="Frig Vadisi">
+  <data key="d4">105.82295073326654</data>
+</edge>
+<edge source="Işıklı Gölü" target="Clandras Köprüsü">
+  <data key="d4">40.73517947746541</data>
+</edge>
+<edge source="Işıklı Gölü" target="Ulubey Kanyonu">
+  <data key="d4">54.898942875946965</data>
+</edge>
+<edge source="Kaklık Mağarası" target="Güney Şelalesi">
+  <data key="d4">40.88607211779095</data>
+</edge>
+<edge source="Kaklık Mağarası" target="Clandras Köprüsü">
+  <data key="d4">61.91306543794009</data>
+</edge>
+<edge source="Kaklık Mağarası" target="Ulubey Kanyonu">
+  <data key="d4">62.506260564833305</data>
+</edge>
+<edge source="Güney Şelalesi" target="Clandras Köprüsü">
+  <data key="d4">49.01395596304799</data>
+</edge>
+<edge source="Güney Şelalesi" target="Ulubey Kanyonu">
+  <data key="d4">39.47078572477963</data>
+</edge>
+<edge source="Kral Mezarları" target="Likya Yolu">
+  <data key="d4">53.000708157491324</data>
+</edge>
+<edge source="Kral Mezarları" target="Kayaköy">
+  <data key="d4">49.31065247561403</data>
+</edge>
+<edge source="Kral Mezarları" target="Halikarnas Mozolesi">
+  <data key="d4">110.28355583918618</data>
+</edge>
+<edge source="Kral Mezarları" target="Gümüşkesen Anıtı">
+  <data key="d4">93.74120145552922</data>
+</edge>
+<edge source="Likya Yolu" target="Kayaköy">
+  <data key="d4">4.217920821718508</data>
+</edge>
+<edge source="Halikarnas Mozolesi" target="Gümüşkesen Anıtı">
+  <data key="d4">43.82897022435969</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Yedikapılar Kaya Yerleşimi">
+  <data key="d4">62.371527625551884</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Seydiler Peribacaları">
+  <data key="d4">41.076468412227165</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Göynüş Vadisi">
+  <data key="d4">30.774202212246138</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Frig Vadisi">
+  <data key="d4">32.85365025258556</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Clandras Köprüsü">
+  <data key="d4">89.14654709901774</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Ulubey Kanyonu">
+  <data key="d4">102.36339893892023</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Porsuk Çayı">
+  <data key="d4">109.67768316435756</data>
+</edge>
+<edge source="Büyük Taaruz Şehitliği" target="Yazılıkaya Kaya Mezarları">
+  <data key="d4">53.072359636111784</data>
+</edge>
+<edge source="Yedikapılar Kaya Yerleşimi" target="Seydiler Peribacaları">
+  <data key="d4">21.601036022035597</data>
+</edge>
+<edge source="Yedikapılar Kaya Yerleşimi" target="Göynüş Vadisi">
+  <data key="d4">52.54071876905354</data>
+</edge>
+<edge source="Yedikapılar Kaya Yerleşimi" target="Frig Vadisi">
+  <data key="d4">62.43054521817942</data>
+</edge>
+<edge source="Yedikapılar Kaya Yerleşimi" target="Porsuk Çayı">
+  <data key="d4">110.72225941356791</data>
+</edge>
+<edge source="Yedikapılar Kaya Yerleşimi" target="Yazılıkaya Kaya Mezarları">
+  <data key="d4">47.75110697619098</data>
+</edge>
+<edge source="Seydiler Peribacaları" target="Göynüş Vadisi">
+  <data key="d4">33.437294812711485</data>
+</edge>
+<edge source="Seydiler Peribacaları" target="Frig Vadisi">
+  <data key="d4">43.314219358578555</data>
+</edge>
+<edge source="Seydiler Peribacaları" target="Porsuk Çayı">
+  <data key="d4">103.39885282294392</data>
+</edge>
+<edge source="Seydiler Peribacaları" target="Yazılıkaya Kaya Mezarları">
+  <data key="d4">36.934988240346875</data>
+</edge>
+<edge source="Göynüş Vadisi" target="Frig Vadisi">
+  <data key="d4">9.94152829311647</data>
+</edge>
+<edge source="Göynüş Vadisi" target="Clandras Köprüsü">
+  <data key="d4">114.92776539942157</data>
+</edge>
+<edge source="Göynüş Vadisi" target="Porsuk Çayı">
+  <data key="d4">80.80136728216108</data>
+</edge>
+<edge source="Göynüş Vadisi" target="Yazılıkaya Kaya Mezarları">
+  <data key="d4">23.223708201590085</data>
+</edge>
+<edge source="Göynüş Vadisi" target="Kömürsu Yaylası">
+  <data key="d4">110.1199613784937</data>
+</edge>
+<edge source="Frig Vadisi" target="Clandras Köprüsü">
+  <data key="d4">111.0108751736121</data>
+</edge>
+<edge source="Frig Vadisi" target="Porsuk Çayı">
+  <data key="d4">76.82491695657642</data>
+</edge>
+<edge source="Frig Vadisi" target="Yazılıkaya Kaya Mezarları">
+  <data key="d4">27.988338941382455</data>
+</edge>
+<edge source="Frig Vadisi" target="Kömürsu Yaylası">
+  <data key="d4">101.4575435331369</data>
+</edge>
+<edge source="Clandras Köprüsü" target="Ulubey Kanyonu">
+  <data key="d4">15.260277794958437</data>
+</edge>
+<edge source="Porsuk Çayı" target="Yazılıkaya Kaya Mezarları">
+  <data key="d4">66.50175520061171</data>
+</edge>
+<edge source="Porsuk Çayı" target="Serindere Kanyonu">
+  <data key="d4">104.32067919799158</data>
+</edge>
+<edge source="Porsuk Çayı" target="Sapanca Gölü">
+  <data key="d4">108.82420909053376</data>
+</edge>
+<edge source="Porsuk Çayı" target="Küreklidere Şelalesi">
+  <data key="d4">119.87002546324759</data>
+</edge>
+<edge source="Porsuk Çayı" target="Kömürsu Yaylası">
+  <data key="d4">63.939456259016225</data>
+</edge>
+<edge source="Yazılıkaya Kaya Mezarları" target="Kömürsu Yaylası">
+  <data key="d4">108.61884430527324</data>
+</edge>
+<edge source="Anıtkabir" target="Atatürk Orman Çiftliği">
+  <data key="d4">3.6568939953377706</data>
+</edge>
+<edge source="Anıtkabir" target="Atakule">
+  <data key="d4">4.667983995353046</data>
+</edge>
+<edge source="Anıtkabir" target="Mogan ve Eymir Gölü">
+  <data key="d4">11.11057005505271</data>
+</edge>
+<edge source="Anıtkabir" target="Çeşnigir Köprüsü">
+  <data key="d4">63.549694497637155</data>
+</edge>
+<edge source="Anıtkabir" target="Hasandede Peribacaları">
+  <data key="d4">63.02417792984807</data>
+</edge>
+<edge source="Anıtkabir" target="Dinek Dağı">
+  <data key="d4">72.55589043381858</data>
+</edge>
+<edge source="Anıtkabir" target="Obaköy">
+  <data key="d4">50.01623661120218</data>
+</edge>
+<edge source="Anıtkabir" target="Sulu Mağara">
+  <data key="d4">71.31023816056062</data>
+</edge>
+<edge source="Anıtkabir" target="Taş Mektep">
+  <data key="d4">72.19767130348728</data>
+</edge>
+<edge source="Anıtkabir" target="Hadrianapolis Antik Kenti">
+  <data key="d4">114.93875325944717</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Atakule">
+  <data key="d4">8.070756770052432</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Mogan ve Eymir Gölü">
+  <data key="d4">13.712208701368754</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Çeşnigir Köprüsü">
+  <data key="d4">67.19651802308886</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Hasandede Peribacaları">
+  <data key="d4">66.36683338901831</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Dinek Dağı">
+  <data key="d4">75.82996304173706</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Obaköy">
+  <data key="d4">52.95061703601211</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Sulu Mağara">
+  <data key="d4">74.78379066543553</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Taş Mektep">
+  <data key="d4">75.67512593194239</data>
+</edge>
+<edge source="Atatürk Orman Çiftliği" target="Hadrianapolis Antik Kenti">
+  <data key="d4">111.9324661924291</data>
+</edge>
+<edge source="Atakule" target="Mogan ve Eymir Gölü">
+  <data key="d4">7.0206225459714835</data>
+</edge>
+<edge source="Atakule" target="Çeşnigir Köprüsü">
+  <data key="d4">59.687838612404235</data>
+</edge>
+<edge source="Atakule" target="Hasandede Peribacaları">
+  <data key="d4">60.34341219240767</data>
+</edge>
+<edge source="Atakule" target="Dinek Dağı">
+  <data key="d4">70.0308861600131</data>
+</edge>
+<edge source="Atakule" target="Obaköy">
+  <data key="d4">48.34265849594533</data>
+</edge>
+<edge source="Atakule" target="Sulu Mağara">
+  <data key="d4">68.22940598431236</data>
+</edge>
+<edge source="Atakule" target="Taş Mektep">
+  <data key="d4">69.1028254801639</data>
+</edge>
+<edge source="Atakule" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">119.32936033956337</data>
+</edge>
+<edge source="Atakule" target="Hadrianapolis Antik Kenti">
+  <data key="d4">119.58547310824396</data>
+</edge>
+<edge source="Mogan ve Eymir Gölü" target="Çeşnigir Köprüsü">
+  <data key="d4">57.95115951644424</data>
+</edge>
+<edge source="Mogan ve Eymir Gölü" target="Hasandede Peribacaları">
+  <data key="d4">61.2007997027986</data>
+</edge>
+<edge source="Mogan ve Eymir Gölü" target="Dinek Dağı">
+  <data key="d4">71.0864183106844</data>
+</edge>
+<edge source="Mogan ve Eymir Gölü" target="Obaköy">
+  <data key="d4">51.00927410322102</data>
+</edge>
+<edge source="Mogan ve Eymir Gölü" target="Sulu Mağara">
+  <data key="d4">68.23890587135261</data>
+</edge>
+<edge source="Mogan ve Eymir Gölü" target="Taş Mektep">
+  <data key="d4">69.07683255222364</data>
+</edge>
+<edge source="Mogan ve Eymir Gölü" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">119.11971000919802</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Seyfe Gölü-Kuş Cenneti">
+  <data key="d4">88.14673410287159</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Mucur Yeraltı Şehri">
+  <data key="d4">71.48278198007908</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Kesikköprü">
+  <data key="d4">57.54413947350415</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">118.05636258567131</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Ihlara Vadisi">
+  <data key="d4">25.82675046181555</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Tuz Gölü">
+  <data key="d4">74.64813189793405</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Selime Peribacaları">
+  <data key="d4">19.368165039096613</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Eğri Minare">
+  <data key="d4">12.355316211471882</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Güvercin Kayası">
+  <data key="d4">6.870782784103593</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">53.4408105997978</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Kayaşehir">
+  <data key="d4">53.52017139387614</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Uçhisar Kalesi">
+  <data key="d4">61.5090193975977</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Güvercinlik Vadisi">
+  <data key="d4">61.11493307269566</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">52.5259195614921</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Aşıklar Vadisi">
+  <data key="d4">63.877325226484224</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Üç Güzeller">
+  <data key="d4">68.7379047527445</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Kızılçukur Vadisi">
+  <data key="d4">67.01550209020265</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Devrent Vadisi">
+  <data key="d4">69.72943852502645</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Mazı Yeraltı Şehri">
+  <data key="d4">61.01504279450415</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Roma Havuzu">
+  <data key="d4">78.14178644193153</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Tyana Su Kemerleri">
+  <data key="d4">78.57508849872994</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Göllüdağ">
+  <data key="d4">43.06056170738971</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Köşk Höyük">
+  <data key="d4">78.11457669386908</data>
+</edge>
+<edge source="Ağzıkarahan Kervansarayı" target="Derebağ Şelalesi">
+  <data key="d4">109.94816978137331</data>
+</edge>
+<edge source="Aleaddin Tepesi" target="Beyşehir Gölü">
+  <data key="d4">85.51879507573685</data>
+</edge>
+<edge source="Aleaddin Tepesi" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">93.80527453322524</data>
+</edge>
+<edge source="Beyşehir Gölü" target="Kubadabad Sarayı Kalıntıları">
+  <data key="d4">13.369267026962996</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Hasandede Peribacaları">
+  <data key="d4">22.22191028555378</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Dinek Dağı">
+  <data key="d4">28.218083110609847</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Obaköy">
+  <data key="d4">35.19796451180115</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Sulu Mağara">
+  <data key="d4">18.467292531232765</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Taş Mektep">
+  <data key="d4">18.734352995855097</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Seyfe Gölü-Kuş Cenneti">
+  <data key="d4">91.80083660482188</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Mucur Yeraltı Şehri">
+  <data key="d4">99.91290141071448</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Kesikköprü">
+  <data key="d4">95.56039044143832</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">63.19260051722347</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Tuz Gölü">
+  <data key="d4">90.08137010634631</data>
+</edge>
+<edge source="Çeşnigir Köprüsü" target="Hattuşaş Antik Kenti">
+  <data key="d4">112.66338671157939</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Dinek Dağı">
+  <data key="d4">9.976334576382861</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Obaköy">
+  <data key="d4">18.37799404907787</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Sulu Mağara">
+  <data key="d4">10.796257859960418</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Taş Mektep">
+  <data key="d4">11.665939761707397</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Seyfe Gölü-Kuş Cenneti">
+  <data key="d4">94.52817884761973</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Mucur Yeraltı Şehri">
+  <data key="d4">105.76516972239757</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Kesikköprü">
+  <data key="d4">105.276664826085</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">59.918120815250894</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Tuz Gölü">
+  <data key="d4">110.8094244475208</data>
+</edge>
+<edge source="Hasandede Peribacaları" target="Hattuşaş Antik Kenti">
+  <data key="d4">96.21023339475992</data>
+</edge>
+<edge source="Dinek Dağı" target="Obaköy">
+  <data key="d4">25.222685645715053</data>
+</edge>
+<edge source="Dinek Dağı" target="Sulu Mağara">
+  <data key="d4">10.625996478462406</data>
+</edge>
+<edge source="Dinek Dağı" target="Taş Mektep">
+  <data key="d4">10.884539944250793</data>
+</edge>
+<edge source="Dinek Dağı" target="Seyfe Gölü-Kuş Cenneti">
+  <data key="d4">87.2489715420006</data>
+</edge>
+<edge source="Dinek Dağı" target="Mucur Yeraltı Şehri">
+  <data key="d4">99.42255500083543</data>
+</edge>
+<edge source="Dinek Dağı" target="Kesikköprü">
+  <data key="d4">100.46271673894262</data>
+</edge>
+<edge source="Dinek Dağı" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">51.43908013375945</data>
+</edge>
+<edge source="Dinek Dağı" target="Tuz Gölü">
+  <data key="d4">112.68044992634157</data>
+</edge>
+<edge source="Dinek Dağı" target="Hattuşaş Antik Kenti">
+  <data key="d4">86.67763370636067</data>
+</edge>
+<edge source="Obaköy" target="Sulu Mağara">
+  <data key="d4">29.15570048032817</data>
+</edge>
+<edge source="Obaköy" target="Taş Mektep">
+  <data key="d4">30.036404501974022</data>
+</edge>
+<edge source="Obaköy" target="Seyfe Gölü-Kuş Cenneti">
+  <data key="d4">112.29983745066664</data>
+</edge>
+<edge source="Obaköy" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">76.6365397406307</data>
+</edge>
+<edge source="Obaköy" target="Hattuşaş Antik Kenti">
+  <data key="d4">102.97651639495183</data>
+</edge>
+<edge source="Sulu Mağara" target="Taş Mektep">
+  <data key="d4">0.9244345833012253</data>
+</edge>
+<edge source="Sulu Mağara" target="Seyfe Gölü-Kuş Cenneti">
+  <data key="d4">84.48911636502314</data>
+</edge>
+<edge source="Sulu Mağara" target="Mucur Yeraltı Şehri">
+  <data key="d4">95.27552793947068</data>
+</edge>
+<edge source="Sulu Mağara" target="Kesikköprü">
+  <data key="d4">94.49317290307332</data>
+</edge>
+<edge source="Sulu Mağara" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">51.106651930590566</data>
+</edge>
+<edge source="Sulu Mağara" target="Tuz Gölü">
+  <data key="d4">102.3816716332135</data>
+</edge>
+<edge source="Sulu Mağara" target="Hattuşaş Antik Kenti">
+  <data key="d4">94.48892800630611</data>
+</edge>
+<edge source="Taş Mektep" target="Seyfe Gölü-Kuş Cenneti">
+  <data key="d4">83.5654095626599</data>
+</edge>
+<edge source="Taş Mektep" target="Mucur Yeraltı Şehri">
+  <data key="d4">94.3565500765204</data>
+</edge>
+<edge source="Taş Mektep" target="Kesikköprü">
+  <data key="d4">93.61288510804222</data>
+</edge>
+<edge source="Taş Mektep" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">50.22839387504416</data>
+</edge>
+<edge source="Taş Mektep" target="Tuz Gölü">
+  <data key="d4">101.93908270408424</data>
+</edge>
+<edge source="Taş Mektep" target="Hattuşaş Antik Kenti">
+  <data key="d4">94.07878192863078</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Mucur Yeraltı Şehri">
+  <data key="d4">17.073156298784983</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Kesikköprü">
+  <data key="d4">32.53568503848015</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">37.93564191209096</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Ihlara Vadisi">
+  <data key="d4">107.87881731591422</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Tuz Gölü">
+  <data key="d4">99.40519658128316</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Selime Peribacaları">
+  <data key="d4">101.97407884035457</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Eğri Minare">
+  <data key="d4">98.16726105974945</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Güvercin Kayası">
+  <data key="d4">91.86344076457435</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">89.78045645952405</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Kayaşehir">
+  <data key="d4">72.00478826149484</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Uçhisar Kalesi">
+  <data key="d4">74.51310504880193</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Güvercinlik Vadisi">
+  <data key="d4">75.43442561818443</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">98.30141126454022</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Aşıklar Vadisi">
+  <data key="d4">72.21449187677264</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Üç Güzeller">
+  <data key="d4">77.90778063836866</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Kızılçukur Vadisi">
+  <data key="d4">74.88372029937754</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Devrent Vadisi">
+  <data key="d4">74.25575863827488</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Mazı Yeraltı Şehri">
+  <data key="d4">91.6747238456052</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Göllüdağ">
+  <data key="d4">108.33377334646649</data>
+</edge>
+<edge source="Seyfe Gölü-Kuş Cenneti" target="Hattuşaş Antik Kenti">
+  <data key="d4">91.44257127550016</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Kesikköprü">
+  <data key="d4">19.01861070622708</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">52.99226411939293</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Ihlara Vadisi">
+  <data key="d4">90.81257230638447</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Tuz Gölü">
+  <data key="d4">91.43605380198429</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Selime Peribacaları">
+  <data key="d4">84.93083778022137</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Eğri Minare">
+  <data key="d4">81.8665760077538</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Güvercin Kayası">
+  <data key="d4">74.97517154593227</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">74.45606250120832</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Kayaşehir">
+  <data key="d4">57.161354120108996</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Uçhisar Kalesi">
+  <data key="d4">60.739027075728984</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Güvercinlik Vadisi">
+  <data key="d4">61.56696096418229</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">82.5692489804416</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Aşıklar Vadisi">
+  <data key="d4">58.9056794406498</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Üç Güzeller">
+  <data key="d4">65.11568138026824</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Kızılçukur Vadisi">
+  <data key="d4">61.973893667460366</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Devrent Vadisi">
+  <data key="d4">61.85096506610616</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Mazı Yeraltı Şehri">
+  <data key="d4">77.07020421618829</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Göllüdağ">
+  <data key="d4">91.6421241849779</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Erciyes Kayak Merkezi">
+  <data key="d4">115.60987919865988</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Tekir Yaylası">
+  <data key="d4">115.69910832199103</data>
+</edge>
+<edge source="Mucur Yeraltı Şehri" target="Hattuşaş Antik Kenti">
+  <data key="d4">108.31172779643794</data>
+</edge>
+<edge source="Kesikköprü" target="Dulkadirli Yeraltı Şehri">
+  <data key="d4">60.81852743735132</data>
+</edge>
+<edge source="Kesikköprü" target="Ihlara Vadisi">
+  <data key="d4">79.81097379159401</data>
+</edge>
+<edge source="Kesikköprü" target="Tuz Gölü">
+  <data key="d4">73.27853343951925</data>
+</edge>
+<edge source="Kesikköprü" target="Selime Peribacaları">
+  <data key="d4">73.47801650660513</data>
+</edge>
+<edge source="Kesikköprü" target="Eğri Minare">
+  <data key="d4">66.58823720286267</data>
+</edge>
+<edge source="Kesikköprü" target="Güvercin Kayası">
+  <data key="d4">62.165500408137454</data>
+</edge>
+<edge source="Kesikköprü" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">73.67531322895536</data>
+</edge>
+<edge source="Kesikköprü" target="Kayaşehir">
+  <data key="d4">58.63975829349281</data>
+</edge>
+<edge source="Kesikköprü" target="Uçhisar Kalesi">
+  <data key="d4">64.31284118042124</data>
+</edge>
+<edge source="Kesikköprü" target="Güvercinlik Vadisi">
+  <data key="d4">64.89991787765247</data>
+</edge>
+<edge source="Kesikköprü" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">80.26732621845875</data>
+</edge>
+<edge source="Kesikköprü" target="Aşıklar Vadisi">
+  <data key="d4">63.48863636326261</data>
+</edge>
+<edge source="Kesikköprü" target="Üç Güzeller">
+  <data key="d4">70.2112330895763</data>
+</edge>
+<edge source="Kesikköprü" target="Kızılçukur Vadisi">
+  <data key="d4">67.05917795159286</data>
+</edge>
+<edge source="Kesikköprü" target="Devrent Vadisi">
+  <data key="d4">67.78264005539988</data>
+</edge>
+<edge source="Kesikköprü" target="Mazı Yeraltı Şehri">
+  <data key="d4">77.9907863692624</data>
+</edge>
+<edge source="Kesikköprü" target="Göllüdağ">
+  <data key="d4">85.22915554812045</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Tuz Gölü">
+  <data key="d4">105.50452459816631</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Kayaşehir">
+  <data key="d4">109.7190765258103</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Uçhisar Kalesi">
+  <data key="d4">112.43931049403554</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Güvercinlik Vadisi">
+  <data key="d4">113.35467284390852</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Aşıklar Vadisi">
+  <data key="d4">110.1487145751284</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Üç Güzeller">
+  <data key="d4">115.79804469493673</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Kızılçukur Vadisi">
+  <data key="d4">112.79172121135197</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Devrent Vadisi">
+  <data key="d4">112.09755960268181</data>
+</edge>
+<edge source="Dulkadirli Yeraltı Şehri" target="Hattuşaş Antik Kenti">
+  <data key="d4">68.970557218074</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Tuz Gölü">
+  <data key="d4">97.96816817189003</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Selime Peribacaları">
+  <data key="d4">6.59092066004859</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Eğri Minare">
+  <data key="d4">27.322616767822268</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Güvercin Kayası">
+  <data key="d4">19.22360349871108</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">46.501547742158685</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Kayaşehir">
+  <data key="d4">55.21784828174756</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Uçhisar Kalesi">
+  <data key="d4">61.680892456959654</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Güvercinlik Vadisi">
+  <data key="d4">60.90750266626586</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">41.027392886045284</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Aşıklar Vadisi">
+  <data key="d4">64.9473666688874</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Üç Güzeller">
+  <data key="d4">67.63486831560192</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Kızılçukur Vadisi">
+  <data key="d4">67.03939196899795</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Devrent Vadisi">
+  <data key="d4">70.05044053006799</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Mazı Yeraltı Şehri">
+  <data key="d4">53.65664950900515</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Roma Havuzu">
+  <data key="d4">52.31678786757721</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Tyana Su Kemerleri">
+  <data key="d4">52.77959127670612</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Göllüdağ">
+  <data key="d4">23.80818983343054</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Köşk Höyük">
+  <data key="d4">52.29025377486855</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Erciyes Kayak Merkezi">
+  <data key="d4">112.461602021763</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Tekir Yaylası">
+  <data key="d4">112.79566305404637</data>
+</edge>
+<edge source="Ihlara Vadisi" target="Derebağ Şelalesi">
+  <data key="d4">90.18483117018036</data>
+</edge>
+<edge source="Tuz Gölü" target="Selime Peribacaları">
+  <data key="d4">92.4397683741092</data>
+</edge>
+<edge source="Tuz Gölü" target="Eğri Minare">
+  <data key="d4">70.77334386318879</data>
+</edge>
+<edge source="Tuz Gölü" target="Güvercin Kayası">
+  <data key="d4">81.28552119499747</data>
+</edge>
+<edge source="Tuz Gölü" target="Kayaşehir">
+  <data key="d4">116.26055715217682</data>
+</edge>
+<edge source="Tuz Gölü" target="Göllüdağ">
+  <data key="d4">117.70524762517795</data>
+</edge>
+<edge source="Selime Peribacaları" target="Eğri Minare">
+  <data key="d4">22.38171682253303</data>
+</edge>
+<edge source="Selime Peribacaları" target="Güvercin Kayası">
+  <data key="d4">12.67161397617314</data>
+</edge>
+<edge source="Selime Peribacaları" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">45.89894389488982</data>
+</edge>
+<edge source="Selime Peribacaları" target="Kayaşehir">
+  <data key="d4">52.52134134709996</data>
+</edge>
+<edge source="Selime Peribacaları" target="Uçhisar Kalesi">
+  <data key="d4">59.4808652110738</data>
+</edge>
+<edge source="Selime Peribacaları" target="Güvercinlik Vadisi">
+  <data key="d4">58.78953247676356</data>
+</edge>
+<edge source="Selime Peribacaları" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">41.687381855516435</data>
+</edge>
+<edge source="Selime Peribacaları" target="Aşıklar Vadisi">
+  <data key="d4">62.576711365308064</data>
+</edge>
+<edge source="Selime Peribacaları" target="Üç Güzeller">
+  <data key="d4">65.84743365663218</data>
+</edge>
+<edge source="Selime Peribacaları" target="Kızılçukur Vadisi">
+  <data key="d4">64.95859709620456</data>
+</edge>
+<edge source="Selime Peribacaları" target="Devrent Vadisi">
+  <data key="d4">67.93607847769414</data>
+</edge>
+<edge source="Selime Peribacaları" target="Mazı Yeraltı Şehri">
+  <data key="d4">53.33942064599279</data>
+</edge>
+<edge source="Selime Peribacaları" target="Roma Havuzu">
+  <data key="d4">58.804816875804065</data>
+</edge>
+<edge source="Selime Peribacaları" target="Tyana Su Kemerleri">
+  <data key="d4">59.33285582561602</data>
+</edge>
+<edge source="Selime Peribacaları" target="Göllüdağ">
+  <data key="d4">26.822412505712585</data>
+</edge>
+<edge source="Selime Peribacaları" target="Köşk Höyük">
+  <data key="d4">58.77550975485675</data>
+</edge>
+<edge source="Selime Peribacaları" target="Erciyes Kayak Merkezi">
+  <data key="d4">113.14029873782415</data>
+</edge>
+<edge source="Selime Peribacaları" target="Tekir Yaylası">
+  <data key="d4">113.46272993347894</data>
+</edge>
+<edge source="Selime Peribacaları" target="Derebağ Şelalesi">
+  <data key="d4">94.11687682287624</data>
+</edge>
+<edge source="Eğri Minare" target="Güvercin Kayası">
+  <data key="d4">14.870864959514572</data>
+</edge>
+<edge source="Eğri Minare" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">63.83897667254435</data>
+</edge>
+<edge source="Eğri Minare" target="Kayaşehir">
+  <data key="d4">65.45422164061496</data>
+</edge>
+<edge source="Eğri Minare" target="Uçhisar Kalesi">
+  <data key="d4">73.34157694601089</data>
+</edge>
+<edge source="Eğri Minare" target="Güvercinlik Vadisi">
+  <data key="d4">72.89335254481436</data>
+</edge>
+<edge source="Eğri Minare" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">61.67895758741001</data>
+</edge>
+<edge source="Eğri Minare" target="Aşıklar Vadisi">
+  <data key="d4">75.83997507154133</data>
+</edge>
+<edge source="Eğri Minare" target="Üç Güzeller">
+  <data key="d4">80.46594499502464</data>
+</edge>
+<edge source="Eğri Minare" target="Kızılçukur Vadisi">
+  <data key="d4">78.87892910958843</data>
+</edge>
+<edge source="Eğri Minare" target="Devrent Vadisi">
+  <data key="d4">81.64992780744097</data>
+</edge>
+<edge source="Eğri Minare" target="Mazı Yeraltı Şehri">
+  <data key="d4">71.46412020881544</data>
+</edge>
+<edge source="Eğri Minare" target="Roma Havuzu">
+  <data key="d4">77.81874179243484</data>
+</edge>
+<edge source="Eğri Minare" target="Tyana Su Kemerleri">
+  <data key="d4">77.63105607328062</data>
+</edge>
+<edge source="Eğri Minare" target="Göllüdağ">
+  <data key="d4">49.033959768278024</data>
+</edge>
+<edge source="Eğri Minare" target="Köşk Höyük">
+  <data key="d4">77.81269096365605</data>
+</edge>
+<edge source="Eğri Minare" target="Derebağ Şelalesi">
+  <data key="d4">116.4299019352916</data>
+</edge>
+<edge source="Güvercin Kayası" target="Kaynaklı Yeraltı Şehri">
+  <data key="d4">48.98344196484935</data>
+</edge>
+<edge source="Güvercin Kayası" target="Kayaşehir">
+  <data key="d4">51.13173824136943</data>
+</edge>
+<edge source="Güvercin Kayası" target="Uçhisar Kalesi">
+  <data key="d4">58.87735830836771</data>
+</edge>
+<edge source="Güvercin Kayası" target="Güvercinlik Vadisi">
+  <data key="d4">58.37949367111715</data>
+</edge>
+<edge source="Güvercin Kayası" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">47.16048726527855</data>
+</edge>
+<edge source="Güvercin Kayası" target="Aşıklar Vadisi">
+  <data key="d4">61.51741399526745</data>
+</edge>
+<edge source="Güvercin Kayası" target="Üç Güzeller">
+  <data key="d4">65.89327517854002</data>
+</edge>
+<edge source="Güvercin Kayası" target="Kızılçukur Vadisi">
+  <data key="d4">64.43182428746164</data>
+</edge>
+<edge source="Güvercin Kayası" target="Devrent Vadisi">
+  <data key="d4">67.25933499259065</data>
+</edge>
+<edge source="Güvercin Kayası" target="Mazı Yeraltı Şehri">
+  <data key="d4">56.60734615826206</data>
+</edge>
+<edge source="Güvercin Kayası" target="Roma Havuzu">
+  <data key="d4">71.47084491324304</data>
+</edge>
+<edge source="Güvercin Kayası" target="Tyana Su Kemerleri">
+  <data key="d4">71.99871680356782</data>
+</edge>
+<edge source="Güvercin Kayası" target="Göllüdağ">
+  <data key="d4">36.45759073434903</data>
+</edge>
+<edge source="Güvercin Kayası" target="Köşk Höyük">
+  <data key="d4">71.44074973495049</data>
+</edge>
+<edge source="Güvercin Kayası" target="Erciyes Kayak Merkezi">
+  <data key="d4">117.11373159203977</data>
+</edge>
+<edge source="Güvercin Kayası" target="Tekir Yaylası">
+  <data key="d4">117.41252412395757</data>
+</edge>
+<edge source="Güvercin Kayası" target="Derebağ Şelalesi">
+  <data key="d4">103.59730004027159</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Kayaşehir">
+  <data key="d4">18.095562499535713</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Uçhisar Kalesi">
+  <data key="d4">19.489626368642856</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Güvercinlik Vadisi">
+  <data key="d4">18.430980196897828</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">9.680120852867926</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Aşıklar Vadisi">
+  <data key="d4">23.086974724281262</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Üç Güzeller">
+  <data key="d4">22.94354226158262</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Kızılçukur Vadisi">
+  <data key="d4">23.52409058120977</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Devrent Vadisi">
+  <data key="d4">26.389613536487904</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Mazı Yeraltı Şehri">
+  <data key="d4">7.625460559090494</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Roma Havuzu">
+  <data key="d4">69.11169407538979</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Tyana Su Kemerleri">
+  <data key="d4">72.03096584744873</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Göllüdağ">
+  <data key="d4">28.375133379186522</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Köşk Höyük">
+  <data key="d4">69.0032399154985</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Erciyes Kayak Merkezi">
+  <data key="d4">68.13065735151727</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Tekir Yaylası">
+  <data key="d4">68.43014188156916</data>
+</edge>
+<edge source="Kaynaklı Yeraltı Şehri" target="Derebağ Şelalesi">
+  <data key="d4">65.49514696815035</data>
+</edge>
+<edge source="Kayaşehir" target="Uçhisar Kalesi">
+  <data key="d4">8.163815579016122</data>
+</edge>
+<edge source="Kayaşehir" target="Güvercinlik Vadisi">
+  <data key="d4">8.031982351653804</data>
+</edge>
+<edge source="Kayaşehir" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">27.38847761898263</data>
+</edge>
+<edge source="Kayaşehir" target="Aşıklar Vadisi">
+  <data key="d4">10.390977616087826</data>
+</edge>
+<edge source="Kayaşehir" target="Üç Güzeller">
+  <data key="d4">15.604192064493034</data>
+</edge>
+<edge source="Kayaşehir" target="Kızılçukur Vadisi">
+  <data key="d4">13.536234452297386</data>
+</edge>
+<edge source="Kayaşehir" target="Devrent Vadisi">
+  <data key="d4">16.209639586076282</data>
+</edge>
+<edge source="Kayaşehir" target="Mazı Yeraltı Şehri">
+  <data key="d4">19.927458075213487</data>
+</edge>
+<edge source="Kayaşehir" target="Roma Havuzu">
+  <data key="d4">86.21145898090283</data>
+</edge>
+<edge source="Kayaşehir" target="Tyana Su Kemerleri">
+  <data key="d4">88.91367968194643</data>
+</edge>
+<edge source="Kayaşehir" target="Göllüdağ">
+  <data key="d4">42.955669219784454</data>
+</edge>
+<edge source="Kayaşehir" target="Köşk Höyük">
+  <data key="d4">86.10942834468925</data>
+</edge>
+<edge source="Kayaşehir" target="Erciyes Kayak Merkezi">
+  <data key="d4">71.50530816674684</data>
+</edge>
+<edge source="Kayaşehir" target="Tekir Yaylası">
+  <data key="d4">71.73420163378007</data>
+</edge>
+<edge source="Kayaşehir" target="Derebağ Şelalesi">
+  <data key="d4">80.92273837008258</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Güvercinlik Vadisi">
+  <data key="d4">1.0803312817723425</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">29.14870222535092</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Aşıklar Vadisi">
+  <data key="d4">3.617527297518144</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Üç Güzeller">
+  <data key="d4">7.448432056967934</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Kızılçukur Vadisi">
+  <data key="d4">5.557858903301834</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Devrent Vadisi">
+  <data key="d4">8.46896172715563</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Mazı Yeraltı Şehri">
+  <data key="d4">18.027660281992965</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Roma Havuzu">
+  <data key="d4">88.57583346452914</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Tyana Su Kemerleri">
+  <data key="d4">91.51732890156217</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Göllüdağ">
+  <data key="d4">47.06693001558372</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Köşk Höyük">
+  <data key="d4">88.46636219053715</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Erciyes Kayak Merkezi">
+  <data key="d4">63.66355349526251</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Tekir Yaylası">
+  <data key="d4">63.88201747211</data>
+</edge>
+<edge source="Uçhisar Kalesi" target="Derebağ Şelalesi">
+  <data key="d4">77.06912907652561</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Derinkuyu Yeraltı Şehri">
+  <data key="d4">28.08422373339108</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Aşıklar Vadisi">
+  <data key="d4">4.6579994529888396</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Üç Güzeller">
+  <data key="d4">7.65746709934429</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Kızılçukur Vadisi">
+  <data key="d4">6.169431900662932</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Devrent Vadisi">
+  <data key="d4">9.155625898863224</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Mazı Yeraltı Şehri">
+  <data key="d4">16.97181389350335</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Roma Havuzu">
+  <data key="d4">87.50776947133524</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Tyana Su Kemerleri">
+  <data key="d4">90.45443658485064</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Göllüdağ">
+  <data key="d4">46.080871099498324</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Köşk Höyük">
+  <data key="d4">87.39815428075273</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Erciyes Kayak Merkezi">
+  <data key="d4">63.553152492560336</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Tekir Yaylası">
+  <data key="d4">63.77692690859062</data>
+</edge>
+<edge source="Güvercinlik Vadisi" target="Derebağ Şelalesi">
+  <data key="d4">76.20129174434868</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Aşıklar Vadisi">
+  <data key="d4">32.7339076456374</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Üç Güzeller">
+  <data key="d4">32.09772329434521</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Kızılçukur Vadisi">
+  <data key="d4">32.9738900219767</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Devrent Vadisi">
+  <data key="d4">35.75700123723778</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Mazı Yeraltı Şehri">
+  <data key="d4">14.02813807430102</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Roma Havuzu">
+  <data key="d4">59.434490888959886</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Tyana Su Kemerleri">
+  <data key="d4">62.37099862040481</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Göllüdağ">
+  <data key="d4">20.121804301104376</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Köşk Höyük">
+  <data key="d4">59.3257490274502</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Erciyes Kayak Merkezi">
+  <data key="d4">71.52632817248124</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Tekir Yaylası">
+  <data key="d4">71.85450012696633</data>
+</edge>
+<edge source="Derinkuyu Yeraltı Şehri" target="Derebağ Şelalesi">
+  <data key="d4">60.5462000116269</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Üç Güzeller">
+  <data key="d4">6.774775325439579</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Kızılçukur Vadisi">
+  <data key="d4">3.768286716439019</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Devrent Vadisi">
+  <data key="d4">5.911546740928015</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Mazı Yeraltı Şehri">
+  <data key="d4">21.247744475523866</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Roma Havuzu">
+  <data key="d4">92.1488348534489</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Tyana Su Kemerleri">
+  <data key="d4">95.10490596610012</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Göllüdağ">
+  <data key="d4">50.665597453540826</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Köşk Höyük">
+  <data key="d4">92.0388735309368</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Erciyes Kayak Merkezi">
+  <data key="d4">63.04702858122329</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Tekir Yaylası">
+  <data key="d4">63.24737703862111</data>
+</edge>
+<edge source="Aşıklar Vadisi" target="Derebağ Şelalesi">
+  <data key="d4">79.24538496949658</data>
+</edge>
+<edge source="Üç Güzeller" target="Kızılçukur Vadisi">
+  <data key="d4">3.177886368157015</data>
+</edge>
+<edge source="Üç Güzeller" target="Devrent Vadisi">
+  <data key="d4">4.183078640744024</data>
+</edge>
+<edge source="Üç Güzeller" target="Mazı Yeraltı Şehri">
+  <data key="d4">18.927405367556595</data>
+</edge>
+<edge source="Üç Güzeller" target="Roma Havuzu">
+  <data key="d4">90.8740750045495</data>
+</edge>
+<edge source="Üç Güzeller" target="Tyana Su Kemerleri">
+  <data key="d4">94.008068186315</data>
+</edge>
+<edge source="Üç Güzeller" target="Göllüdağ">
+  <data key="d4">51.296700006678336</data>
+</edge>
+<edge source="Üç Güzeller" target="Köşk Höyük">
+  <data key="d4">90.75876012106266</data>
+</edge>
+<edge source="Üç Güzeller" target="Erciyes Kayak Merkezi">
+  <data key="d4">56.44613911215789</data>
+</edge>
+<edge source="Üç Güzeller" target="Tekir Yaylası">
+  <data key="d4">56.65489994755609</data>
+</edge>
+<edge source="Üç Güzeller" target="Derebağ Şelalesi">
+  <data key="d4">73.72162143641413</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Devrent Vadisi">
+  <data key="d4">3.0193160332187756</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Mazı Yeraltı Şehri">
+  <data key="d4">20.452668284498287</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Roma Havuzu">
+  <data key="d4">92.14522178724602</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Tyana Su Kemerleri">
+  <data key="d4">95.20305472943454</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Göllüdağ">
+  <data key="d4">51.65875462069604</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Köşk Höyük">
+  <data key="d4">92.03217626400117</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Erciyes Kayak Merkezi">
+  <data key="d4">59.27896309417134</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Tekir Yaylası">
+  <data key="d4">59.479584639147575</data>
+</edge>
+<edge source="Kızılçukur Vadisi" target="Derebağ Şelalesi">
+  <data key="d4">76.65761541677537</data>
+</edge>
+<edge source="Devrent Vadisi" target="Mazı Yeraltı Şehri">
+  <data key="d4">22.91323523333947</data>
+</edge>
+<edge source="Devrent Vadisi" target="Roma Havuzu">
+  <data key="d4">94.78172285451335</data>
+</edge>
+<edge source="Devrent Vadisi" target="Tyana Su Kemerleri">
+  <data key="d4">97.87655212578376</data>
+</edge>
+<edge source="Devrent Vadisi" target="Göllüdağ">
+  <data key="d4">54.60001365862773</data>
+</edge>
+<edge source="Devrent Vadisi" target="Köşk Höyük">
+  <data key="d4">94.66753934163626</data>
+</edge>
+<edge source="Devrent Vadisi" target="Erciyes Kayak Merkezi">
+  <data key="d4">57.764443945899785</data>
+</edge>
+<edge source="Devrent Vadisi" target="Tekir Yaylası">
+  <data key="d4">57.95026761332464</data>
+</edge>
+<edge source="Devrent Vadisi" target="Derebağ Şelalesi">
+  <data key="d4">77.58948892485338</data>
+</edge>
+<edge source="Mazı Yeraltı Şehri" target="Roma Havuzu">
+  <data key="d4">71.95951445143784</data>
+</edge>
+<edge source="Mazı Yeraltı Şehri" target="Tyana Su Kemerleri">
+  <data key="d4">75.1210951261812</data>
+</edge>
+<edge source="Mazı Yeraltı Şehri" target="Göllüdağ">
+  <data key="d4">34.089731441811054</data>
+</edge>
+<edge source="Mazı Yeraltı Şehri" target="Köşk Höyük">
+  <data key="d4">71.84361160051505</data>
+</edge>
+<edge source="Mazı Yeraltı Şehri" target="Erciyes Kayak Merkezi">
+  <data key="d4">60.50638548246352</data>
+</edge>
+<edge source="Mazı Yeraltı Şehri" target="Tekir Yaylası">
+  <data key="d4">60.80541809181226</data>
+</edge>
+<edge source="Mazı Yeraltı Şehri" target="Derebağ Şelalesi">
+  <data key="d4">61.117023338452356</data>
+</edge>
+<edge source="Manazan Mağaraları" target="İncesu Mağarası">
+  <data key="d4">10.660155858490029</data>
+</edge>
+<edge source="Manazan Mağaraları" target="Tyana Su Kemerleri">
+  <data key="d4">116.85468391739262</data>
+</edge>
+<edge source="İncesu Mağarası" target="Roma Havuzu">
+  <data key="d4">118.96640583165866</data>
+</edge>
+<edge source="İncesu Mağarası" target="Tyana Su Kemerleri">
+  <data key="d4">115.08011031925692</data>
+</edge>
+<edge source="İncesu Mağarası" target="Köşk Höyük">
+  <data key="d4">119.1009636660096</data>
+</edge>
+<edge source="Roma Havuzu" target="Tyana Su Kemerleri">
+  <data key="d4">3.929405417917227</data>
+</edge>
+<edge source="Roma Havuzu" target="Göllüdağ">
+  <data key="d4">44.907877920340354</data>
+</edge>
+<edge source="Roma Havuzu" target="Köşk Höyük">
+  <data key="d4">0.1346066825140313</data>
+</edge>
+<edge source="Roma Havuzu" target="Erciyes Kayak Merkezi">
+  <data key="d4">111.08296748576954</data>
+</edge>
+<edge source="Roma Havuzu" target="Tekir Yaylası">
+  <data key="d4">111.46722249803518</data>
+</edge>
+<edge source="Roma Havuzu" target="Derebağ Şelalesi">
+  <data key="d4">64.14629361851169</data>
+</edge>
+<edge source="Tyana Su Kemerleri" target="Göllüdağ">
+  <data key="d4">47.08737913205946</data>
+</edge>
+<edge source="Tyana Su Kemerleri" target="Köşk Höyük">
+  <data key="d4">4.063093905944574</data>
+</edge>
+<edge source="Tyana Su Kemerleri" target="Erciyes Kayak Merkezi">
+  <data key="d4">114.98051005318628</data>
+</edge>
+<edge source="Tyana Su Kemerleri" target="Tekir Yaylası">
+  <data key="d4">115.36468106411894</data>
+</edge>
+<edge source="Tyana Su Kemerleri" target="Derebağ Şelalesi">
+  <data key="d4">67.93847907864419</data>
+</edge>
+<edge source="Göllüdağ" target="Köşk Höyük">
+  <data key="d4">44.824325570573265</data>
+</edge>
+<edge source="Göllüdağ" target="Erciyes Kayak Merkezi">
+  <data key="d4">89.8321070788545</data>
+</edge>
+<edge source="Göllüdağ" target="Tekir Yaylası">
+  <data key="d4">90.17930685597831</data>
+</edge>
+<edge source="Göllüdağ" target="Derebağ Şelalesi">
+  <data key="d4">67.41399447960492</data>
+</edge>
+<edge source="Köşk Höyük" target="Erciyes Kayak Merkezi">
+  <data key="d4">110.9483686837921</data>
+</edge>
+<edge source="Köşk Höyük" target="Tekir Yaylası">
+  <data key="d4">111.33262393595737</data>
+</edge>
+<edge source="Köşk Höyük" target="Derebağ Şelalesi">
+  <data key="d4">64.02190811187054</data>
+</edge>
+<edge source="Erciyes Kayak Merkezi" target="Tekir Yaylası">
+  <data key="d4">0.38468487787988764</data>
+</edge>
+<edge source="Erciyes Kayak Merkezi" target="Derebağ Şelalesi">
+  <data key="d4">57.814897410480036</data>
+</edge>
+<edge source="Tekir Yaylası" target="Derebağ Şelalesi">
+  <data key="d4">58.169051467087364</data>
+</edge>
+<edge source="Kazankaya Kanyonu" target="Amasya AlçakKöprü">
+  <data key="d4">64.03977553750948</data>
+</edge>
+<edge source="Kazankaya Kanyonu" target="Hattuşaş Antik Kenti">
+  <data key="d4">64.61817984435207</data>
+</edge>
+<edge source="Gökpınar Gölü" target="Sarissa Antik Kenti">
+  <data key="d4">80.04991007852125</data>
+</edge>
+<edge source="Gökpınar Gölü" target="Levent Vadisi">
+  <data key="d4">60.611817545582156</data>
+</edge>
+<edge source="Gökpınar Gölü" target="Tohma Kanyonu">
+  <data key="d4">18.77120481376012</data>
+</edge>
+<edge source="Gökpınar Gölü" target="Arapgir Kozluk Çayı Kanyonu">
+  <data key="d4">112.15576026602506</data>
+</edge>
+<edge source="Gökpınar Gölü" target="Saklıkapı Kanyonu">
+  <data key="d4">102.04970140554205</data>
+</edge>
+<edge source="Gökpınar Gölü" target="Gümüşçay Kanyonu">
+  <data key="d4">113.04404040618356</data>
+</edge>
+<edge source="Gökpınar Gölü" target="Besni Sugözü">
+  <data key="d4">119.5464304158095</data>
+</edge>
+<edge source="Sarissa Antik Kenti" target="Tödürge Gölü">
+  <data key="d4">86.97912786394828</data>
+</edge>
+<edge source="Sarissa Antik Kenti" target="Şehitler Anıtı">
+  <data key="d4">96.73624030096965</data>
+</edge>
+<edge source="Sarissa Antik Kenti" target="Tohma Kanyonu">
+  <data key="d4">95.90594263736736</data>
+</edge>
+<edge source="Tödürge Gölü" target="Şehitler Anıtı">
+  <data key="d4">12.402411177119252</data>
+</edge>
+<edge source="Tödürge Gölü" target="Arapgir Kozluk Çayı Kanyonu">
+  <data key="d4">117.9103917087572</data>
+</edge>
+<edge source="Tödürge Gölü" target="Karanlık Kanyon">
+  <data key="d4">102.73840663684838</data>
+</edge>
+<edge source="Tödürge Gölü" target="Munzur Dağları">
+  <data key="d4">113.94020240259216</data>
+</edge>
+<edge source="Şehitler Anıtı" target="Arapgir Kozluk Çayı Kanyonu">
+  <data key="d4">111.40618327096679</data>
+</edge>
+<edge source="Şehitler Anıtı" target="Karanlık Kanyon">
+  <data key="d4">94.76650362624723</data>
+</edge>
+<edge source="Şehitler Anıtı" target="Munzur Dağları">
+  <data key="d4">104.27252654561902</data>
+</edge>
+<edge source="Levent Vadisi" target="Tohma Kanyonu">
+  <data key="d4">41.86140991741478</data>
+</edge>
+<edge source="Levent Vadisi" target="Arapgir Kozluk Çayı Kanyonu">
+  <data key="d4">88.02052797341936</data>
+</edge>
+<edge source="Levent Vadisi" target="Çırçır Şelalesi">
+  <data key="d4">83.46662745842093</data>
+</edge>
+<edge source="Levent Vadisi" target="Saklıkapı Kanyonu">
+  <data key="d4">60.26713249661209</data>
+</edge>
+<edge source="Levent Vadisi" target="Karanlık Kanyon">
+  <data key="d4">107.73391132125734</data>
+</edge>
+<edge source="Levent Vadisi" target="Çemişgezek Kalesi">
+  <data key="d4">112.52719250186922</data>
+</edge>
+<edge source="Levent Vadisi" target="Nemrut Dağı">
+  <data key="d4">85.86689164488381</data>
+</edge>
+<edge source="Levent Vadisi" target="Gümüşçay Kanyonu">
+  <data key="d4">61.91223864151461</data>
+</edge>
+<edge source="Levent Vadisi" target="Besni Sugözü">
+  <data key="d4">84.16096961850371</data>
+</edge>
+<edge source="Levent Vadisi" target="Takoran Vadisi">
+  <data key="d4">113.06766043810282</data>
+</edge>
+<edge source="Tohma Kanyonu" target="Arapgir Kozluk Çayı Kanyonu">
+  <data key="d4">102.11669044138115</data>
+</edge>
+<edge source="Tohma Kanyonu" target="Çırçır Şelalesi">
+  <data key="d4">112.11121286048815</data>
+</edge>
+<edge source="Tohma Kanyonu" target="Saklıkapı Kanyonu">
+  <data key="d4">87.24080356098672</data>
+</edge>
+<edge source="Tohma Kanyonu" target="Karanlık Kanyon">
+  <data key="d4">116.38079698338184</data>
+</edge>
+<edge source="Tohma Kanyonu" target="Gümüşçay Kanyonu">
+  <data key="d4">96.3886556722831</data>
+</edge>
+<edge source="Tohma Kanyonu" target="Besni Sugözü">
+  <data key="d4">105.64223862241876</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Harput Kalesi">
+  <data key="d4">78.36746525718551</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Hazar Gölü">
+  <data key="d4">100.52975557265172</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Çırçır Şelalesi">
+  <data key="d4">39.114701065392765</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Saklıkapı Kanyonu">
+  <data key="d4">36.678004449418246</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Karanlık Kanyon">
+  <data key="d4">22.234875822499976</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Munzur Dağları">
+  <data key="d4">38.42240416420593</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">87.97522874820345</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Çemişgezek Kalesi">
+  <data key="d4">37.07688565391447</data>
+</edge>
+<edge source="Arapgir Kozluk Çayı Kanyonu" target="Gümüşçay Kanyonu">
+  <data key="d4">55.123089313037745</data>
+</edge>
+<edge source="Harput Kalesi" target="Hazar Gölü">
+  <data key="d4">27.369442488581857</data>
+</edge>
+<edge source="Harput Kalesi" target="Çırçır Şelalesi">
+  <data key="d4">44.80564391059286</data>
+</edge>
+<edge source="Harput Kalesi" target="Saklıkapı Kanyonu">
+  <data key="d4">68.32641794333526</data>
+</edge>
+<edge source="Harput Kalesi" target="Girlevik Çağlayanı">
+  <data key="d4">106.1650075328189</data>
+</edge>
+<edge source="Harput Kalesi" target="Karanlık Kanyon">
+  <data key="d4">90.90186723447374</data>
+</edge>
+<edge source="Harput Kalesi" target="Munzur Dağları">
+  <data key="d4">84.87448720432472</data>
+</edge>
+<edge source="Harput Kalesi" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">52.57579724801741</data>
+</edge>
+<edge source="Harput Kalesi" target="Çemişgezek Kalesi">
+  <data key="d4">49.809520696308766</data>
+</edge>
+<edge source="Harput Kalesi" target="Dereova Şelalesi">
+  <data key="d4">81.77169195711637</data>
+</edge>
+<edge source="Harput Kalesi" target="Bingöl Şehitler Anıtı">
+  <data key="d4">99.04121020951216</data>
+</edge>
+<edge source="Harput Kalesi" target="Buban Bacaları">
+  <data key="d4">112.19121715330563</data>
+</edge>
+<edge source="Harput Kalesi" target="Nemrut Dağı">
+  <data key="d4">92.11263329952543</data>
+</edge>
+<edge source="Harput Kalesi" target="Gümüşçay Kanyonu">
+  <data key="d4">58.9347971490271</data>
+</edge>
+<edge source="Harput Kalesi" target="Takoran Vadisi">
+  <data key="d4">89.00425249417627</data>
+</edge>
+<edge source="Harput Kalesi" target="Bırkleyn Mağaraları">
+  <data key="d4">114.64247264022275</data>
+</edge>
+<edge source="Hazar Gölü" target="Çırçır Şelalesi">
+  <data key="d4">62.82624138916122</data>
+</edge>
+<edge source="Hazar Gölü" target="Saklıkapı Kanyonu">
+  <data key="d4">82.08051235336387</data>
+</edge>
+<edge source="Hazar Gölü" target="Karanlık Kanyon">
+  <data key="d4">115.6127993406908</data>
+</edge>
+<edge source="Hazar Gölü" target="Munzur Dağları">
+  <data key="d4">111.57424155613923</data>
+</edge>
+<edge source="Hazar Gölü" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">75.5259485828984</data>
+</edge>
+<edge source="Hazar Gölü" target="Çemişgezek Kalesi">
+  <data key="d4">76.14595288148668</data>
+</edge>
+<edge source="Hazar Gölü" target="Dereova Şelalesi">
+  <data key="d4">99.1249774176232</data>
+</edge>
+<edge source="Hazar Gölü" target="Bingöl Şehitler Anıtı">
+  <data key="d4">101.70126133504267</data>
+</edge>
+<edge source="Hazar Gölü" target="Buban Bacaları">
+  <data key="d4">116.5967724305088</data>
+</edge>
+<edge source="Hazar Gölü" target="Nemrut Dağı">
+  <data key="d4">76.00496880436124</data>
+</edge>
+<edge source="Hazar Gölü" target="Gümüşçay Kanyonu">
+  <data key="d4">66.66762876795565</data>
+</edge>
+<edge source="Hazar Gölü" target="Takoran Vadisi">
+  <data key="d4">66.32265475550723</data>
+</edge>
+<edge source="Hazar Gölü" target="On Gözlü Köprü">
+  <data key="d4">100.4340626506203</data>
+</edge>
+<edge source="Hazar Gölü" target="Bırkleyn Mağaraları">
+  <data key="d4">105.31260698992003</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Saklıkapı Kanyonu">
+  <data key="d4">24.87104076513662</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Karanlık Kanyon">
+  <data key="d4">57.994992347141704</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Munzur Dağları">
+  <data key="d4">62.95229716274787</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">75.50993281604431</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Çemişgezek Kalesi">
+  <data key="d4">33.72069522813496</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Dereova Şelalesi">
+  <data key="d4">110.50571356062365</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Nemrut Dağı">
+  <data key="d4">89.36382598673558</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Gümüşçay Kanyonu">
+  <data key="d4">26.41838257040309</data>
+</edge>
+<edge source="Çırçır Şelalesi" target="Takoran Vadisi">
+  <data key="d4">99.85943194907733</data>
+</edge>
+<edge source="Saklıkapı Kanyonu" target="Karanlık Kanyon">
+  <data key="d4">58.90801595269906</data>
+</edge>
+<edge source="Saklıkapı Kanyonu" target="Munzur Dağları">
+  <data key="d4">71.95384993130155</data>
+</edge>
+<edge source="Saklıkapı Kanyonu" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">99.30754160069256</data>
+</edge>
+<edge source="Saklıkapı Kanyonu" target="Çemişgezek Kalesi">
+  <data key="d4">52.42363900649814</data>
+</edge>
+<edge source="Saklıkapı Kanyonu" target="Nemrut Dağı">
+  <data key="d4">87.3175138983062</data>
+</edge>
+<edge source="Saklıkapı Kanyonu" target="Gümüşçay Kanyonu">
+  <data key="d4">20.696288851511543</data>
+</edge>
+<edge source="Saklıkapı Kanyonu" target="Takoran Vadisi">
+  <data key="d4">104.31814340706501</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Karanlık Kanyon">
+  <data key="d4">111.91269360321135</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Munzur Dağları">
+  <data key="d4">89.27958069260603</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Keşiş Dağı">
+  <data key="d4">23.12955066080847</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">53.59627413555875</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Çemişgezek Kalesi">
+  <data key="d4">91.46216682697462</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Dereova Şelalesi">
+  <data key="d4">37.97200383473998</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Bingöl Şehitler Anıtı">
+  <data key="d4">91.00811769352016</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Buban Bacaları">
+  <data key="d4">88.67940290370284</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Yeraltı Şehri">
+  <data key="d4">96.01698516462282</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Santa Harabeleri">
+  <data key="d4">118.8336910841506</data>
+</edge>
+<edge source="Girlevik Çağlayanı" target="Satala AntikKenti">
+  <data key="d4">49.414749989723774</data>
+</edge>
+<edge source="Karanlık Kanyon" target="Munzur Dağları">
+  <data key="d4">22.76346539491724</data>
+</edge>
+<edge source="Karanlık Kanyon" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">87.52195361755338</data>
+</edge>
+<edge source="Karanlık Kanyon" target="Çemişgezek Kalesi">
+  <data key="d4">42.52338420088582</data>
+</edge>
+<edge source="Karanlık Kanyon" target="Dereova Şelalesi">
+  <data key="d4">118.68997102961205</data>
+</edge>
+<edge source="Karanlık Kanyon" target="Gümüşçay Kanyonu">
+  <data key="d4">76.9188059229386</data>
+</edge>
+<edge source="Munzur Dağları" target="Keşiş Dağı">
+  <data key="d4">101.21980911783429</data>
+</edge>
+<edge source="Munzur Dağları" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">69.64933311254981</data>
+</edge>
+<edge source="Munzur Dağları" target="Çemişgezek Kalesi">
+  <data key="d4">35.52655643098186</data>
+</edge>
+<edge source="Munzur Dağları" target="Dereova Şelalesi">
+  <data key="d4">98.35758008093848</data>
+</edge>
+<edge source="Munzur Dağları" target="Gümüşçay Kanyonu">
+  <data key="d4">86.57574468965572</data>
+</edge>
+<edge source="Munzur Dağları" target="Satala AntikKenti">
+  <data key="d4">105.19103017333754</data>
+</edge>
+<edge source="Keşiş Dağı" target="Munzur Vadisi Milli Parkı">
+  <data key="d4">76.25433688003385</data>
+</edge>
+<edge source="Keşiş Dağı" target="Çemişgezek Kalesi">
+  <data key="d4">109.64400058892716</data>
+</edge>
+<edge source="Keşiş Dağı" target="Dereova Şelalesi">
+  <data key="d4">59.49982616227044</data>
+</edge>
+<edge source="Keşiş Dağı" target="Bingöl Şehitler Anıtı">
+  <data key="d4">108.55121666358387</data>
+</edge>
+<edge source="Keşiş Dağı" target="Buban Bacaları">
+  <data key="d4">103.65115582177957</data>
+</edge>
+<edge source="Keşiş Dağı" target="Yeraltı Şehri">
+  <data key="d4">73.7181537147821</data>
+</edge>
+<edge source="Keşiş Dağı" target="Sümela Manastırı">
+  <data key="d4">100.14263748450146</data>
+</edge>
+<edge source="Keşiş Dağı" target="Santa Harabeleri">
+  <data key="d4">95.83658071321362</data>
+</edge>
+<edge source="Keşiş Dağı" target="Satala AntikKenti">
+  <data key="d4">28.949197525062235</data>
+</edge>
+<edge source="Munzur Vadisi Milli Parkı" target="Çemişgezek Kalesi">
+  <data key="d4">51.28642044503637</data>
+</edge>
+<edge source="Munzur Vadisi Milli Parkı" target="Dereova Şelalesi">
+  <data key="d4">35.234266653356705</data>
+</edge>
+<edge source="Munzur Vadisi Milli Parkı" target="Bingöl Şehitler Anıtı">
+  <data key="d4">78.35774054617985</data>
+</edge>
+<edge source="Munzur Vadisi Milli Parkı" target="Buban Bacaları">
+  <data key="d4">85.61174216477154</data>
+</edge>
+<edge source="Munzur Vadisi Milli Parkı" target="Gümüşçay Kanyonu">
+  <data key="d4">99.60644051040913</data>
+</edge>
+<edge source="Munzur Vadisi Milli Parkı" target="Bırkleyn Mağaraları">
+  <data key="d4">114.0538613652042</data>
+</edge>
+<edge source="Munzur Vadisi Milli Parkı" target="Satala AntikKenti">
+  <data key="d4">98.37884417142305</data>
+</edge>
+<edge source="Çemişgezek Kalesi" target="Dereova Şelalesi">
+  <data key="d4">85.92846296946244</data>
+</edge>
+<edge source="Çemişgezek Kalesi" target="Gümüşçay Kanyonu">
+  <data key="d4">60.05127018196633</data>
+</edge>
+<edge source="Dereova Şelalesi" target="Yüzen Ada">
+  <data key="d4">98.1688120366833</data>
+</edge>
+<edge source="Dereova Şelalesi" target="Bingöl Şehitler Anıtı">
+  <data key="d4">56.16367991729193</data>
+</edge>
+<edge source="Dereova Şelalesi" target="Buban Bacaları">
+  <data key="d4">57.97072581685857</data>
+</edge>
+<edge source="Dereova Şelalesi" target="Bırkleyn Mağaraları">
+  <data key="d4">100.56023430453108</data>
+</edge>
+<edge source="Dereova Şelalesi" target="Satala AntikKenti">
+  <data key="d4">87.25060638239027</data>
+</edge>
+<edge source="Yüzen Ada" target="Bingöl Şehitler Anıtı">
+  <data key="d4">50.86755172948911</data>
+</edge>
+<edge source="Yüzen Ada" target="Buban Bacaları">
+  <data key="d4">41.10947177248211</data>
+</edge>
+<edge source="Yüzen Ada" target="Murat Köprüsü">
+  <data key="d4">50.6950917746638</data>
+</edge>
+<edge source="Yüzen Ada" target="Lale Vadisi Parkı">
+  <data key="d4">54.05789667053086</data>
+</edge>
+<edge source="Yüzen Ada" target="Çifte Minareli Medrese">
+  <data key="d4">107.54542557095394</data>
+</edge>
+<edge source="Yüzen Ada" target="Üç Kümbetler">
+  <data key="d4">107.37355968702654</data>
+</edge>
+<edge source="Yüzen Ada" target="Nemrut Krater Gölü">
+  <data key="d4">118.06689177689897</data>
+</edge>
+<edge source="Yüzen Ada" target="Bırkleyn Mağaraları">
+  <data key="d4">59.67380902482116</data>
+</edge>
+<edge source="Yüzen Ada" target="Sason Yaylası">
+  <data key="d4">82.50835371360866</data>
+</edge>
+<edge source="Bingöl Şehitler Anıtı" target="Buban Bacaları">
+  <data key="d4">15.72629373572902</data>
+</edge>
+<edge source="Bingöl Şehitler Anıtı" target="Murat Köprüsü">
+  <data key="d4">100.1797668526536</data>
+</edge>
+<edge source="Bingöl Şehitler Anıtı" target="Lale Vadisi Parkı">
+  <data key="d4">100.86445872730927</data>
+</edge>
+<edge source="Bingöl Şehitler Anıtı" target="On Gözlü Köprü">
+  <data key="d4">116.1739658420768</data>
+</edge>
+<edge source="Bingöl Şehitler Anıtı" target="Bırkleyn Mağaraları">
+  <data key="d4">47.38180128682194</data>
+</edge>
+<edge source="Bingöl Şehitler Anıtı" target="Sason Yaylası">
+  <data key="d4">113.6407129045386</data>
+</edge>
+<edge source="Buban Bacaları" target="Murat Köprüsü">
+  <data key="d4">91.76384468902316</data>
+</edge>
+<edge source="Buban Bacaları" target="Lale Vadisi Parkı">
+  <data key="d4">94.20072597120433</data>
+</edge>
+<edge source="Buban Bacaları" target="Çifte Minareli Medrese">
+  <data key="d4">118.4986023781196</data>
+</edge>
+<edge source="Buban Bacaları" target="Üç Kümbetler">
+  <data key="d4">118.36243990274659</data>
+</edge>
+<edge source="Buban Bacaları" target="Bırkleyn Mağaraları">
+  <data key="d4">56.70294317057781</data>
+</edge>
+<edge source="Buban Bacaları" target="Sason Yaylası">
+  <data key="d4">113.50787559242261</data>
+</edge>
+<edge source="Murat Köprüsü" target="Lale Vadisi Parkı">
+  <data key="d4">12.380247379027288</data>
+</edge>
+<edge source="Murat Köprüsü" target="Çifte Minareli Medrese">
+  <data key="d4">117.55121426257871</data>
+</edge>
+<edge source="Murat Köprüsü" target="Üç Kümbetler">
+  <data key="d4">117.36484156110198</data>
+</edge>
+<edge source="Murat Köprüsü" target="Nemrut Krater Gölü">
+  <data key="d4">67.5775262130063</data>
+</edge>
+<edge source="Murat Köprüsü" target="Süphan Dağı">
+  <data key="d4">114.88682702617209</data>
+</edge>
+<edge source="Murat Köprüsü" target="Bırkleyn Mağaraları">
+  <data key="d4">91.14389820165276</data>
+</edge>
+<edge source="Murat Köprüsü" target="Mor Kiryakus Manastırı">
+  <data key="d4">110.83740059581645</data>
+</edge>
+<edge source="Murat Köprüsü" target="Sason Yaylası">
+  <data key="d4">59.96638412630319</data>
+</edge>
+<edge source="Murat Köprüsü" target="Tillo Kalesi">
+  <data key="d4">111.67529322185065</data>
+</edge>
+<edge source="Murat Köprüsü" target="Rasıl Hacar">
+  <data key="d4">113.59777943916421</data>
+</edge>
+<edge source="Murat Köprüsü" target="Botan Kanyonu">
+  <data key="d4">113.80851250408774</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Nemrut Krater Gölü">
+  <data key="d4">65.2697358571149</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Süphan Dağı">
+  <data key="d4">117.49391001532379</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Bırkleyn Mağaraları">
+  <data key="d4">85.92132064158277</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Hasankeyf Kalesi">
+  <data key="d4">115.73697329984597</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Mor Kiryakus Manastırı">
+  <data key="d4">98.52570229241596</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Sason Yaylası">
+  <data key="d4">47.60841821809856</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Tillo Kalesi">
+  <data key="d4">101.14720406740726</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Rasıl Hacar">
+  <data key="d4">102.48456097273758</data>
+</edge>
+<edge source="Lale Vadisi Parkı" target="Botan Kanyonu">
+  <data key="d4">102.70172435262972</data>
+</edge>
+<edge source="Çifte Minareli Medrese" target="Üç Kümbetler">
+  <data key="d4">0.1865732103008838</data>
+</edge>
+<edge source="Çifte Minareli Medrese" target="Narman Peri Bacaları">
+  <data key="d4">67.0302627670247</data>
+</edge>
+<edge source="Çifte Minareli Medrese" target="Yeraltı Şehri">
+  <data key="d4">109.99630337296519</data>
+</edge>
+<edge source="Üç Kümbetler" target="Narman Peri Bacaları">
+  <data key="d4">67.13342533086706</data>
+</edge>
+<edge source="Üç Kümbetler" target="Yeraltı Şehri">
+  <data key="d4">110.10827804195765</data>
+</edge>
+<edge source="Narman Peri Bacaları" target="Mençuna Şelalesi">
+  <data key="d4">114.23873801053495</data>
+</edge>
+<edge source="Narman Peri Bacaları" target="Çifte Kemer Köprü">
+  <data key="d4">116.46050998983911</data>
+</edge>
+<edge source="Narman Peri Bacaları" target="Fırtına Deresi">
+  <data key="d4">106.8184764364204</data>
+</edge>
+<edge source="Narman Peri Bacaları" target="Şenyuva Köprüsü">
+  <data key="d4">108.69270468532947</data>
+</edge>
+<edge source="Narman Peri Bacaları" target="Ayder Yaylası">
+  <data key="d4">104.23761941422913</data>
+</edge>
+<edge source="Nemrut Krater Gölü" target="Süphan Dağı">
+  <data key="d4">60.86923565300295</data>
+</edge>
+<edge source="Nemrut Krater Gölü" target="Mor Kiryakus Manastırı">
+  <data key="d4">119.08651752619716</data>
+</edge>
+<edge source="Nemrut Krater Gölü" target="Sason Yaylası">
+  <data key="d4">79.71668095989295</data>
+</edge>
+<edge source="Nemrut Krater Gölü" target="Tillo Kalesi">
+  <data key="d4">78.6343820233984</data>
+</edge>
+<edge source="Nemrut Krater Gölü" target="Rasıl Hacar">
+  <data key="d4">86.37936661731162</data>
+</edge>
+<edge source="Nemrut Krater Gölü" target="Botan Kanyonu">
+  <data key="d4">86.47058286691338</data>
+</edge>
+<edge source="Süphan Dağı" target="Diyadin Kanyonu">
+  <data key="d4">97.82183796944769</data>
+</edge>
+<edge source="Süphan Dağı" target="Muradiye Şelalesi">
+  <data key="d4">81.07287716238834</data>
+</edge>
+<edge source="Süphan Dağı" target="Şeytan Köprüsü">
+  <data key="d4">79.78781319798539</data>
+</edge>
+<edge source="Şeytan Kalesi" target="Ani Harabeleri">
+  <data key="d4">80.52248959774673</data>
+</edge>
+<edge source="Ani Harabeleri" target="Diyadin Kanyonu">
+  <data key="d4">109.78521497618084</data>
+</edge>
+<edge source="Ani Harabeleri" target="Karakale Harabesi">
+  <data key="d4">56.32076789377172</data>
+</edge>
+<edge source="Ani Harabeleri" target="Tuzluca Tuz Mağaraları">
+  <data key="d4">51.664595077886254</data>
+</edge>
+<edge source="Nuhun Gemisi" target="Meteor Çukuru">
+  <data key="d4">14.591512623759954</data>
+</edge>
+<edge source="Nuhun Gemisi" target="Diyadin Kanyonu">
+  <data key="d4">49.36456539940221</data>
+</edge>
+<edge source="Nuhun Gemisi" target="Karakale Harabesi">
+  <data key="d4">75.3771667368868</data>
+</edge>
+<edge source="Nuhun Gemisi" target="Tuzluca Tuz Mağaraları">
+  <data key="d4">83.47579050400509</data>
+</edge>
+<edge source="Nuhun Gemisi" target="Muradiye Şelalesi">
+  <data key="d4">59.357493885442715</data>
+</edge>
+<edge source="Nuhun Gemisi" target="Şeytan Köprüsü">
+  <data key="d4">62.64058217492173</data>
+</edge>
+<edge source="Meteor Çukuru" target="Diyadin Kanyonu">
+  <data key="d4">63.94597130877657</data>
+</edge>
+<edge source="Meteor Çukuru" target="Karakale Harabesi">
+  <data key="d4">84.744794468648</data>
+</edge>
+<edge source="Meteor Çukuru" target="Tuzluca Tuz Mağaraları">
+  <data key="d4">94.23385337484899</data>
+</edge>
+<edge source="Meteor Çukuru" target="Muradiye Şelalesi">
+  <data key="d4">68.87409708516701</data>
+</edge>
+<edge source="Meteor Çukuru" target="Şeytan Köprüsü">
+  <data key="d4">71.76025759659822</data>
+</edge>
+<edge source="Diyadin Kanyonu" target="Karakale Harabesi">
+  <data key="d4">59.26687221618073</data>
+</edge>
+<edge source="Diyadin Kanyonu" target="Tuzluca Tuz Mağaraları">
+  <data key="d4">58.41598322283475</data>
+</edge>
+<edge source="Diyadin Kanyonu" target="Muradiye Şelalesi">
+  <data key="d4">52.506055557327144</data>
+</edge>
+<edge source="Diyadin Kanyonu" target="Şeytan Köprüsü">
+  <data key="d4">56.17317104566102</data>
+</edge>
+<edge source="Karakale Harabesi" target="Tuzluca Tuz Mağaraları">
+  <data key="d4">14.172291555721584</data>
+</edge>
+<edge source="Karakale Harabesi" target="Muradiye Şelalesi">
+  <data key="d4">109.83316586940113</data>
+</edge>
+<edge source="Karakale Harabesi" target="Şeytan Köprüsü">
+  <data key="d4">113.66483807866413</data>
+</edge>
+<edge source="Tuzluca Tuz Mağaraları" target="Muradiye Şelalesi">
+  <data key="d4">110.67821078509562</data>
+</edge>
+<edge source="Tuzluca Tuz Mağaraları" target="Şeytan Köprüsü">
+  <data key="d4">114.41498287529467</data>
+</edge>
+<edge source="Muradiye Şelalesi" target="Şeytan Köprüsü">
+  <data key="d4">3.8656289992498114</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Gaziantep Kalesi">
+  <data key="d4">0.40835430058254846</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Kaleoğlu Mağarası">
+  <data key="d4">0.13284071177117082</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Botanik Bahçesi">
+  <data key="d4">3.0882882977584107</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Rumkale">
+  <data key="d4">46.49108393497649</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Ravanda Kalesi">
+  <data key="d4">48.99156754181664</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Oylum Höyük">
+  <data key="d4">44.40033504734986</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Söğütlüdere">
+  <data key="d4">44.03307046076307</data>
+</edge>
+<edge source="Zincirli Bedesten" target="Besni Sugözü">
+  <data key="d4">75.72537103770588</data>
+</edge>
+<edge source="Gaziantep Kalesi" target="Kaleoğlu Mağarası">
+  <data key="d4">0.2758239675710945</data>
+</edge>
+<edge source="Gaziantep Kalesi" target="Botanik Bahçesi">
+  <data key="d4">2.934791245873776</data>
+</edge>
+<edge source="Gaziantep Kalesi" target="Rumkale">
+  <data key="d4">46.456701504709535</data>
+</edge>
+<edge source="Gaziantep Kalesi" target="Ravanda Kalesi">
+  <data key="d4">49.08044646295637</data>
+</edge>
+<edge source="Gaziantep Kalesi" target="Oylum Höyük">
+  <data key="d4">44.66513959989127</data>
+</edge>
+<edge source="Gaziantep Kalesi" target="Söğütlüdere">
+  <data key="d4">44.291624092132345</data>
+</edge>
+<edge source="Gaziantep Kalesi" target="Besni Sugözü">
+  <data key="d4">75.48987675046773</data>
+</edge>
+<edge source="Kaleoğlu Mağarası" target="Botanik Bahçesi">
+  <data key="d4">3.0401087285697317</data>
+</edge>
+<edge source="Kaleoğlu Mağarası" target="Rumkale">
+  <data key="d4">46.47209543934682</data>
+</edge>
+<edge source="Kaleoğlu Mağarası" target="Ravanda Kalesi">
+  <data key="d4">49.02736126010873</data>
+</edge>
+<edge source="Kaleoğlu Mağarası" target="Oylum Höyük">
+  <data key="d4">44.49178750507778</data>
+</edge>
+<edge source="Kaleoğlu Mağarası" target="Söğütlüdere">
+  <data key="d4">44.12257783107015</data>
+</edge>
+<edge source="Kaleoğlu Mağarası" target="Besni Sugözü">
+  <data key="d4">75.64263293849002</data>
+</edge>
+<edge source="Botanik Bahçesi" target="Rumkale">
+  <data key="d4">49.17138782592811</data>
+</edge>
+<edge source="Botanik Bahçesi" target="Ravanda Kalesi">
+  <data key="d4">46.595894525223486</data>
+</edge>
+<edge source="Botanik Bahçesi" target="Oylum Höyük">
+  <data key="d4">43.22941693667988</data>
+</edge>
+<edge source="Botanik Bahçesi" target="Söğütlüdere">
+  <data key="d4">42.80517721208384</data>
+</edge>
+<edge source="Botanik Bahçesi" target="Besni Sugözü">
+  <data key="d4">77.27069477598491</data>
+</edge>
+<edge source="Rumkale" target="Ravanda Kalesi">
+  <data key="d4">95.29134473497184</data>
+</edge>
+<edge source="Rumkale" target="Oylum Höyük">
+  <data key="d4">86.65220818970744</data>
+</edge>
+<edge source="Rumkale" target="Söğütlüdere">
+  <data key="d4">86.57214065027468</data>
+</edge>
+<edge source="Rumkale" target="Nemrut Dağı">
+  <data key="d4">111.90944087903536</data>
+</edge>
+<edge source="Rumkale" target="Besni Sugözü">
+  <data key="d4">42.59366789044335</data>
+</edge>
+<edge source="Rumkale" target="Balıklı Göl">
+  <data key="d4">85.06692262529485</data>
+</edge>
+<edge source="Rumkale" target="Göbeklitepe">
+  <data key="d4">95.52328087363996</data>
+</edge>
+<edge source="Ravanda Kalesi" target="Oylum Höyük">
+  <data key="d4">22.941457384673818</data>
+</edge>
+<edge source="Ravanda Kalesi" target="Söğütlüdere">
+  <data key="d4">22.04511183483529</data>
+</edge>
+<edge source="Oylum Höyük" target="Söğütlüdere">
+  <data key="d4">0.958724474725566</data>
+</edge>
+<edge source="Söğütlüdere" target="Besni Sugözü">
+  <data key="d4">119.69932308444552</data>
+</edge>
+<edge source="Nemrut Dağı" target="Gümüşçay Kanyonu">
+  <data key="d4">67.71884554645476</data>
+</edge>
+<edge source="Nemrut Dağı" target="Besni Sugözü">
+  <data key="d4">89.625278319847</data>
+</edge>
+<edge source="Nemrut Dağı" target="Balıklı Göl">
+  <data key="d4">92.53860341111536</data>
+</edge>
+<edge source="Nemrut Dağı" target="Göbeklitepe">
+  <data key="d4">86.04539438540483</data>
+</edge>
+<edge source="Nemrut Dağı" target="Takoran Vadisi">
+  <data key="d4">28.471086329428022</data>
+</edge>
+<edge source="Gümüşçay Kanyonu" target="Takoran Vadisi">
+  <data key="d4">83.65006309529657</data>
+</edge>
+<edge source="Besni Sugözü" target="Balıklı Göl">
+  <data key="d4">103.09369494243738</data>
+</edge>
+<edge source="Besni Sugözü" target="Göbeklitepe">
+  <data key="d4">109.1087032593244</data>
+</edge>
+<edge source="Besni Sugözü" target="Takoran Vadisi">
+  <data key="d4">113.54950342380342</data>
+</edge>
+<edge source="Balıklı Göl" target="Harran Ovası">
+  <data key="d4">50.38023435861516</data>
+</edge>
+<edge source="Balıklı Göl" target="Göbeklitepe">
+  <data key="d4">13.832694098926835</data>
+</edge>
+<edge source="Balıklı Göl" target="Takoran Vadisi">
+  <data key="d4">88.80904792987165</data>
+</edge>
+<edge source="Harran Ovası" target="Göbeklitepe">
+  <data key="d4">48.530174411915105</data>
+</edge>
+<edge source="Harran Ovası" target="Takoran Vadisi">
+  <data key="d4">118.98978611187191</data>
+</edge>
+<edge source="Göbeklitepe" target="Takoran Vadisi">
+  <data key="d4">78.75819894313547</data>
+</edge>
+<edge source="Takoran Vadisi" target="On Gözlü Köprü">
+  <data key="d4">103.27332141509099</data>
+</edge>
+<edge source="On Gözlü Köprü" target="Bırkleyn Mağaraları">
+  <data key="d4">76.82434454236899</data>
+</edge>
+<edge source="On Gözlü Köprü" target="Mardin Kalesi">
+  <data key="d4">77.91411010179864</data>
+</edge>
+<edge source="On Gözlü Köprü" target="Dara Antik Kenti">
+  <data key="d4">101.20966427191279</data>
+</edge>
+<edge source="On Gözlü Köprü" target="Hasankeyf Kalesi">
+  <data key="d4">105.93818244414865</data>
+</edge>
+<edge source="On Gözlü Köprü" target="Mor Kiryakus Manastırı">
+  <data key="d4">92.54241077318575</data>
+</edge>
+<edge source="On Gözlü Köprü" target="Sason Yaylası">
+  <data key="d4">115.13155592698848</data>
+</edge>
+<edge source="On Gözlü Köprü" target="Kırkat Göleti">
+  <data key="d4">104.38287607493127</data>
+</edge>
+<edge source="Bırkleyn Mağaraları" target="Hasankeyf Kalesi">
+  <data key="d4">117.86344151697278</data>
+</edge>
+<edge source="Bırkleyn Mağaraları" target="Mor Kiryakus Manastırı">
+  <data key="d4">96.06942643394726</data>
+</edge>
+<edge source="Bırkleyn Mağaraları" target="Sason Yaylası">
+  <data key="d4">78.58627987743303</data>
+</edge>
+<edge source="Mardin Kalesi" target="Dara Antik Kenti">
+  <data key="d4">23.949751720938163</data>
+</edge>
+<edge source="Mardin Kalesi" target="Mardin Beyazsu">
+  <data key="d4">51.90982250536288</data>
+</edge>
+<edge source="Mardin Kalesi" target="Hasankeyf Kalesi">
+  <data key="d4">73.84523202332959</data>
+</edge>
+<edge source="Mardin Kalesi" target="Mor Kiryakus Manastırı">
+  <data key="d4">78.89891422572973</data>
+</edge>
+<edge source="Mardin Kalesi" target="Kırkat Göleti">
+  <data key="d4">60.93367535383658</data>
+</edge>
+<edge source="Mardin Kalesi" target="Finik Kalesi">
+  <data key="d4">118.69263696677812</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Mardin Beyazsu">
+  <data key="d4">31.776681196870346</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Hasankeyf Kalesi">
+  <data key="d4">71.97745856166561</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Mor Kiryakus Manastırı">
+  <data key="d4">83.38158762882385</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Kırkat Göleti">
+  <data key="d4">56.48202607859093</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Kasrik Boğazı">
+  <data key="d4">111.57722219643244</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Cizre Kalesi">
+  <data key="d4">111.6915171273602</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Finik Kalesi">
+  <data key="d4">103.1005695985301</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Rasıl Hacar">
+  <data key="d4">119.37746342989045</data>
+</edge>
+<edge source="Dara Antik Kenti" target="Botan Kanyonu">
+  <data key="d4">119.42069876438764</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Hasankeyf Kalesi">
+  <data key="d4">58.037587968957375</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Mor Kiryakus Manastırı">
+  <data key="d4">76.1504531202136</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Kırkat Göleti">
+  <data key="d4">42.38834650819409</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Kasrik Boğazı">
+  <data key="d4">80.37955890433739</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Cudi Dağı">
+  <data key="d4">94.19023352528262</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Cizre Kalesi">
+  <data key="d4">80.11576735220567</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Finik Kalesi">
+  <data key="d4">72.18636528639814</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Tillo Kalesi">
+  <data key="d4">106.65040473777321</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Rasıl Hacar">
+  <data key="d4">96.7054980166573</data>
+</edge>
+<edge source="Mardin Beyazsu" target="Botan Kanyonu">
+  <data key="d4">96.69734014534782</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Mor Kiryakus Manastırı">
+  <data key="d4">22.057312506817677</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Sason Yaylası">
+  <data key="d4">68.41952183517824</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Kırkat Göleti">
+  <data key="d4">16.10184471490863</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Kasrik Boğazı">
+  <data key="d4">76.23937324177945</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Cudi Dağı">
+  <data key="d4">90.82912814194005</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Cizre Kalesi">
+  <data key="d4">81.10394419641631</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Finik Kalesi">
+  <data key="d4">67.58040556323358</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Tillo Kalesi">
+  <data key="d4">62.348418789690584</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Rasıl Hacar">
+  <data key="d4">51.87666678435016</data>
+</edge>
+<edge source="Hasankeyf Kalesi" target="Botan Kanyonu">
+  <data key="d4">51.99481607097455</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Sason Yaylası">
+  <data key="d4">51.00772828097078</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Kırkat Göleti">
+  <data key="d4">34.368382768329774</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Kasrik Boğazı">
+  <data key="d4">95.74205103731254</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Cudi Dağı">
+  <data key="d4">109.75620546395459</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Cizre Kalesi">
+  <data key="d4">101.19776188481374</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Finik Kalesi">
+  <data key="d4">87.51654630469291</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Tillo Kalesi">
+  <data key="d4">68.24267473530074</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Rasıl Hacar">
+  <data key="d4">58.945168232134435</data>
+</edge>
+<edge source="Mor Kiryakus Manastırı" target="Botan Kanyonu">
+  <data key="d4">59.13606071766828</data>
+</edge>
+<edge source="Sason Yaylası" target="Kırkat Göleti">
+  <data key="d4">83.69799712791955</data>
+</edge>
+<edge source="Sason Yaylası" target="Finik Kalesi">
+  <data key="d4">117.27079743587234</data>
+</edge>
+<edge source="Sason Yaylası" target="Tillo Kalesi">
+  <data key="d4">69.61824023117548</data>
+</edge>
+<edge source="Sason Yaylası" target="Rasıl Hacar">
+  <data key="d4">66.69857304302947</data>
+</edge>
+<edge source="Sason Yaylası" target="Botan Kanyonu">
+  <data key="d4">66.94543655001502</data>
+</edge>
+<edge source="Kırkat Göleti" target="Kasrik Boğazı">
+  <data key="d4">76.17265033104566</data>
+</edge>
+<edge source="Kırkat Göleti" target="Cudi Dağı">
+  <data key="d4">91.27217142394281</data>
+</edge>
+<edge source="Kırkat Göleti" target="Cizre Kalesi">
+  <data key="d4">79.78275931593642</data>
+</edge>
+<edge source="Kırkat Göleti" target="Finik Kalesi">
+  <data key="d4">67.05410806251105</data>
+</edge>
+<edge source="Kırkat Göleti" target="Tillo Kalesi">
+  <data key="d4">74.81897061677367</data>
+</edge>
+<edge source="Kırkat Göleti" target="Rasıl Hacar">
+  <data key="d4">64.23773405672365</data>
+</edge>
+<edge source="Kırkat Göleti" target="Botan Kanyonu">
+  <data key="d4">64.31492371036508</data>
+</edge>
+<edge source="Kasrik Boğazı" target="Cudi Dağı">
+  <data key="d4">15.145814521058714</data>
+</edge>
+<edge source="Kasrik Boğazı" target="Cizre Kalesi">
+  <data key="d4">7.444570382422345</data>
+</edge>
+<edge source="Kasrik Boğazı" target="Finik Kalesi">
+  <data key="d4">9.176101601876203</data>
+</edge>
+<edge source="Kasrik Boğazı" target="Tillo Kalesi">
+  <data key="d4">62.63960543926294</data>
+</edge>
+<edge source="Kasrik Boğazı" target="Rasıl Hacar">
+  <data key="d4">59.41708927147872</data>
+</edge>
+<edge source="Kasrik Boğazı" target="Botan Kanyonu">
+  <data key="d4">59.206173841257176</data>
+</edge>
+<edge source="Cudi Dağı" target="Cizre Kalesi">
+  <data key="d4">14.195223346955698</data>
+</edge>
+<edge source="Cudi Dağı" target="Finik Kalesi">
+  <data key="d4">24.320830462568246</data>
+</edge>
+<edge source="Cudi Dağı" target="Tillo Kalesi">
+  <data key="d4">69.45926479333743</data>
+</edge>
+<edge source="Cudi Dağı" target="Rasıl Hacar">
+  <data key="d4">68.30245512351593</data>
+</edge>
+<edge source="Cudi Dağı" target="Botan Kanyonu">
+  <data key="d4">68.07006911877284</data>
+</edge>
+<edge source="Cizre Kalesi" target="Finik Kalesi">
+  <data key="d4">13.69720075994544</data>
+</edge>
+<edge source="Cizre Kalesi" target="Tillo Kalesi">
+  <data key="d4">70.08324903419779</data>
+</edge>
+<edge source="Cizre Kalesi" target="Rasıl Hacar">
+  <data key="d4">66.78857837158992</data>
+</edge>
+<edge source="Cizre Kalesi" target="Botan Kanyonu">
+  <data key="d4">66.5798624833648</data>
+</edge>
+<edge source="Finik Kalesi" target="Tillo Kalesi">
+  <data key="d4">60.184191653666</data>
+</edge>
+<edge source="Finik Kalesi" target="Rasıl Hacar">
+  <data key="d4">55.53826831044246</data>
+</edge>
+<edge source="Finik Kalesi" target="Botan Kanyonu">
+  <data key="d4">55.34870830408259</data>
+</edge>
+<edge source="Tillo Kalesi" target="Rasıl Hacar">
+  <data key="d4">10.583014257381693</data>
+</edge>
+<edge source="Tillo Kalesi" target="Botan Kanyonu">
+  <data key="d4">10.504225917825115</data>
+</edge>
+<edge source="Rasıl Hacar" target="Botan Kanyonu">
+  <data key="d4">0.24893126148823794</data>
+</edge>
+<edge source="Mençuna Şelalesi" target="Çifte Kemer Köprü">
+  <data key="d4">3.5220206838061587</data>
+</edge>
+<edge source="Mençuna Şelalesi" target="Fırtına Deresi">
+  <data key="d4">45.35918477246782</data>
+</edge>
+<edge source="Mençuna Şelalesi" target="Şenyuva Köprüsü">
+  <data key="d4">42.41519650371067</data>
+</edge>
+<edge source="Mençuna Şelalesi" target="Ayder Yaylası">
+  <data key="d4">37.600513320345065</data>
+</edge>
+<edge source="Çifte Kemer Köprü" target="Fırtına Deresi">
+  <data key="d4">48.729258273925026</data>
+</edge>
+<edge source="Çifte Kemer Köprü" target="Şenyuva Köprüsü">
+  <data key="d4">45.73722547580499</data>
+</edge>
+<edge source="Çifte Kemer Köprü" target="Ayder Yaylası">
+  <data key="d4">41.03128885258185</data>
+</edge>
+<edge source="Fırtına Deresi" target="Şenyuva Köprüsü">
+  <data key="d4">3.5753163607683205</data>
+</edge>
+<edge source="Fırtına Deresi" target="Ayder Yaylası">
+  <data key="d4">8.242741265558077</data>
+</edge>
+<edge source="Fırtına Deresi" target="Yeraltı Şehri">
+  <data key="d4">94.1324854051117</data>
+</edge>
+<edge source="Fırtına Deresi" target="Sümela Manastırı">
+  <data key="d4">114.45113508772947</data>
+</edge>
+<edge source="Fırtına Deresi" target="Santa Harabeleri">
+  <data key="d4">104.19131451868888</data>
+</edge>
+<edge source="Şenyuva Köprüsü" target="Ayder Yaylası">
+  <data key="d4">6.615305341235694</data>
+</edge>
+<edge source="Şenyuva Köprüsü" target="Yeraltı Şehri">
+  <data key="d4">97.10162109166161</data>
+</edge>
+<edge source="Şenyuva Köprüsü" target="Sümela Manastırı">
+  <data key="d4">116.17000025839647</data>
+</edge>
+<edge source="Şenyuva Köprüsü" target="Santa Harabeleri">
+  <data key="d4">106.12018542626484</data>
+</edge>
+<edge source="Ayder Yaylası" target="Yeraltı Şehri">
+  <data key="d4">102.0548488574034</data>
+</edge>
+<edge source="Ayder Yaylası" target="Santa Harabeleri">
+  <data key="d4">112.37689350729782</data>
+</edge>
+<edge source="Yeraltı Şehri" target="Sümela Manastırı">
+  <data key="d4">53.50715591024531</data>
+</edge>
+<edge source="Yeraltı Şehri" target="Çal Mağarası">
+  <data key="d4">84.03176844247642</data>
+</edge>
+<edge source="Yeraltı Şehri" target="Santa Harabeleri">
+  <data key="d4">41.92758468987194</data>
+</edge>
+<edge source="Yeraltı Şehri" target="Satala AntikKenti">
+  <data key="d4">61.68476183376206</data>
+</edge>
+<edge source="Sümela Manastırı" target="Çal Mağarası">
+  <data key="d4">30.527750615704722</data>
+</edge>
+<edge source="Sümela Manastırı" target="Santa Harabeleri">
+  <data key="d4">12.637442797018684</data>
+</edge>
+<edge source="Sümela Manastırı" target="Satala AntikKenti">
+  <data key="d4">74.43062052859044</data>
+</edge>
+<edge source="Çal Mağarası" target="Santa Harabeleri">
+  <data key="d4">42.523360008918864</data>
+</edge>
+<edge source="Çal Mağarası" target="Satala AntikKenti">
+  <data key="d4">95.71476563616739</data>
+</edge>
+<edge source="Santa Harabeleri" target="Satala AntikKenti">
+  <data key="d4">72.30398759306212</data>
+</edge>
+<edge source="Amasya AlçakKöprü" target="Batık Minare">
+  <data key="d4">88.68319660098875</data>
+</edge>
+<edge source="Batık Minare" target="İnceburun Feneri">
+  <data key="d4">105.20447865393213</data>
+</edge>
+<edge source="Batık Minare" target="Hamsilos Koyu">
+  <data key="d4">96.32134346719604</data>
+</edge>
+<edge source="İnceburun Feneri" target="Hamsilos Koyu">
+  <data key="d4">9.277933009712347</data>
+</edge>
+<edge source="İnceburun Feneri" target="Pompeipolis Antik Kenti">
+  <data key="d4">88.30584866432854</data>
+</edge>
+<edge source="Hamsilos Koyu" target="Pompeipolis Antik Kenti">
+  <data key="d4">91.41636192485579</data>
+</edge>
+<edge source="Horma Kanyonu" target="Pompeipolis Antik Kenti">
+  <data key="d4">90.30548917331757</data>
+</edge>
+<edge source="Horma Kanyonu" target="Amasra Kalesi">
+  <data key="d4">64.12145299257612</data>
+</edge>
+<edge source="Horma Kanyonu" target="Ağlayan Ağaç">
+  <data key="d4">64.49523562389541</data>
+</edge>
+<edge source="Horma Kanyonu" target="Hadrianapolis Antik Kenti">
+  <data key="d4">95.74299356846996</data>
+</edge>
+<edge source="Horma Kanyonu" target="Gökgöl Mağarası">
+  <data key="d4">111.40501035889459</data>
+</edge>
+<edge source="Amasra Kalesi" target="Ağlayan Ağaç">
+  <data key="d4">0.5010725747492989</data>
+</edge>
+<edge source="Amasra Kalesi" target="Hadrianapolis Antik Kenti">
+  <data key="d4">91.84354649567364</data>
+</edge>
+<edge source="Amasra Kalesi" target="Gökgöl Mağarası">
+  <data key="d4">57.60317929046072</data>
+</edge>
+<edge source="Amasra Kalesi" target="Cehennemağzı Mağaraları">
+  <data key="d4">96.21104329376985</data>
+</edge>
+<edge source="Ağlayan Ağaç" target="Hadrianapolis Antik Kenti">
+  <data key="d4">92.27152706074853</data>
+</edge>
+<edge source="Ağlayan Ağaç" target="Gökgöl Mağarası">
+  <data key="d4">57.60102304288373</data>
+</edge>
+<edge source="Ağlayan Ağaç" target="Cehennemağzı Mağaraları">
+  <data key="d4">96.16666932472945</data>
+</edge>
+<edge source="Hadrianapolis Antik Kenti" target="Gökgöl Mağarası">
+  <data key="d4">79.47314573805242</data>
+</edge>
+<edge source="Hadrianapolis Antik Kenti" target="Cehennemağzı Mağaraları">
+  <data key="d4">99.45812315677783</data>
+</edge>
+<edge source="Hadrianapolis Antik Kenti" target="Akkaya Travertenleri">
+  <data key="d4">86.60906955306069</data>
+</edge>
+<edge source="Gökgöl Mağarası" target="Cehennemağzı Mağaraları">
+  <data key="d4">39.09437683652782</data>
+</edge>
+<edge source="Gökgöl Mağarası" target="Akkaya Travertenleri">
+  <data key="d4">89.04156436938923</data>
+</edge>
+<edge source="Cehennemağzı Mağaraları" target="Akkaya Travertenleri">
+  <data key="d4">69.0690478767759</data>
+</edge>
+<edge source="Cehennemağzı Mağaraları" target="Pembe Kayalar">
+  <data key="d4">100.04798867284677</data>
+</edge>
+<edge source="Cehennemağzı Mağaraları" target="Sapanca Gölü">
+  <data key="d4">118.93494890465114</data>
+</edge>
+<edge source="Akkaya Travertenleri" target="Sapanca Gölü">
+  <data key="d4">111.008115369171</data>
+</edge>
+<edge source="Selimiye Camii" target="Edirne Sarayı">
+  <data key="d4">1.4310258437125676</data>
+</edge>
+<edge source="Selimiye Camii" target="Dupnisa Mağarası">
+  <data key="d4">84.80425974837613</data>
+</edge>
+<edge source="Selimiye Camii" target="Cehennem Şelaleleri">
+  <data key="d4">105.46749843668479</data>
+</edge>
+<edge source="Selimiye Camii" target="Güngörmez Kanara Kanyonu">
+  <data key="d4">119.81141585444735</data>
+</edge>
+<edge source="Edirne Sarayı" target="Dupnisa Mağarası">
+  <data key="d4">84.8514994030312</data>
+</edge>
+<edge source="Edirne Sarayı" target="Cehennem Şelaleleri">
+  <data key="d4">105.76197003717326</data>
+</edge>
+<edge source="Dupnisa Mağarası" target="Cehennem Şelaleleri">
+  <data key="d4">26.52176917556798</data>
+</edge>
+<edge source="Dupnisa Mağarası" target="Güngörmez Kanara Kanyonu">
+  <data key="d4">53.260368805508236</data>
+</edge>
+<edge source="Cehennem Şelaleleri" target="Güngörmez Kanara Kanyonu">
+  <data key="d4">29.01642194648321</data>
+</edge>
+<edge source="Güngörmez Kanara Kanyonu" target="Galata Kulesi">
+  <data key="d4">97.84353208470354</data>
+</edge>
+<edge source="Güngörmez Kanara Kanyonu" target="Ayasofya Camii">
+  <data key="d4">99.27984363753478</data>
+</edge>
+<edge source="Güngörmez Kanara Kanyonu" target="Yerebatan Sarnıcı">
+  <data key="d4">99.12108225164489</data>
+</edge>
+<edge source="Güngörmez Kanara Kanyonu" target="Sultanahmet Camii">
+  <data key="d4">99.22159964525197</data>
+</edge>
+<edge source="Galata Kulesi" target="Ayasofya Camii">
+  <data key="d4">1.9804719804040565</data>
+</edge>
+<edge source="Galata Kulesi" target="Yerebatan Sarnıcı">
+  <data key="d4">1.9403723620115838</data>
+</edge>
+<edge source="Galata Kulesi" target="Sultanahmet Camii">
+  <data key="d4">2.2640219939663835</data>
+</edge>
+<edge source="Galata Kulesi" target="Serindere Kanyonu">
+  <data key="d4">98.62587216955619</data>
+</edge>
+<edge source="Galata Kulesi" target="Eskihisar Kalesi">
+  <data key="d4">47.835208916006096</data>
+</edge>
+<edge source="Galata Kulesi" target="Pembe Kayalar">
+  <data key="d4">106.56684537806495</data>
+</edge>
+<edge source="Galata Kulesi" target="Sapanca Gölü">
+  <data key="d4">109.14562561800041</data>
+</edge>
+<edge source="Galata Kulesi" target="Karaca Arboretumu">
+  <data key="d4">48.36796740367948</data>
+</edge>
+<edge source="Galata Kulesi" target="Erikli Yaylası">
+  <data key="d4">48.77549300821156</data>
+</edge>
+<edge source="Galata Kulesi" target="Küreklidere Şelalesi">
+  <data key="d4">98.8060811331595</data>
+</edge>
+<edge source="Ayasofya Camii" target="Yerebatan Sarnıcı">
+  <data key="d4">0.18694334076125965</data>
+</edge>
+<edge source="Ayasofya Camii" target="Sultanahmet Camii">
+  <data key="d4">0.4402066036035995</data>
+</edge>
+<edge source="Ayasofya Camii" target="Serindere Kanyonu">
+  <data key="d4">97.34733294246104</data>
+</edge>
+<edge source="Ayasofya Camii" target="Eskihisar Kalesi">
+  <data key="d4">46.31057351311264</data>
+</edge>
+<edge source="Ayasofya Camii" target="Pembe Kayalar">
+  <data key="d4">106.41185686758618</data>
+</edge>
+<edge source="Ayasofya Camii" target="Sapanca Gölü">
+  <data key="d4">108.10048923883399</data>
+</edge>
+<edge source="Ayasofya Camii" target="Karaca Arboretumu">
+  <data key="d4">46.425265817086476</data>
+</edge>
+<edge source="Ayasofya Camii" target="Erikli Yaylası">
+  <data key="d4">46.82609577519567</data>
+</edge>
+<edge source="Ayasofya Camii" target="Küreklidere Şelalesi">
+  <data key="d4">96.82973378303325</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Sultanahmet Camii">
+  <data key="d4">0.35197016890508465</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Serindere Kanyonu">
+  <data key="d4">97.51717238413818</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Eskihisar Kalesi">
+  <data key="d4">46.46471956276972</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Pembe Kayalar">
+  <data key="d4">106.59531858801233</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Sapanca Gölü">
+  <data key="d4">108.27987169467862</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Karaca Arboretumu">
+  <data key="d4">46.50893643166355</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Erikli Yaylası">
+  <data key="d4">46.841677704490166</data>
+</edge>
+<edge source="Yerebatan Sarnıcı" target="Küreklidere Şelalesi">
+  <data key="d4">96.86655695369946</data>
+</edge>
+<edge source="Sultanahmet Camii" target="Serindere Kanyonu">
+  <data key="d4">97.46106310359194</data>
+</edge>
+<edge source="Sultanahmet Camii" target="Eskihisar Kalesi">
+  <data key="d4">46.3513898033644</data>
+</edge>
+<edge source="Sultanahmet Camii" target="Pembe Kayalar">
+  <data key="d4">106.75265371062726</data>
+</edge>
+<edge source="Sultanahmet Camii" target="Sapanca Gölü">
+  <data key="d4">108.27470044476524</data>
+</edge>
+<edge source="Sultanahmet Camii" target="Karaca Arboretumu">
+  <data key="d4">46.24835663976287</data>
+</edge>
+<edge source="Sultanahmet Camii" target="Erikli Yaylası">
+  <data key="d4">46.51172319015054</data>
+</edge>
+<edge source="Sultanahmet Camii" target="Küreklidere Şelalesi">
+  <data key="d4">96.55256946046458</data>
+</edge>
+<edge source="Serindere Kanyonu" target="Eskihisar Kalesi">
+  <data key="d4">52.309378980384466</data>
+</edge>
+<edge source="Serindere Kanyonu" target="Pembe Kayalar">
+  <data key="d4">63.22875810469043</data>
+</edge>
+<edge source="Serindere Kanyonu" target="Sapanca Gölü">
+  <data key="d4">18.416066037186205</data>
+</edge>
+<edge source="Serindere Kanyonu" target="Karaca Arboretumu">
+  <data key="d4">67.72527793143723</data>
+</edge>
+<edge source="Serindere Kanyonu" target="Erikli Yaylası">
+  <data key="d4">84.82295351756237</data>
+</edge>
+<edge source="Serindere Kanyonu" target="Küreklidere Şelalesi">
+  <data key="d4">88.10930945914424</data>
+</edge>
+<edge source="Serindere Kanyonu" target="Kömürsu Yaylası">
+  <data key="d4">89.27828424285701</data>
+</edge>
+<edge source="Eskihisar Kalesi" target="Pembe Kayalar">
+  <data key="d4">81.07370559056278</data>
+</edge>
+<edge source="Eskihisar Kalesi" target="Sapanca Gölü">
+  <data key="d4">65.70009822287732</data>
+</edge>
+<edge source="Eskihisar Kalesi" target="Karaca Arboretumu">
+  <data key="d4">23.21430286137391</data>
+</edge>
+<edge source="Eskihisar Kalesi" target="Erikli Yaylası">
+  <data key="d4">39.96031674067318</data>
+</edge>
+<edge source="Eskihisar Kalesi" target="Sadağı Kanyonu">
+  <data key="d4">109.3779445317185</data>
+</edge>
+<edge source="Eskihisar Kalesi" target="Küreklidere Şelalesi">
+  <data key="d4">71.33024513662927</data>
+</edge>
+<edge source="Eskihisar Kalesi" target="Kömürsu Yaylası">
+  <data key="d4">105.83495793896452</data>
+</edge>
+<edge source="Pembe Kayalar" target="Sapanca Gölü">
+  <data key="d4">50.919310755290276</data>
+</edge>
+<edge source="Pembe Kayalar" target="Karaca Arboretumu">
+  <data key="d4">104.18631112242119</data>
+</edge>
+<edge source="Sapanca Gölü" target="Karaca Arboretumu">
+  <data key="d4">83.75457502750155</data>
+</edge>
+<edge source="Sapanca Gölü" target="Erikli Yaylası">
+  <data key="d4">101.21683567695608</data>
+</edge>
+<edge source="Sapanca Gölü" target="Küreklidere Şelalesi">
+  <data key="d4">106.48534018941139</data>
+</edge>
+<edge source="Sapanca Gölü" target="Kömürsu Yaylası">
+  <data key="d4">103.48581340963048</data>
+</edge>
+<edge source="Karaca Arboretumu" target="Erikli Yaylası">
+  <data key="d4">17.65175141898663</data>
+</edge>
+<edge source="Karaca Arboretumu" target="Sadağı Kanyonu">
+  <data key="d4">88.85845276933166</data>
+</edge>
+<edge source="Karaca Arboretumu" target="Küreklidere Şelalesi">
+  <data key="d4">53.425288883332406</data>
+</edge>
+<edge source="Karaca Arboretumu" target="Kömürsu Yaylası">
+  <data key="d4">98.4174915199834</data>
+</edge>
+<edge source="Erikli Yaylası" target="Manyas Gölü Kuş Cenneti">
+  <data key="d4">105.55714019943076</data>
+</edge>
+<edge source="Erikli Yaylası" target="Sadağı Kanyonu">
+  <data key="d4">80.21978347555681</data>
+</edge>
+<edge source="Erikli Yaylası" target="Küreklidere Şelalesi">
+  <data key="d4">50.60795068683393</data>
+</edge>
+<edge source="Erikli Yaylası" target="Kömürsu Yaylası">
+  <data key="d4">103.55610572573373</data>
+</edge>
+<edge source="Truva Atı" target="Şehitler Abidesi">
+  <data key="d4">19.54793953890943</data>
+</edge>
+<edge source="Truva Atı" target="Şeytan Sofrası">
+  <data key="d4">97.96907425888563</data>
+</edge>
+<edge source="Truva Atı" target="Aşıklar Tepesi">
+  <data key="d4">93.15890533150737</data>
+</edge>
+<edge source="Truva Atı" target="Şahindere Kanyonu">
+  <data key="d4">69.59696077993253</data>
+</edge>
+<edge source="Şehitler Abidesi" target="Şeytan Sofrası">
+  <data key="d4">91.95224358437007</data>
+</edge>
+<edge source="Şehitler Abidesi" target="Aşıklar Tepesi">
+  <data key="d4">87.74310437007202</data>
+</edge>
+<edge source="Şehitler Abidesi" target="Şahindere Kanyonu">
+  <data key="d4">68.96136312170178</data>
+</edge>
+<edge source="Manyas Gölü Kuş Cenneti" target="Şahindere Kanyonu">
+  <data key="d4">118.2461467725572</data>
+</edge>
+<edge source="Manyas Gölü Kuş Cenneti" target="Sadağı Kanyonu">
+  <data key="d4">92.72256060859344</data>
+</edge>
+<edge source="Manyas Gölü Kuş Cenneti" target="Küreklidere Şelalesi">
+  <data key="d4">110.95198447645728</data>
+</edge>
+<edge source="Şeytan Sofrası" target="Aşıklar Tepesi">
+  <data key="d4">5.423685333115903</data>
+</edge>
+<edge source="Şeytan Sofrası" target="Şahindere Kanyonu">
+  <data key="d4">34.38396342624063</data>
+</edge>
+<edge source="Aşıklar Tepesi" target="Şahindere Kanyonu">
+  <data key="d4">28.96232361423687</data>
+</edge>
+<edge source="Sadağı Kanyonu" target="Küreklidere Şelalesi">
+  <data key="d4">40.12035136017499</data>
+</edge>
+<edge source="Sadağı Kanyonu" target="Kömürsu Yaylası">
+  <data key="d4">74.38901017543137</data>
+</edge>
+<edge source="Küreklidere Şelalesi" target="Kömürsu Yaylası">
+  <data key="d4">59.19563701022003</data>
+</edge>
+</graph></graphml>

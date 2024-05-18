@@ -1,0 +1,14 @@
+<form method="post">
+    {% csrf_token %}
+    <label for="start">Başlangıç:</label><br>
+    <input type="text" id="start" name="start"><br>
+    <label for="end1">İlk Hedef:</label><br>
+    <input type="text" id="end1" name="end1"><br>
+    <label for="end2">İkinci Hedef:</label><br>
+    <input type="text" id="end2" name="end2"><br>
+    <input type="submit" value="Hesapla">
+</form>
+
+{% if path %}
+    <p>En kısa yol: {{ path }}</p>
+{% endif %}
