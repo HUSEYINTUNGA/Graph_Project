@@ -6,30 +6,103 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
     <title>Anasayfa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        #header {
+            background: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        #form-container {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #bbb;
+            
+        }
+        label {
+            display: block;
+            margin: 5px 0;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+        input[type="submit"] {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            background: #333;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background: #444;
+            
+        }
+        #path {
+            margin-top: 20px;
+        }
+        #contact {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #bbb;
+        }
+        
+    </style>
 </head>
 <body>
-    <div >
-    <img  src="{% static '/img/bolgeler.png'%}" width='40%'>
+    <div id="header">
+        <h1>Anasayfa</h1>
+        <a href="/AboutWe" style="position: absolute; right: 10px; top: 10px;">Hakkımızda</a>
     </div>
-
-    <form method="post">
-        {% csrf_token %}
-        <label for="start">Başlangıç:</label><br>
-        <input type="text" id="start" name="start"><br>
-        <label for="end1">İlk Hedef:</label><br>
-        <input type="text" id="end1" name="end1"><br>
-        <label for="end2">İkinci Hedef:</label><br>
-        <input type="text" id="end2" name="end2"><br>
-        <input type="submit" value="Hesapla">
-    </form>
-
-    {% if path %}
-    <p>En kısa yol:</p>
-    <ul>
-    {% for node, city in path %}
-        <li>{{ node }} ({{ city }})</li>
-    {% endfor %}
-    </ul>
-    {% endif %}
+    <div class="container">
+        <img src="{% static '/img/bolgeler.png'%}" width='100%'>
+        <div id="form-container">
+            <form method="post">
+                {% csrf_token %}
+                <label for="start">Başlangıç:</label>
+                <input type="text" id="start" name="start">
+                <label for="end1">İlk Hedef:</label>
+                <input type="text" id="end1" name="end1">
+                <label for="end2">İkinci Hedef:</label>
+                <input type="text" id="end2" name="end2">
+                <input type="submit" value="Hesapla">
+            </form>
+        </div>
+        {% if path %}
+        <div id="path">
+            <h2>En kısa yol:</h2>
+            <ul>
+            {% for node, city in path %}
+                <li>{{ node }} ({{ city }})</li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+        
+        <div id="contact">
+            <h2>Bize Ulaşın</h2>
+            
+        </div>
+    
 </body>
 </html>

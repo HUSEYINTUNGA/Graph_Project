@@ -29,7 +29,7 @@ for node1 in G.nodes():
             lat1, lon1 = float(G.nodes[node1]["lat"]), float(G.nodes[node1]["lon"])
             lat2, lon2 = float(G.nodes[node2]["lat"]), float(G.nodes[node2]["lon"])
             distance = geodesic((lat1, lon1), (lat2, lon2)).kilometers
-            if distance < 200:
+            if distance < 500:
                 G.add_edge(node1, node2, weight=distance)
 
 

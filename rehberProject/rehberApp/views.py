@@ -10,8 +10,6 @@ def Anasayfa(request):
         path1 = nx.shortest_path(G, source=start, target=end1, weight='weight')
         path2 = nx.shortest_path(G, source=end1, target=end2, weight='weight')
         path_nodes = path1 + path2[1:]
-        
-       
         path = [(node, G.nodes[node]['sehir']) for node in path_nodes]
 
     return render(request, 'Anasayfa.html', {'path': path})

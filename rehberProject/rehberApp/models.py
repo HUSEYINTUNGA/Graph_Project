@@ -1,3 +1,6 @@
 from django.db import models
 
-# Create your models here.
+class InfoOfArea(models.Model):
+    name=models.CharField(max_length=200)
+    imageUrl=models.CharField(max_length=250)
+    description=models.TextField()

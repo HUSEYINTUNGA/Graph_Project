@@ -3,5 +3,5 @@ from . import views
 
 urlpatterns = [
     path('',views.Anasayfa),
-    path('aboutWe' , views.AboutWe),
+    path('AboutWe' , views.AboutWe),
 ]
