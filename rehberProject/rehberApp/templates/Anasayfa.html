@@ -1,11 +1,35 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
     <title>Anasayfa</title>
 </head>
 <body>
-    
+    <div >
+    <img  src="{% static '/img/bolgeler.png'%}" width='40%'>
+    </div>
+
+    <form method="post">
+        {% csrf_token %}
+        <label for="start">Başlangıç:</label><br>
+        <input type="text" id="start" name="start"><br>
+        <label for="end1">İlk Hedef:</label><br>
+        <input type="text" id="end1" name="end1"><br>
+        <label for="end2">İkinci Hedef:</label><br>
+        <input type="text" id="end2" name="end2"><br>
+        <input type="submit" value="Hesapla">
+    </form>
+
+    {% if path %}
+    <p>En kısa yol:</p>
+    <ul>
+    {% for node, city in path %}
+        <li>{{ node }} ({{ city }})</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
 </body>
 </html>

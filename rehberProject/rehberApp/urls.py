@@ -3,5 +3,5 @@ from . import views
 
 urlpatterns = [
     path('',views.Anasayfa),
-    path('<str:country>' , views.getProductByCountry)
+    path('aboutWe' , views.AboutWe),
 ]
