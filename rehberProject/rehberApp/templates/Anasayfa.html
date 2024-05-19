@@ -4,75 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="{% static 'css/base.css'%}"></link>
     <title>Anasayfa</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        #header {
-            background: #333;
-            color: white;
-            padding: 10px;
-            text-align: center;
-        }
-        #form-container {
-            background: #fff;
-            padding: 20px;
-            margin-top: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px #bbb;
-            
-        }
-        label {
-            display: block;
-            margin: 5px 0;
-        }
-        input[type="text"] {
-            width: 100%;
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 5px;
-            border: 1px solid #ddd;
-        }
-        input[type="submit"] {
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            color: white;
-            background: #333;
-            cursor: pointer;
-        }
-        input[type="submit"]:hover {
-            background: #444;
-            
-        }
-        #path {
-            margin-top: 20px;
-        }
-        #contact {
-            background: #fff;
-            padding: 20px;
-            margin-top: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px #bbb;
-        }
-        
-    </style>
+    <script>
+    function handleButtonClick(event) {
+        var imgAlt = event.target.previousElementSibling.alt;
+        window.location.href = '/location/' + imgAlt + '/';
+    }
+    </script>
 </head>
 <body>
     <div id="header">
         <h1>Anasayfa</h1>
-        <a href="/AboutWe" style="position: absolute; right: 10px; top: 10px;">Hakkımızda</a>
+        <a id='about' href="/AboutWe" style="position: absolute; right: 10px; top: 10px;">Hakkımızda</a>
     </div>
+    <div class="location-list">
+        {% for area in areas %}
+        <div class="location-item">
+            <img src="{{ area.imageUrl }}" alt="{{ area.name }}">
+            <h2>{{ area.name }}</h2>
+            <button onclick="handleButtonClick(event)">Detayları Gör</button>
+        </div>
+        {% endfor %}
+    </div>
+
     <div class="container">
         <img src="{% static '/img/bolgeler.png'%}" width='100%'>
         <div id="form-container">
@@ -99,10 +55,24 @@
         {% endif %}
     </div>
         
-        <div id="contact">
-            <h2>Bize Ulaşın</h2>
-            
-        </div>
+    <div id="contact">
+        <h2>Bize Ulaşın</h2>
+        <a href="mailto:tunga@gmail.com">
+            <img src="{% static 'img/mail.png' %}" alt="Mail" style="width: 32px; height: 32px;">
+        </a>
+        <a href="https://www.instagram.com/huseyn_tng/" target="_blank">
+            <img src="{% static 'img/instagram.png' %}" alt="Instagram" style="width: 32px; height: 32px;">
+        </a>
+        <a href="https://www.linkedin.com/in/h%C3%BCseyin-tunga-248177252/" target="_blank">
+            <img src="{% static 'img/linkedin.png' %}" alt="LinkedIn" style="width: 32px; height: 32px;">
+        </a>
+        <a href="https://github.com/HUSEYINTUNGA" target="_blank">
+            <img src="{% static 'img/github.png' %}" alt="GitHub" style="width: 32px; height: 32px;">
+        </a>
+        {% comment %} <a href="#" target="_blank">
+            <img src="{% static 'img/tunga.jpg' %}" alt="Hüseyin TUNGA" style="width: 32px; height: 32px;">
+        </a> {% endcomment %}
+    </div>
     
 </body>
 </html>
