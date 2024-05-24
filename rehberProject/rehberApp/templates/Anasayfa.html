@@ -5,12 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="{% static 'css/base.css'%}"></link>
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
     <title>Anasayfa</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
     <script>
-    function handleButtonClick(event) {
-        var imgAlt = event.target.previousElementSibling.alt;
-        window.location.href = '/location/' + imgAlt + '/';
+    function handleButtonClick(name) {
+        window.location.href = '/location/' + name;
     }
     </script>
 </head>
@@ -19,18 +23,35 @@
         <h1>Anasayfa</h1>
         <a id='about' href="/AboutWe" style="position: absolute; right: 10px; top: 10px;">Hakkımızda</a>
     </div>
-    <div class="location-list">
-        {% for area in areas %}
-        <div class="location-item">
-            <img src="{{ area.imageUrl }}" alt="{{ area.name }}">
-            <h2>{{ area.name }}</h2>
-            <button onclick="handleButtonClick(event)">Detayları Gör</button>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          {% for area in locations %}
+          <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.counter0 }}" class="{% if forloop.first %}active{% endif %}"></li>
+          {% endfor %}
+        </ol>
+        <div class="carousel-inner">
+          {% for area in locations %}
+          <div class="carousel-item {% if forloop.first %}active{% endif %}">
+            <img class="d-block w-100" src="{{ area.imageUrl }}" alt="{{ area.name }}">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>{{ area.name }}</h5>
+              <button onclick="handleButtonClick('{{ area.name }}')">Detayları Gör</button>
+            </div>
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
     </div>
 
     <div class="container">
-        <img src="{% static '/img/bolgeler.png'%}" width='100%'>
+        <img src="{% static 'img/bolgeler.png' %}" width='100%'>
         <div id="form-container">
             <form method="post">
                 {% csrf_token %}
@@ -57,21 +78,18 @@
         
     <div id="contact">
         <h2>Bize Ulaşın</h2>
-        <a href="mailto:tunga@gmail.com">
+        <a href="#">
             <img src="{% static 'img/mail.png' %}" alt="Mail" style="width: 32px; height: 32px;">
         </a>
-        <a href="https://www.instagram.com/huseyn_tng/" target="_blank">
+        <a href="#" >
             <img src="{% static 'img/instagram.png' %}" alt="Instagram" style="width: 32px; height: 32px;">
         </a>
-        <a href="https://www.linkedin.com/in/h%C3%BCseyin-tunga-248177252/" target="_blank">
+        <a href="#" >
             <img src="{% static 'img/linkedin.png' %}" alt="LinkedIn" style="width: 32px; height: 32px;">
         </a>
-        <a href="https://github.com/HUSEYINTUNGA" target="_blank">
+        <a href="https://github.com/HUSEYINTUNGA/Graph_Project" target="_blank">
             <img src="{% static 'img/github.png' %}" alt="GitHub" style="width: 32px; height: 32px;">
         </a>
-        {% comment %} <a href="#" target="_blank">
-            <img src="{% static 'img/tunga.jpg' %}" alt="Hüseyin TUNGA" style="width: 32px; height: 32px;">
-        </a> {% endcomment %}
     </div>
     
 </body>

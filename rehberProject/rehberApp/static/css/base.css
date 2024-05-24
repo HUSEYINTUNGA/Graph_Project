@@ -100,3 +100,8 @@ input[type="submit"]:hover {
 .location-item button:hover {
     background: #444;
 }
+.carousel-item img {
+    width: 500px;
+    height: 300px;
+    object-fit: cover; 
+}
