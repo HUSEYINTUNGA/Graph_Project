@@ -80,4 +80,13 @@ body {
     height: 60px;
     margin-right: 10px;
 }
+#path, #oneriler {
+    margin-bottom: 20px;
+}
+
+
+
+#contact a {
+    margin: 0 10px;
+}
 

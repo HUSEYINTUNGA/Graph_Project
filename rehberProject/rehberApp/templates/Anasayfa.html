@@ -1,17 +1,16 @@
-{% load static %}
+{% load static%}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="{% static 'css/base.css' %}">
     <title>Anasayfa</title>
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
     <script>
     function handleButtonClick(name) {
         window.location.href = '/location/' + name;
@@ -19,40 +18,46 @@
     </script>
 </head>
 <body>
-    <div id="header">
-        <h1>ANASAYFA</h1>
-        <a id='about' href="/AboutWe" style="position: absolute; right: 10px; top: 10px;">Hakkımızda</a>
-    </div>
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-        {% for area in locations %}
-        <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.counter0 }}" class="{% if forloop.first %}active{% endif %}"></li>
-        {% endfor %}
-        </ol>
-        <div class="carousel-inner">
-        {% for area in locations %}
-        <div class="carousel-item {% if forloop.first %}active{% endif %}">
-            <img class="d-block w-100" src="{{ area.imageUrl }}" alt="{{ area.name }}">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>{{ area.name }}</h5>
-            <button onclick="handleButtonClick('{{ area.name }}')">Detayları Gör</button>
-            </div>
-        </div>
-        {% endfor %}
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-        </a>
-    </div>
 
-    <div class="container">
-        <img src="{% static 'img/bolgeler.png' %}" width='100%'>
-        <div id="form-container">
+    <header id="header">
+        <h1>ANASAYFA</h1>
+        <nav>
+            <a id='about' href="/AboutWe">Hakkımızda</a>
+        </nav>
+    </header>
+
+    <section id="carousel">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+            {% for area in locations %}
+            <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.counter0 }}" class="{% if forloop.first %}active{% endif %}"></li>
+            {% endfor %}
+            </ol>
+            <div class="carousel-inner">
+            {% for area in locations %}
+            <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                <img class="d-block w-100" src="{{ area.imageUrl }}" alt="{{ area.name }}">
+                <div class="carousel-caption d-none d-md-block">
+                <h5>{{ area.name }}</h5>
+                <button onclick="handleButtonClick('{{ area.name }}')">Detayları Gör</button>
+                </div>
+            </div>
+            {% endfor %}
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </section>
+
+    <section id="form-container">
+        <div class="container">
+            <img src="{% static 'img/bolgeler.png' %}" width='100%'>
             <form method="post">
                 {% csrf_token %}
                 <label for="start">Seyahate başlayacağınız şehir ismi:</label>
@@ -66,8 +71,11 @@
                 <input type="submit" value="Hesapla">
             </form>
         </div>
+    </section>
+
+    <section id="path">
         {% if path %}
-        <div id="path">
+        <div>
             <h2>En kısa yol:</h2>
             <ul>
             {% for node, city,length in path %}
@@ -79,21 +87,21 @@
         </div>
         {% endif %}
         <ul>Bu rotasyonun uzunluğu: {{shortest_length}} km</ul>
+    </section>
 
-        
-        <div id="oneriler">
-            <h2>Öneriler:</h2>
+    <section id="oneriler">
+        <div>
+            <h2>Öneriler: Belki buraları da ziyaret etmek istersiniz</h2>
             <ul>
-            {% for ad,city in oneriler %}
+            {% for ad,city,image in oneriler %}
                 <li>{{ ad }} ({{ city }})</li>
+                <img src="{{ image }}" alt="{{ ad }}" style="width: 25%; height: 25%;"></img>
             {% endfor %}
-            <ul>Belki buraları da ziyaret etmek istersiniz</ul>
             </ul>
         </div>
-        
+    </section>
 
-    </div>   
-    <div id="contact">
+    <footer id="contact">
         <h2>Bize Ulaşın</h2>
         <a href="#">
             <img src="{% static 'img/mail.png' %}" alt="Mail" style="width: 32px; height: 32px;">
@@ -107,6 +115,6 @@
         <a href="https://github.com/HUSEYINTUNGA/Graph_Project" target="_blank">
             <img src="{% static 'img/github.png' %}" alt="GitHub" style="width: 32px; height: 32px;">
         </a>
-    </div>
+    </footer>
 </body>
 </html>

@@ -18,6 +18,7 @@ mycursorTwo.execute("SELECT * FROM sehirler")
 cities=mycursorTwo.fetchall()
 
 G = nx.Graph()
+G_kategori=nx.Graph()
 
 kategori_renkleri = {
     'Tarihi Yapı': 'yellow',

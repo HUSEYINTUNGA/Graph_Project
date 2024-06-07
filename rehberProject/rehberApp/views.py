@@ -49,7 +49,16 @@ def Anasayfa(request):
             sehirler.append(sehir)
             
         for sehir in sehirler:
-            onerilen_alanlar = [(node, data.get('sehir')) for node, data in G.nodes(data=True) if data.get('sehir') == sehir[1] and data.get('kategori')!='Şehir']
+            onerilen_alanlar = []
+            for node, data in G.nodes(data=True):
+                if data.get('sehir') == sehir[1] and data.get('kategori')!='Şehir':
+                    
+                    info_of_area = InfoOfArea.objects.filter(name=node).first()
+                    if info_of_area:
+                        image_url = info_of_area.imageUrl
+                    else:
+                        image_url = None
+                    onerilen_alanlar.append((node, data.get('sehir'), image_url))
             oneriler.extend(onerilen_alanlar)
     
     print('Oneriler ',oneriler)
