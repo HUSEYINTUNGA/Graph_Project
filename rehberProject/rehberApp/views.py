@@ -1,21 +1,64 @@
+from itertools import permutations
 from django.shortcuts import render
 import networkx as nx
-from .models import InfoOfArea 
+from geopy.distance import geodesic
+from .models import InfoOfArea
+
+
 def Anasayfa(request):
+    areas = InfoOfArea.objects.all()
     path = None
-    areas = InfoOfArea.objects.all()  
-
+    oneriler=[]
+    shortest_length = float('inf')
+    sehirler=[]
     if request.method == 'POST':
-        G = nx.read_graphml("rehberApp\\graph.graphml")
-        start = request.POST.get('start')
-        end1 = request.POST.get('end1')
-        end2 = request.POST.get('end2')
-        path1 = nx.shortest_path(G, source=start, target=end1, weight='weight')
-        path2 = nx.shortest_path(G, source=end1, target=end2, weight='weight')
-        path_nodes = path1 + path2[1:]
-        path = [(node, G.nodes[node]['sehir']) for node in path_nodes]
+        G = nx.read_graphml("rehberApp/graph.graphml")
+        if not G:
+            return render(request, 'Anasayfa.html', {'error': 'Error reading graph data', 'locations': areas})
 
-    return render(request, 'Anasayfa.html', {'path': path, 'locations': areas})
+        city = request.POST.get('city')
+        area1 = request.POST.get('area1')
+        area2 = request.POST.get('area2')
+        area3 = request.POST.get('area3')
+        selected_areas = [city, area1, area2, area3, city]
+        
+        shortest_path = None
+        
+        for perm in permutations(selected_areas[1:-1]):
+            temp_path = [selected_areas[0]] + list(perm) + [selected_areas[0]]
+            temp_length = 0
+            temp_path_with_cities = []
+            for i in range(len(temp_path) - 1):
+                try:
+                    path = nx.shortest_path(G,temp_path[i], temp_path[i + 1], weight='weight')
+                    length = sum(G.edges[path[i], path[i + 1]]['weight'] for i in range(len(path) - 1))
+                    temp_length += length
+                    
+                    city = G.nodes[temp_path[i]].get('sehir', 'Bilgi yok')
+                    temp_path_with_cities.append((temp_path[i], city, length))
+                except nx.NetworkXNoPath:
+                    break
+            else:
+                if temp_length < shortest_length:
+                    shortest_length = temp_length
+                    shortest_path = temp_path_with_cities
+            path=shortest_path
+            
+    if path is not None:
+        for sehir in path[1:4]:
+            sehirler.append(sehir)
+            
+        for sehir in sehirler:
+            onerilen_alanlar = [(node, data.get('sehir')) for node, data in G.nodes(data=True) if data.get('sehir') == sehir[1] and data.get('kategori')!='Şehir']
+            oneriler.extend(onerilen_alanlar)
+    
+    print('Oneriler ',oneriler)
+
+
+    return render(request, 'Anasayfa.html', {'path': path, 'shortest_length':shortest_length,'locations': areas,'oneriler':oneriler})
+
+        
+        
 
 def AboutWe(request):
     return render(request,'AboutWe.html')
@@ -23,6 +66,7 @@ def AboutWe(request):
 def location(request, location_name):
     location = InfoOfArea.objects.get(name=location_name)  
     return render(request, 'Location.html', {'location': location})
+
 
 
 
