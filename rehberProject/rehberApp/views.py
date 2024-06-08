@@ -1,7 +1,6 @@
 from itertools import permutations
 from django.shortcuts import render
 import networkx as nx
-from geopy.distance import geodesic
 from .models import InfoOfArea
 
 
@@ -61,7 +60,7 @@ def Anasayfa(request):
                     onerilen_alanlar.append((node, data.get('sehir'), image_url))
             oneriler.extend(onerilen_alanlar)
     
-    print('Oneriler ',oneriler)
+    
 
 
     return render(request, 'Anasayfa.html', {'path': path, 'shortest_length':shortest_length,'locations': areas,'oneriler':oneriler})
