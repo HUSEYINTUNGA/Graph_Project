@@ -105,7 +105,24 @@
             margin: 0 10px;
         }
         
-        #path, #oneriler {
+        #path{
+            background-color: white;
+            padding: 20px;
+            margin: 20px auto;
+            width: 60%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        #path h2{
+            font-size: 3em;
+            font-weight: bold;
+            text-align:center;
+        }
+        #path p{
+            font-size: 1em;
+            text-align:center;
+        }
+        #oneriler {
             background-color: white;
             padding: 20px;
             margin: 20px auto;
@@ -127,12 +144,18 @@
             margin: 1%;
             box-sizing: border-box;
         }
+        .oneri-item img{
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
         #mapid { 
             height: 400px; 
             width: 70%; 
             margin: auto;  
             margin-top: 20px;
         }
+        
 
     </style>
     <script>
@@ -271,14 +294,14 @@
             <h2>En kısa yol:</h2>
             <ul>
             {% for node, city,length in path %}
-                <li>{{ node }} ({{ city}})</li>
-                <li>Uzaklık: {{length}} km</li>
+                <p style="font-weight: bold">{{ node }} ({{ city}})</p>
+                <p>Uzaklık: {{length}} km</p>
             {% endfor %}
-            <li>{{ path.0.0 }} ({{ path.0.1}})</li>
+            <p style="font-weight: bold">{{ path.0.0 }} ({{ path.0.1}})</p>
             </ul>
         </div>
         {% endif %}
-        <ul>Bu rotasyonun uzunluğu: {{shortest_length}} km</ul>
+        <ul style="font-style: italic">Bu rotasyonun uzunluğu: {{shortest_length}} km</ul>
     </section>
 
     <section id="oneriler">
@@ -286,14 +309,15 @@
             <h2>Öneriler: Belki buraları da ziyaret etmek istersiniz</h2>
             <div class="oneri-listesi">
             {% for ad,city,image in oneriler %}
-                <div class="oneri-item">
+                <div class="oneri-item" >
                     <p>{{ ad }} ({{ city }})</p>
-                    <img src="{{ image }}" alt="{{ ad }}" style="width: 100%;"></img>
+                    <img src="{{ image }}" alt="{{ ad }}"></img>
                 </div>
             {% endfor %}
             </div>
         </div>
     </section>
+    
 
     <footer id="contact">
         <h2>Bize Ulaşın</h2>
