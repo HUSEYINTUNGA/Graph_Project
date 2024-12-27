@@ -73,7 +73,7 @@ def Anasayfa(request):
     database="turistikbolgeler"
     )
     info= mydb.cursor()
-    info.execute("SELECT * FROM bolgeler ")
+    info.execute("SELECT * FROM bolgeler ") 
     rows = info.fetchall()
 
     result_list = []
@@ -98,7 +98,3 @@ def AboutWe(request):
 def location(request, location_name):
     location = InfoOfArea.objects.get(name=location_name)  
     return render(request, 'Location.html', {'location': location})
-
-
-
-
